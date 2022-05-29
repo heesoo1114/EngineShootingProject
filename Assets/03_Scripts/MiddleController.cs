@@ -18,11 +18,11 @@ public class MiddleController : MonoBehaviour
     void Update()
     {
         
-        if(Input.GetKey(KeyCode.N))
+        if(Input.GetKey(KeyCode.M))
         {
             transform.Rotate(0,0, -angle);
         }
-        else if(Input.GetKey(KeyCode.M))
+        else if(Input.GetKey(KeyCode.N))
         {
             transform.Rotate(0,0, +angle);
         }

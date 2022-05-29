@@ -14,6 +14,7 @@ public class BulletMove : MonoBehaviour
     {
         GameObject target = GameObject.Find("Star");
         dir = target.transform.position - transform.position;
+        transform.rotation = target.transform.rotation;
     }
 
     // Update is called once per frame
@@ -23,5 +24,14 @@ public class BulletMove : MonoBehaviour
         transform.position += dir * bulletSpeed * Time.deltaTime;
         dir.Normalize();
 
+
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 7)
+        {
+            Destroy(gameObject);
+        }
     }
 }
