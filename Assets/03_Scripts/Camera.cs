@@ -14,7 +14,7 @@ public class Camera : MonoBehaviour
     void Update()
     {
         Vector2 dir = player.transform.position - this.transform.position;
-        dir += new Vector2(0, 5f);
+        dir += new Vector2(0, 6.5f);
         Vector2 moveVector = new Vector2(dir.x * cameraSpeed * Time.deltaTime, dir.y * cameraSpeed * Time.deltaTime);
         this.transform.Translate(moveVector);
     }

@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    
+    public StageData StageData;
+    
     public LayerMask groundLayerMask;
     public float speed = 5f;
 
@@ -27,6 +30,9 @@ public class PlayerMove : MonoBehaviour
     {
         Move();
 
+        
+        
+
 
 
         // 좌우반전
@@ -49,6 +55,13 @@ public class PlayerMove : MonoBehaviour
         {
             anim.SetBool("isWalking", false);
         }
+    }
+
+    private void LateUpdate()
+    {
+        // 이동제한
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, StageData.LimitMin.x, StageData.LimitMax.x),
+                                         Mathf.Clamp(transform.position.y, StageData.LimitMin.y, StageData.LimitMax.y));
     }
 
     private void Move()
