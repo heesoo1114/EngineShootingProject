@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Target: {fileID: 1138776977}
-  angle: 1
+  angle: 0.9
 --- !u!1 &1517251078
 GameObject:
   m_ObjectHideFlags: 0
