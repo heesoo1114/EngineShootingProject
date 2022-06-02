@@ -1,0 +1,111 @@
+
+ui_eggshop.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 1354, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+common/cx1
+  rotate: false
+  xy: 451, 57
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+common/cx7
+  rotate: false
+  xy: 647, 57
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+common/light
+  rotate: false
+  xy: 1021, 96
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+firework1
+  rotate: false
+  xy: 843, 90
+  size: 176, 164
+  orig: 176, 164
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 1183, 2
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+pet1
+  rotate: false
+  xy: 233, 86
+  size: 205, 70
+  orig: 205, 70
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: true
+  xy: 1354, 214
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 2, 40
+  size: 229, 116
+  orig: 229, 116
+  offset: 0, 0
+  index: -1
+sparkle1
+  rotate: false
+  xy: 233, 40
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ui_deco_simpleline
+  rotate: false
+  xy: 451, 253
+  size: 316, 1
+  orig: 316, 1
+  offset: 0, 0
+  index: -1
+ui_egg1
+  rotate: false
+  xy: 1456, 120
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+ui_egg2
+  rotate: false
+  xy: 1021, 2
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+ui_egg3
+  rotate: true
+  xy: 1183, 126
+  size: 128, 169
+  orig: 128, 169
+  offset: 0, 0
+  index: -1
+ui_egg4
+  rotate: false
+  xy: 2, 158
+  size: 447, 96
+  orig: 447, 96
+  offset: 0, 0
+  index: -1

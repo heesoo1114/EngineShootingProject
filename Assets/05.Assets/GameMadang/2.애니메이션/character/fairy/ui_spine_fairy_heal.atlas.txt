@@ -1,0 +1,111 @@
+
+ui_spine_fairy_heal.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: true
+  xy: 83, 20
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+heal/1
+  rotate: true
+  xy: 83, 72
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+heal/10
+  rotate: false
+  xy: 103, 7
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+heal/11
+  rotate: false
+  xy: 38, 4
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+heal/12
+  rotate: false
+  xy: 2, 4
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+heal/13
+  rotate: true
+  xy: 70, 24
+  size: 20, 2
+  orig: 20, 2
+  offset: 0, 0
+  index: -1
+heal/2
+  rotate: true
+  xy: 2, 29
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+heal/3
+  rotate: true
+  xy: 2, 14
+  size: 13, 45
+  orig: 13, 45
+  offset: 0, 0
+  index: -1
+heal/4
+  rotate: false
+  xy: 131, 75
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+heal/5
+  rotate: true
+  xy: 23, 3
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+heal/6
+  rotate: false
+  xy: 147, 113
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+heal/7
+  rotate: false
+  xy: 131, 99
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+heal/8
+  rotate: true
+  xy: 70, 5
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+heal/9
+  rotate: true
+  xy: 49, 2
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 46
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

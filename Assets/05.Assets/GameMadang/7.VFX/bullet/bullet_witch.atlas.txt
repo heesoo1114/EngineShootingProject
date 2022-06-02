@@ -1,0 +1,97 @@
+
+bullet_witch.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magic/10
+  rotate: false
+  xy: 1199, 2
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+magic/7
+  rotate: false
+  xy: 2, 7
+  size: 169, 145
+  orig: 169, 145
+  offset: 0, 0
+  index: -1
+magic/8
+  rotate: false
+  xy: 336, 19
+  size: 163, 133
+  orig: 169, 145
+  offset: 3, 6
+  index: -1
+magic/9
+  rotate: false
+  xy: 173, 7
+  size: 161, 145
+  orig: 169, 145
+  offset: 4, 0
+  index: -1
+magic/c1
+  rotate: false
+  xy: 727, 58
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+magic/c2
+  rotate: false
+  xy: 823, 59
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+magic/c3
+  rotate: false
+  xy: 1199, 61
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+magic/c4
+  rotate: true
+  xy: 1106, 60
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+magic/c5
+  rotate: false
+  xy: 918, 60
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+magic/c6
+  rotate: false
+  xy: 1012, 60
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+magic/eff3
+  rotate: false
+  xy: 1292, 84
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+magic/smoke1
+  rotate: true
+  xy: 501, 4
+  size: 148, 113
+  orig: 148, 113
+  offset: 0, 0
+  index: -1
+magic/smoke2
+  rotate: true
+  xy: 616, 34
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1

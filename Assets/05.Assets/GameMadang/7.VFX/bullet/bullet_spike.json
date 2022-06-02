@@ -1,0 +1,342 @@
+{
+"skeleton": {
+	"hash": "xHBiTRMS6akJsn2qgyV9BshP3Xg",
+	"spine": "3.8.79",
+	"x": -60.19,
+	"y": -24.96,
+	"width": 164.34,
+	"height": 72.75,
+	"images": "./digger_original/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.8, "scaleY": 0.8, "color": "00019bff" },
+	{
+		"name": "shot",
+		"parent": "root",
+		"length": 46.08,
+		"rotation": -0.45,
+		"x": -1.46,
+		"y": -1.61,
+		"scaleX": 1.0556,
+		"scaleY": 1.0556,
+		"color": "9b1f1dff"
+	},
+	{ "name": "front_effect", "parent": "shot", "x": 58.89, "y": 1.97, "color": "9b1f1dff" },
+	{ "name": "shine", "parent": "shot", "x": -45.11, "y": 1.19, "color": "9b1f1dff" },
+	{ "name": "spine_object1", "parent": "shot", "x": 78.84, "y": 2.12, "color": "9b1f1dff" }
+],
+"slots": [
+	{ "name": "attack3", "bone": "shot", "attachment": "attack" },
+	{ "name": "attack2", "bone": "shot", "attachment": "attack" },
+	{ "name": "skill_3", "bone": "root", "attachment": "skill_3" },
+	{ "name": "skill_3_z", "bone": "root", "attachment": "skill_3_z", "blend": "additive" },
+	{ "name": "bullet_spike_effect/shine1", "bone": "shine", "color": "ffffff79", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b1", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b2", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b3", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b4", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b5", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" },
+	{ "name": "bullet_spike_effect/b6", "bone": "front_effect", "color": "ffffff7e", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bullet_spike_effect/b1": {
+				"bullet_spike_effect/b1": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/b2": {
+				"bullet_spike_effect/b2": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/b3": {
+				"bullet_spike_effect/b3": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/b4": {
+				"bullet_spike_effect/b4": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/b5": {
+				"bullet_spike_effect/b5": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/b6": {
+				"bullet_spike_effect/b6": { "scaleX": 0.9473, "scaleY": 0.9473, "rotation": 0.45, "width": 121, "height": 117 }
+			},
+			"bullet_spike_effect/shine1": {
+				"bullet_spike_effect/shine1": {
+					"x": -12.08,
+					"y": -0.09,
+					"scaleX": 0.9473,
+					"scaleY": 0.9473,
+					"rotation": 90,
+					"width": 38,
+					"height": 100
+				}
+			},
+			"skill_3": {
+				"skill_3": {
+					"type": "boundingbox",
+					"vertexCount": 4,
+					"vertices": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+				}
+			},
+			"skill_3_z": {
+				"skill_3_z": {
+					"type": "boundingbox",
+					"vertexCount": 4,
+					"vertices": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+				}
+			}
+		}
+	},
+	{
+		"name": "monster_digger_original",
+		"attachments": {
+			"attack2": {
+				"attack": { "x": 27.3, "y": 15.25, "scaleY": 1.3652, "rotation": -82.97, "width": 65, "height": 138 }
+			},
+			"attack3": {
+				"attack": {
+					"x": 17.9,
+					"y": 21.93,
+					"scaleX": 0.864,
+					"scaleY": 0.8026,
+					"rotation": -82.36,
+					"width": 65,
+					"height": 138
+				}
+			}
+		}
+	},
+	{
+		"name": "monster_digger_skin1",
+		"attachments": {
+			"attack2": {
+				"attack": {
+					"name": "digger_skin1/attack",
+					"x": 27.3,
+					"y": 15.25,
+					"scaleY": 1.3652,
+					"rotation": -82.97,
+					"width": 100,
+					"height": 157
+				}
+			},
+			"attack3": {
+				"attack": {
+					"name": "digger_skin1/attack",
+					"x": 17.9,
+					"y": 21.93,
+					"scaleX": 0.864,
+					"scaleY": 0.8026,
+					"rotation": -82.36,
+					"width": 100,
+					"height": 157
+				}
+			}
+		}
+	}
+],
+"events": {
+	"hitcheck": {},
+	"move_speed": {},
+	"operation_float": {},
+	"operation_float_air": {},
+	"operation_hold": {},
+	"operation_knockback": {},
+	"spine_object1": {}
+},
+"animations": {
+	"bullet_spike": {
+		"slots": {
+			"attack2": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "attack" }
+				]
+			},
+			"attack3": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "attack" }
+				]
+			},
+			"bullet_spike_effect/b1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "bullet_spike_effect/b1" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": "bullet_spike_effect/b1" }
+				]
+			},
+			"bullet_spike_effect/b2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": "bullet_spike_effect/b2" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": "bullet_spike_effect/b2" }
+				]
+			},
+			"bullet_spike_effect/b3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "bullet_spike_effect/b3" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "bullet_spike_effect/b3" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": "bullet_spike_effect/b3" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"bullet_spike_effect/b4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "bullet_spike_effect/b4" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "bullet_spike_effect/b4" },
+					{ "time": 0.2667, "name": null },
+					{ "time": 0.3333, "name": "bullet_spike_effect/b4" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"bullet_spike_effect/b5": {
+				"attachment": [
+					{ "name": "bullet_spike_effect/b5" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2667, "name": "bullet_spike_effect/b5" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"bullet_spike_effect/b6": {
+				"attachment": [
+					{ "name": "bullet_spike_effect/b6" },
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2667, "name": "bullet_spike_effect/b6" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"bullet_spike_effect/shine1": {
+				"attachment": [
+					{ "name": "bullet_spike_effect/shine1" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				]
+			},
+			"shine": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{ "x": 2.198 },
+					{ "time": 0.2333, "x": 2.888 },
+					{ "time": 0.4333, "x": 2.198 }
+				]
+			},
+			"front_effect": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{},
+					{ "time": 0.2, "x": 6.95, "y": 0.05 },
+					{ "time": 0.4333 }
+				],
+				"scale": [
+					{ "x": 1.274, "y": 1.274 },
+					{ "time": 0.2, "x": 1.54, "y": 1.54 },
+					{ "time": 0.4333, "x": 1.274, "y": 1.274 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "move_speed", "int": 25 },
+			{ "time": 0.0333, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.0333, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.0333, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.0667, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.1, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.1333, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.1333, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.1333, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.1667, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.2, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.2, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.2, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.2333, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.2667, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.2667, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.2667, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.3, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.3333, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.3333, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.3333, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.3667, "name": "hitcheck", "float": 1, "string": "skill_3\n" },
+			{ "time": 0.4, "name": "operation_float_air", "int": 30, "float": 45 },
+			{ "time": 0.4, "name": "operation_hold", "float": 0.5 },
+			{ "time": 0.4, "name": "operation_knockback", "int": 18 },
+			{ "time": 0.4333, "name": "hitcheck", "float": 1, "string": "skill_3\n" }
+		]
+	},
+	"impact": {
+		"slots": {
+			"attack2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"attack3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"spine_object1": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.0667 }
+				],
+				"scale": [
+					{}
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "move_speed", "int": 25 },
+			{ "time": 0.0333, "name": "spine_object1", "int": 20, "string": "bullethit\n" }
+		]
+	}
+}
+}

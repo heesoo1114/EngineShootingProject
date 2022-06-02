@@ -1,0 +1,181 @@
+
+skill_lightning.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/cb1
+  rotate: false
+  xy: 205, 209
+  size: 193, 193
+  orig: 194, 194
+  offset: 1, 0
+  index: -1
+common/cb2
+  rotate: false
+  xy: 1336, 220
+  size: 182, 182
+  orig: 194, 194
+  offset: 6, 6
+  index: -1
+common/cb3
+  rotate: false
+  xy: 966, 219
+  size: 183, 183
+  orig: 194, 194
+  offset: 6, 5
+  index: -1
+common/cb4
+  rotate: false
+  xy: 592, 217
+  size: 185, 185
+  orig: 194, 194
+  offset: 5, 4
+  index: -1
+common/cb5
+  rotate: false
+  xy: 1151, 219
+  size: 183, 183
+  orig: 194, 194
+  offset: 6, 5
+  index: -1
+common/cb6
+  rotate: false
+  xy: 779, 217
+  size: 185, 185
+  orig: 194, 194
+  offset: 5, 4
+  index: -1
+common/cb7
+  rotate: false
+  xy: 1520, 221
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+frost/2
+  rotate: false
+  xy: 239, 33
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+light/3
+  rotate: false
+  xy: 464, 26
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+stun/1
+  rotate: false
+  xy: 1336, 144
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/11
+  rotate: false
+  xy: 1703, 225
+  size: 169, 177
+  orig: 176, 177
+  offset: 4, 0
+  index: -1
+stun/12
+  rotate: false
+  xy: 2, 203
+  size: 201, 199
+  orig: 201, 199
+  offset: 0, 0
+  index: -1
+stun/13
+  rotate: false
+  xy: 2, 7
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+stun/14
+  rotate: false
+  xy: 123, 12
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+stun/17
+  rotate: true
+  xy: 945, 2
+  size: 64, 194
+  orig: 64, 194
+  offset: 0, 0
+  index: -1
+stun/18
+  rotate: true
+  xy: 1141, 2
+  size: 64, 187
+  orig: 64, 187
+  offset: 0, 0
+  index: -1
+stun/19
+  rotate: true
+  xy: 332, 15
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+stun/2
+  rotate: false
+  xy: 592, 141
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/3
+  rotate: false
+  xy: 2, 127
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/4
+  rotate: false
+  xy: 981, 68
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/5
+  rotate: false
+  xy: 1370, 68
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/6
+  rotate: false
+  xy: 391, 65
+  size: 387, 74
+  orig: 387, 74
+  offset: 0, 0
+  index: -1
+stun/7
+  rotate: false
+  xy: 400, 211
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+stun/8
+  rotate: false
+  xy: 780, 6
+  size: 163, 133
+  orig: 163, 133
+  offset: 0, 0
+  index: -1
+stun/9
+  rotate: false
+  xy: 1759, 72
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1

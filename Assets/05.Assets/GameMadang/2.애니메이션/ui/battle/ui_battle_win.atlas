@@ -1,0 +1,41 @@
+
+ui_battle_win.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 104
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 373, 281
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+shine1
+  rotate: false
+  xy: 2, 2
+  size: 38, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1
+sparkle1
+  rotate: false
+  xy: 129, 182
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ui_battle_win
+  rotate: false
+  xy: 2, 228
+  size: 369, 253
+  orig: 369, 253
+  offset: 0, 0
+  index: -1

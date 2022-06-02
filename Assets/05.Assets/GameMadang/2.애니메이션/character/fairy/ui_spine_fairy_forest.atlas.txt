@@ -1,0 +1,90 @@
+
+ui_spine_fairy_forest.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+forest/1
+  rotate: true
+  xy: 83, 70
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+forest/10
+  rotate: false
+  xy: 28, 3
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+forest/2
+  rotate: true
+  xy: 2, 2
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+forest/3
+  rotate: false
+  xy: 28, 13
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+forest/4
+  rotate: true
+  xy: 55, 13
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+forest/5
+  rotate: false
+  xy: 132, 39
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+forest/6
+  rotate: false
+  xy: 132, 14
+  size: 15, 23
+  orig: 15, 24
+  offset: 0, 1
+  index: -1
+forest/7
+  rotate: false
+  xy: 97, 3
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+forest/8
+  rotate: true
+  xy: 75, 4
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+forest/9
+  rotate: false
+  xy: 75, 36
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 83, 18
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: true
+  xy: 2, 46
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

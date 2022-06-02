@@ -1,0 +1,209 @@
+
+monster_pavise_b.png
+size: 256,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: false
+  xy: 138, 552
+  size: 80, 97
+  orig: 84, 99
+  offset: 0, 1
+  index: -1
+armpart_hand_a
+  rotate: true
+  xy: 75, 185
+  size: 67, 71
+  orig: 70, 76
+  offset: 3, 4
+  index: -1
+armpart_hand_b
+  rotate: false
+  xy: 190, 1015
+  size: 39, 72
+  orig: 52, 77
+  offset: 6, 1
+  index: -1
+armpart_up_a
+  rotate: true
+  xy: 148, 191
+  size: 61, 77
+  orig: 66, 80
+  offset: 3, 1
+  index: -1
+belt
+  rotate: true
+  xy: 109, 40
+  size: 36, 68
+  orig: 38, 69
+  offset: 2, 0
+  index: -1
+bodypart_chest_a
+  rotate: true
+  xy: 2, 558
+  size: 127, 134
+  orig: 128, 136
+  offset: 0, 0
+  index: -1
+bodypart_chest_b
+  rotate: true
+  xy: 2, 447
+  size: 109, 128
+  orig: 117, 132
+  offset: 0, 2
+  index: -1
+bodypart_chest_shoulder
+  rotate: false
+  xy: 2, 133
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+bodypart_waist_a
+  rotate: true
+  xy: 50, 33
+  size: 44, 57
+  orig: 47, 57
+  offset: 3, 0
+  index: -1
+bomb_a
+  rotate: true
+  xy: 65, 79
+  size: 54, 62
+  orig: 61, 69
+  offset: 4, 0
+  index: -1
+headpart_face_a
+  rotate: false
+  xy: 132, 447
+  size: 84, 103
+  orig: 86, 105
+  offset: 2, 2
+  index: -1
+headpart_face_b
+  rotate: false
+  xy: 132, 447
+  size: 84, 103
+  orig: 86, 105
+  offset: 2, 2
+  index: -1
+headpart_face_kit
+  rotate: true
+  xy: 2, 687
+  size: 142, 201
+  orig: 182, 293
+  offset: 26, 57
+  index: -1
+legpart_down_a
+  rotate: true
+  xy: 65, 135
+  size: 48, 71
+  orig: 53, 72
+  offset: 3, 0
+  index: -1
+legpart_foot_a
+  rotate: true
+  xy: 109, 2
+  size: 36, 41
+  orig: 38, 41
+  offset: 2, 0
+  index: -1
+legpart_up_a
+  rotate: false
+  xy: 190, 928
+  size: 39, 85
+  orig: 46, 94
+  offset: 4, 0
+  index: -1
+shield_typeb
+  rotate: false
+  xy: 2, 831
+  size: 186, 294
+  orig: 215, 306
+  offset: 9, 6
+  index: -1
+shoulder
+  rotate: true
+  xy: 2, 335
+  size: 110, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+shoulder_kit
+  rotate: true
+  xy: 2, 275
+  size: 58, 101
+  orig: 59, 103
+  offset: 1, 2
+  index: -1
+x_armpart_down_a
+  rotate: true
+  xy: 125, 254
+  size: 80, 97
+  orig: 84, 99
+  offset: 4, 0
+  index: -1
+x_armpart_hand_a
+  rotate: true
+  xy: 2, 205
+  size: 68, 71
+  orig: 71, 75
+  offset: 1, 2
+  index: -1
+x_armpart_up_a
+  rotate: true
+  xy: 148, 128
+  size: 61, 77
+  orig: 66, 80
+  offset: 2, 1
+  index: -1
+x_bodypart_chest_shoulder
+  rotate: false
+  xy: 2, 69
+  size: 46, 62
+  orig: 53, 63
+  offset: 3, 0
+  index: -1
+x_bodypart_waist_a
+  rotate: false
+  xy: 179, 16
+  size: 37, 60
+  orig: 38, 62
+  offset: 1, 1
+  index: -1
+x_legpart_down_a
+  rotate: true
+  xy: 129, 78
+  size: 48, 67
+  orig: 49, 69
+  offset: 0, 2
+  index: -1
+x_legpart_foot_a
+  rotate: false
+  xy: 2, 25
+  size: 44, 42
+  orig: 48, 44
+  offset: 3, 2
+  index: -1
+x_legpart_up_a
+  rotate: true
+  xy: 138, 651
+  size: 34, 75
+  orig: 45, 85
+  offset: 5, 4
+  index: -1
+x_shoulder
+  rotate: false
+  xy: 125, 336
+  size: 104, 109
+  orig: 106, 127
+  offset: 1, 4
+  index: -1
+x_shoulder_kit
+  rotate: false
+  xy: 190, 831
+  size: 41, 95
+  orig: 50, 99
+  offset: 4, 3
+  index: -1

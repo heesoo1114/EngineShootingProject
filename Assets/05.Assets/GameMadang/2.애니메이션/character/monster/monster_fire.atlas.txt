@@ -1,0 +1,97 @@
+
+monster_fire.png
+size: 251,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EXpaart_a
+  rotate: false
+  xy: 237, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+armpart_hand_L
+  rotate: false
+  xy: 237, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+armpart_hand_R
+  rotate: false
+  xy: 237, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bodypart_EX_b
+  rotate: false
+  xy: 237, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bodypart_chest_a
+  rotate: false
+  xy: 237, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+EXpaart_b
+  rotate: true
+  xy: 112, 2
+  size: 30, 57
+  orig: 34, 65
+  offset: 3, 8
+  index: -1
+bodypart_EX_a
+  rotate: false
+  xy: 171, 3
+  size: 23, 29
+  orig: 29, 34
+  offset: 5, 5
+  index: -1
+bodypart_EX_c
+  rotate: false
+  xy: 196, 6
+  size: 19, 26
+  orig: 24, 32
+  offset: 2, 5
+  index: -1
+headpart_face_a
+  rotate: true
+  xy: 2, 7
+  size: 82, 108
+  orig: 97, 120
+  offset: 10, 12
+  index: -1
+headpart_hair_a
+  rotate: false
+  xy: 237, 9
+  size: 12, 30
+  orig: 23, 40
+  offset: 6, 8
+  index: -1
+headpart_hair_b
+  rotate: false
+  xy: 222, 41
+  size: 24, 48
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+headpart_hair_c
+  rotate: false
+  xy: 222, 3
+  size: 13, 36
+  orig: 25, 40
+  offset: 7, 2
+  index: -1
+shot_a
+  rotate: true
+  xy: 112, 34
+  size: 55, 108
+  orig: 118, 191
+  offset: 33, 29
+  index: -1

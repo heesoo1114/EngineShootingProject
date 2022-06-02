@@ -1,0 +1,69 @@
+
+ui_effect_enhance.png
+size: 233,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/c0
+  rotate: false
+  xy: 139, 2
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+common/c2
+  rotate: false
+  xy: 122, 183
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c6
+  rotate: false
+  xy: 139, 89
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c7
+  rotate: false
+  xy: 2, 278
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+common/smoke2
+  rotate: false
+  xy: 2, 168
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1
+text1
+  rotate: true
+  xy: 2, 5
+  size: 161, 44
+  orig: 161, 44
+  offset: 0, 0
+  index: -1
+text2
+  rotate: true
+  xy: 48, 5
+  size: 161, 44
+  orig: 161, 44
+  offset: 0, 0
+  index: -1
+trensendent1
+  rotate: true
+  xy: 185, 297
+  size: 162, 44
+  orig: 162, 44
+  offset: 0, 0
+  index: -1
+trensendent2
+  rotate: true
+  xy: 94, 4
+  size: 162, 43
+  orig: 162, 43
+  offset: 0, 0
+  index: -1

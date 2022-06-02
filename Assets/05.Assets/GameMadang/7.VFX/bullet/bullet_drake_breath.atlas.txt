@@ -1,0 +1,20 @@
+
+bullet_drake_breath.png
+size: 146,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+drake_skin1/bullet
+  rotate: false
+  xy: 74, 2
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1

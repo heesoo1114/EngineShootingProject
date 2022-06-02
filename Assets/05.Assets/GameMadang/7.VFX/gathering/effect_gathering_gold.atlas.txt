@@ -1,0 +1,13 @@
+
+effect_gathering_gold.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold
+  rotate: false
+  xy: 2, 2
+  size: 44, 38
+  orig: 54, 57
+  offset: 6, 10
+  index: -1

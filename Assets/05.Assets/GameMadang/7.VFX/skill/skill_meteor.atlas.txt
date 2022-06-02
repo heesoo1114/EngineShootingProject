@@ -1,0 +1,272 @@
+
+skill_meteor.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/c0
+  rotate: false
+  xy: 951, 238
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+common/c1
+  rotate: false
+  xy: 762, 312
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+common/c2
+  rotate: false
+  xy: 762, 217
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c3
+  rotate: false
+  xy: 927, 325
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+common/c4
+  rotate: true
+  xy: 810, 28
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c5
+  rotate: false
+  xy: 828, 123
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c6
+  rotate: false
+  xy: 857, 218
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c7
+  rotate: false
+  xy: 456, 329
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+common/d2
+  rotate: true
+  xy: 475, 9
+  size: 157, 9
+  orig: 173, 35
+  offset: 8, 13
+  index: -1
+common/glow1
+  rotate: true
+  xy: 665, 107
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/smoke1
+  rotate: true
+  xy: 486, 20
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1
+common/smoke2
+  rotate: true
+  xy: 577, 209
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1
+common/spark1
+  rotate: true
+  xy: 2, 266
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+common/spark2
+  rotate: true
+  xy: 200, 282
+  size: 228, 186
+  orig: 244, 195
+  offset: 0, 2
+  index: -1
+common/spark3
+  rotate: true
+  xy: 288, 59
+  size: 221, 185
+  orig: 244, 196
+  offset: 2, 0
+  index: -1
+common/spark4
+  rotate: true
+  xy: 475, 168
+  size: 159, 100
+  orig: 244, 196
+  offset: 28, 53
+  index: -1
+earth/3
+  rotate: false
+  xy: 1020, 341
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+earth/4
+  rotate: true
+  xy: 147, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+effect/wheel1
+  rotate: true
+  xy: 388, 310
+  size: 200, 66
+  orig: 201, 66
+  offset: 1, 0
+  index: -1
+fire/11
+  rotate: false
+  xy: 456, 309
+  size: 17, 18
+  orig: 19, 19
+  offset: 1, 0
+  index: -1
+fire/1a
+  rotate: true
+  xy: 903, 33
+  size: 88, 67
+  orig: 109, 75
+  offset: 12, 3
+  index: -1
+fire/1b
+  rotate: true
+  xy: 687, 239
+  size: 97, 73
+  orig: 109, 75
+  offset: 7, 1
+  index: -1
+fire/2a
+  rotate: true
+  xy: 922, 128
+  size: 88, 67
+  orig: 109, 75
+  offset: 9, 2
+  index: -1
+fire/2b
+  rotate: true
+  xy: 735, 6
+  size: 99, 73
+  orig: 109, 75
+  offset: 4, 1
+  index: -1
+fire/3a
+  rotate: true
+  xy: 858, 323
+  size: 92, 67
+  orig: 109, 75
+  offset: 7, 2
+  index: -1
+fire/3b
+  rotate: true
+  xy: 593, 106
+  size: 101, 70
+  orig: 109, 75
+  offset: 3, 1
+  index: -1
+fire/4a
+  rotate: true
+  xy: 775, 417
+  size: 93, 60
+  orig: 109, 75
+  offset: 7, 4
+  index: -1
+fire/4b
+  rotate: true
+  xy: 639, 407
+  size: 103, 64
+  orig: 109, 75
+  offset: 2, 3
+  index: -1
+fire/5a
+  rotate: true
+  xy: 900, 418
+  size: 92, 61
+  orig: 109, 75
+  offset: 7, 4
+  index: -1
+fire/5b
+  rotate: true
+  xy: 593, 3
+  size: 101, 68
+  orig: 109, 75
+  offset: 4, 2
+  index: -1
+fire/6a
+  rotate: true
+  xy: 963, 419
+  size: 91, 66
+  orig: 109, 75
+  offset: 9, 2
+  index: -1
+fire/6b
+  rotate: true
+  xy: 663, 3
+  size: 101, 70
+  orig: 109, 75
+  offset: 4, 3
+  index: -1
+fire/7a
+  rotate: true
+  xy: 837, 417
+  size: 93, 61
+  orig: 109, 75
+  offset: 8, 2
+  index: -1
+fire/7b
+  rotate: false
+  xy: 639, 338
+  size: 102, 67
+  orig: 109, 75
+  offset: 3, 1
+  index: -1
+fire/8a
+  rotate: true
+  xy: 764, 122
+  size: 93, 62
+  orig: 109, 75
+  offset: 7, 3
+  index: -1
+fire/8b
+  rotate: true
+  xy: 705, 408
+  size: 102, 68
+  orig: 109, 75
+  offset: 2, 1
+  index: -1
+fire/meteor1
+  rotate: false
+  xy: 2, 30
+  size: 143, 234
+  orig: 162, 243
+  offset: 11, 9
+  index: -1
+fire/meteor2
+  rotate: false
+  xy: 147, 34
+  size: 139, 230
+  orig: 162, 243
+  offset: 14, 8
+  index: -1

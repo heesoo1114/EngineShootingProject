@@ -1,0 +1,118 @@
+
+ui_mine_plunder.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire/1a
+  rotate: false
+  xy: 2, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/1b
+  rotate: false
+  xy: 2, 79
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/2a
+  rotate: false
+  xy: 113, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/2b
+  rotate: false
+  xy: 2, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/3a
+  rotate: false
+  xy: 113, 79
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/3b
+  rotate: false
+  xy: 224, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/4a
+  rotate: false
+  xy: 113, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/4b
+  rotate: false
+  xy: 224, 79
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/5a
+  rotate: false
+  xy: 335, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/5b
+  rotate: false
+  xy: 224, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/6a
+  rotate: false
+  xy: 335, 79
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/6b
+  rotate: false
+  xy: 446, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/7a
+  rotate: false
+  xy: 335, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/7b
+  rotate: false
+  xy: 446, 79
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/8a
+  rotate: false
+  xy: 557, 156
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+fire/8b
+  rotate: false
+  xy: 446, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1

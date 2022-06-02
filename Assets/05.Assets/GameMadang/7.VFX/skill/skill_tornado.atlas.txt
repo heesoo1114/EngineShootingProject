@@ -1,0 +1,174 @@
+
+skill_tornado.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bloodsucking/2
+  rotate: true
+  xy: 397, 37
+  size: 217, 88
+  orig: 221, 97
+  offset: 2, 2
+  index: -1
+bloodsucking/3
+  rotate: true
+  xy: 916, 70
+  size: 184, 93
+  orig: 221, 97
+  offset: 2, 2
+  index: -1
+bloodsucking/4
+  rotate: true
+  xy: 636, 49
+  size: 205, 87
+  orig: 221, 97
+  offset: 2, 8
+  index: -1
+bloodsucking/5
+  rotate: true
+  xy: 487, 37
+  size: 217, 66
+  orig: 221, 97
+  offset: 2, 2
+  index: -1
+bloodsucking/6
+  rotate: true
+  xy: 555, 37
+  size: 217, 79
+  orig: 221, 97
+  offset: 2, 2
+  index: -1
+common/c1
+  rotate: false
+  xy: 1194, 58
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+common/c2
+  rotate: false
+  xy: 1290, 59
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c3
+  rotate: false
+  xy: 1479, 69
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+common/c4
+  rotate: true
+  xy: 1293, 162
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c5
+  rotate: false
+  xy: 1385, 68
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c6
+  rotate: false
+  xy: 1386, 162
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c7
+  rotate: false
+  xy: 1011, 73
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+common/dust1
+  rotate: false
+  xy: 1385, 7
+  size: 70, 59
+  orig: 87, 70
+  offset: 16, 6
+  index: -1
+common/dust2
+  rotate: false
+  xy: 1457, 7
+  size: 70, 59
+  orig: 87, 70
+  offset: 7, 6
+  index: -1
+common/dust3
+  rotate: true
+  xy: 1011, 2
+  size: 69, 58
+  orig: 87, 70
+  offset: 3, 0
+  index: -1
+common/dust4
+  rotate: true
+  xy: 916, 2
+  size: 66, 60
+  orig: 87, 70
+  offset: 3, 0
+  index: -1
+common/dust5
+  rotate: false
+  xy: 725, 7
+  size: 77, 49
+  orig: 87, 70
+  offset: 3, 8
+  index: -1
+common/dust6
+  rotate: false
+  xy: 1290, 2
+  size: 78, 55
+  orig: 87, 70
+  offset: 3, 0
+  index: -1
+common/glow1
+  rotate: true
+  xy: 1194, 154
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+fire/11
+  rotate: false
+  xy: 2, 4
+  size: 17, 18
+  orig: 19, 19
+  offset: 1, 0
+  index: -1
+wind/5
+  rotate: true
+  xy: 166, 25
+  size: 229, 114
+  orig: 229, 114
+  offset: 0, 0
+  index: -1
+wind/6
+  rotate: true
+  xy: 282, 26
+  size: 228, 113
+  orig: 228, 113
+  offset: 0, 0
+  index: -1
+wind/7
+  rotate: true
+  xy: 2, 24
+  size: 230, 162
+  orig: 230, 162
+  offset: 0, 0
+  index: -1
+wind/8
+  rotate: true
+  xy: 725, 62
+  size: 192, 189
+  orig: 200, 200
+  offset: 8, 0
+  index: -1

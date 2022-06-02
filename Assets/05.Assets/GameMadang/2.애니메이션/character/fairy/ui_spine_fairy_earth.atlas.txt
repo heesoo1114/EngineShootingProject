@@ -1,0 +1,83 @@
+
+ui_spine_fairy_earth.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+earth/1
+  rotate: false
+  xy: 2, 2
+  size: 56, 42
+  orig: 57, 42
+  offset: 1, 0
+  index: -1
+earth/2
+  rotate: true
+  xy: 83, 63
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+earth/3
+  rotate: true
+  xy: 137, 86
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+earth/4
+  rotate: false
+  xy: 149, 12
+  size: 20, 22
+  orig: 20, 23
+  offset: 0, 1
+  index: -1
+earth/5
+  rotate: true
+  xy: 162, 49
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+earth/6
+  rotate: false
+  xy: 83, 2
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+earth/7
+  rotate: true
+  xy: 60, 12
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+earth/8
+  rotate: false
+  xy: 137, 69
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+earth/9
+  rotate: true
+  xy: 149, 36
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 100, 11
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: true
+  xy: 2, 46
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_stamp_clear.png
+size: 649,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 469, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui_buybox_fin
+  rotate: true
+  xy: 372, 2
+  size: 139, 95
+  orig: 140, 95
+  offset: 1, 0
+  index: -1
+ui_stamp_clear
+  rotate: true
+  xy: 571, 37
+  size: 104, 76
+  orig: 106, 76
+  offset: 1, 0
+  index: -1
+ui_stamp_clear2
+  rotate: false
+  xy: 2, 2
+  size: 234, 139
+  orig: 236, 141
+  offset: 1, 1
+  index: -1
+ui_stamp_recieve
+  rotate: true
+  xy: 238, 8
+  size: 133, 132
+  orig: 134, 134
+  offset: 0, 1
+  index: -1

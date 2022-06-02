@@ -1,0 +1,13 @@
+
+ui_post_new.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new
+  rotate: false
+  xy: 2, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1

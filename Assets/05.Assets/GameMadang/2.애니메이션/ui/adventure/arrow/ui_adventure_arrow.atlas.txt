@@ -1,0 +1,13 @@
+
+ui_adventure_arrow.png
+size: 36,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_common_directionbutton_able
+  rotate: false
+  xy: 2, 2
+  size: 32, 33
+  orig: 33, 35
+  offset: 0, 1
+  index: -1

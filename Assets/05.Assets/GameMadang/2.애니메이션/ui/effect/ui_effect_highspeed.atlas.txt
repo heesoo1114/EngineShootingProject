@@ -1,0 +1,20 @@
+
+ui_effect_highspeed.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+speed1
+  rotate: false
+  xy: 2, 2
+  size: 439, 222
+  orig: 463, 240
+  offset: 12, 9
+  index: -1
+speed2
+  rotate: false
+  xy: 443, 178
+  size: 304, 46
+  orig: 314, 52
+  offset: 8, 4
+  index: -1

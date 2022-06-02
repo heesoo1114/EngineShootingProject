@@ -1,0 +1,27 @@
+
+skill_touchattack.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bleed/1
+  rotate: false
+  xy: 248, 4
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+common/spark1
+  rotate: false
+  xy: 2, 2
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+impact1
+  rotate: true
+  xy: 248, 89
+  size: 109, 99
+  orig: 110, 100
+  offset: 1, 1
+  index: -1

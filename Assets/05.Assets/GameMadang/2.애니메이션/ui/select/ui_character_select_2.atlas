@@ -1,0 +1,216 @@
+
+ui_character_select_2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light1
+  rotate: true
+  xy: 497, 54
+  size: 200, 178
+  orig: 200, 178
+  offset: 0, 0
+  index: -1
+magician/arm1
+  rotate: false
+  xy: 399, 42
+  size: 96, 212
+  orig: 96, 212
+  offset: 0, 0
+  index: -1
+magician/arm2
+  rotate: true
+  xy: 1074, 14
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+magician/arm3
+  rotate: true
+  xy: 1652, 4
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+magician/body
+  rotate: false
+  xy: 964, 77
+  size: 138, 177
+  orig: 138, 177
+  offset: 0, 0
+  index: -1
+magician/eye1
+  rotate: false
+  xy: 284, 4
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+magician/eye2
+  rotate: false
+  xy: 353, 4
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+magician/eye3
+  rotate: false
+  xy: 217, 3
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+magician/hair1
+  rotate: false
+  xy: 1811, 127
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+magician/hair2
+  rotate: false
+  xy: 642, 4
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+magician/hand1
+  rotate: false
+  xy: 1818, 6
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+magician/hand2
+  rotate: true
+  xy: 1818, 66
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+magician/head
+  rotate: false
+  xy: 1512, 6
+  size: 138, 105
+  orig: 138, 105
+  offset: 0, 0
+  index: -1
+magician/hip
+  rotate: true
+  xy: 2, 28
+  size: 226, 213
+  orig: 226, 213
+  offset: 0, 0
+  index: -1
+magician/hood
+  rotate: true
+  xy: 1691, 122
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+magician/light1
+  rotate: false
+  xy: 1738, 4
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+magician/light2
+  rotate: false
+  xy: 700, 4
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+magician/light3
+  rotate: true
+  xy: 1012, 13
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+magician/manteau1
+  rotate: false
+  xy: 677, 75
+  size: 285, 179
+  orig: 285, 179
+  offset: 0, 0
+  index: -1
+magician/manteau2
+  rotate: false
+  xy: 1104, 99
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+magician/manteau3
+  rotate: true
+  xy: 217, 34
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+magician/manteau_deco
+  rotate: false
+  xy: 1738, 40
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+magician/muffler1
+  rotate: true
+  xy: 1257, 113
+  size: 141, 325
+  orig: 141, 325
+  offset: 0, 0
+  index: -1
+magician/muffler2
+  rotate: true
+  xy: 1158, 2
+  size: 95, 352
+  orig: 95, 352
+  offset: 0, 0
+  index: -1
+magician/muffler3
+  rotate: true
+  xy: 777, 6
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+magician/nexk
+  rotate: false
+  xy: 877, 9
+  size: 133, 64
+  orig: 133, 64
+  offset: 0, 0
+  index: -1
+magician/ribbon
+  rotate: false
+  xy: 1811, 176
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+magician/weapon1
+  rotate: false
+  xy: 1584, 119
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+magician/weapon2
+  rotate: true
+  xy: 499, 4
+  size: 48, 141
+  orig: 48, 141
+  offset: 0, 0
+  index: -1
+magician/weapon3
+  rotate: true
+  xy: 422, 2
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1

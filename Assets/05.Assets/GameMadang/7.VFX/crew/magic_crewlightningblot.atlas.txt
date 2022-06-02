@@ -1,0 +1,104 @@
+
+magic_crewlightningblot.png
+size: 167,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 15
+  size: 43, 29
+  orig: 47, 31
+  offset: 2, 1
+  index: -1
+11
+  rotate: true
+  xy: 2, 258
+  size: 87, 96
+  orig: 97, 97
+  offset: 6, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 347
+  size: 110, 106
+  orig: 111, 109
+  offset: 0, 2
+  index: -1
+13
+  rotate: false
+  xy: 100, 282
+  size: 63, 63
+  orig: 65, 65
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 92, 107
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 178
+  size: 88, 78
+  orig: 93, 80
+  offset: 3, 0
+  index: -1
+8
+  rotate: true
+  xy: 92, 169
+  size: 87, 73
+  orig: 93, 80
+  offset: 5, 4
+  index: -1
+9
+  rotate: false
+  xy: 2, 98
+  size: 88, 78
+  orig: 93, 80
+  offset: 2, 0
+  index: -1
+c1
+  rotate: true
+  xy: 114, 401
+  size: 52, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 114, 348
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c3
+  rotate: true
+  xy: 92, 55
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+c4
+  rotate: true
+  xy: 2, 46
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+c5
+  rotate: false
+  xy: 55, 2
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c6
+  rotate: false
+  xy: 108, 2
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1

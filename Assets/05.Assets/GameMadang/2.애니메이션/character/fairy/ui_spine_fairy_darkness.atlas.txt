@@ -1,0 +1,146 @@
+
+ui_spine_fairy_darkness.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+darkness/1
+  rotate: false
+  xy: 84, 64
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+darkness/10
+  rotate: false
+  xy: 118, 9
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+darkness/2
+  rotate: true
+  xy: 199, 8
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+darkness/3
+  rotate: true
+  xy: 218, 7
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+darkness/4
+  rotate: false
+  xy: 191, 84
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+darkness/5
+  rotate: false
+  xy: 34, 4
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+darkness/6
+  rotate: false
+  xy: 162, 12
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+darkness/7
+  rotate: true
+  xy: 199, 22
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+darkness/8
+  rotate: true
+  xy: 236, 3
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+darkness/9
+  rotate: true
+  xy: 236, 40
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+darkness/w1
+  rotate: false
+  xy: 191, 49
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+darkness/w2
+  rotate: false
+  xy: 84, 30
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+darkness/w3
+  rotate: true
+  xy: 123, 28
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+darkness/w4
+  rotate: true
+  xy: 84, 4
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+darkness/w5
+  rotate: false
+  xy: 231, 72
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+darkness/w6
+  rotate: true
+  xy: 59, 3
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+darkness/w7
+  rotate: true
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+darkness/w8
+  rotate: false
+  xy: 236, 17
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 139, 59
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: false
+  xy: 2, 27
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

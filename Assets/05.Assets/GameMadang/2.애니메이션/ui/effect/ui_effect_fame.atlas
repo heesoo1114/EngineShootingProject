@@ -1,0 +1,41 @@
+
+ui_effect_fame.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/shine1
+  rotate: false
+  xy: 425, 18
+  size: 38, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1
+img/smoke1
+  rotate: false
+  xy: 233, 5
+  size: 148, 113
+  orig: 148, 113
+  offset: 0, 0
+  index: -1
+img/spark
+  rotate: false
+  xy: 2, 2
+  size: 229, 116
+  orig: 229, 116
+  offset: 0, 0
+  index: -1
+img/sparkle1
+  rotate: false
+  xy: 465, 74
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+img/tail
+  rotate: false
+  xy: 383, 3
+  size: 40, 115
+  orig: 40, 115
+  offset: 0, 0
+  index: -1

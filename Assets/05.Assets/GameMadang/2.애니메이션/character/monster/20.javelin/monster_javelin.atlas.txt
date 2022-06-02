@@ -1,0 +1,1063 @@
+
+monster_javelin.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21
+  rotate: true
+  xy: 225, 615
+  size: 407, 110
+  orig: 424, 110
+  offset: 6, 0
+  index: -1
+armpart_down_a
+  rotate: false
+  xy: 794, 297
+  size: 72, 140
+  orig: 89, 140
+  offset: 8, 0
+  index: -1
+armpart_down_b
+  rotate: false
+  xy: 619, 752
+  size: 84, 133
+  orig: 92, 136
+  offset: 8, 2
+  index: -1
+armpart_hand_a
+  rotate: false
+  xy: 785, 2
+  size: 81, 60
+  orig: 89, 64
+  offset: 0, 4
+  index: -1
+armpart_hand_b
+  rotate: false
+  xy: 937, 588
+  size: 80, 61
+  orig: 87, 67
+  offset: 7, 6
+  index: -1
+armpart_hand_c
+  rotate: false
+  xy: 1047, 245
+  size: 45, 50
+  orig: 47, 51
+  offset: 1, 0
+  index: -1
+armpart_hand_e
+  rotate: true
+  xy: 1040, 925
+  size: 97, 64
+  orig: 98, 69
+  offset: 0, 2
+  index: -1
+armpart_up_a
+  rotate: false
+  xy: 796, 913
+  size: 75, 109
+  orig: 76, 116
+  offset: 0, 5
+  index: -1
+armpart_up_b
+  rotate: false
+  xy: 1123, 606
+  size: 44, 69
+  orig: 48, 72
+  offset: 4, 0
+  index: -1
+bodypart_chest
+  rotate: true
+  xy: 531, 204
+  size: 177, 137
+  orig: 177, 137
+  offset: 0, 0
+  index: -1
+bodypart_chest_b
+  rotate: false
+  xy: 423, 624
+  size: 142, 95
+  orig: 144, 97
+  offset: 2, 0
+  index: -1
+bodypart_pelvis
+  rotate: true
+  xy: 797, 640
+  size: 113, 78
+  orig: 117, 84
+  offset: 2, 0
+  index: -1
+bodypart_pelvis_b
+  rotate: true
+  xy: 727, 909
+  size: 113, 67
+  orig: 115, 72
+  offset: 2, 0
+  index: -1
+bodypart_waist
+  rotate: false
+  xy: 967, 756
+  size: 67, 57
+  orig: 71, 62
+  offset: 3, 1
+  index: -1
+bodypart_waist_b
+  rotate: true
+  xy: 1160, 695
+  size: 62, 40
+  orig: 63, 44
+  offset: 1, 0
+  index: -1
+headpart_face
+  rotate: true
+  xy: 423, 721
+  size: 301, 194
+  orig: 313, 200
+  offset: 7, 6
+  index: -1
+headpart_face_b
+  rotate: true
+  xy: 369, 383
+  size: 200, 187
+  orig: 200, 194
+  offset: 0, 1
+  index: -1
+headpart_hair_a
+  rotate: false
+  xy: 969, 661
+  size: 85, 93
+  orig: 86, 94
+  offset: 0, 1
+  index: -1
+headpart_hair_b
+  rotate: false
+  xy: 853, 204
+  size: 98, 91
+  orig: 99, 92
+  offset: 1, 1
+  index: -1
+headpart_hair_c
+  rotate: false
+  xy: 618, 586
+  size: 64, 36
+  orig: 65, 45
+  offset: 1, 1
+  index: -1
+headpart_hair_d
+  rotate: true
+  xy: 800, 588
+  size: 50, 73
+  orig: 51, 74
+  offset: 1, 0
+  index: -1
+javelin_boss1/armpart_down_a
+  rotate: false
+  xy: 873, 919
+  size: 97, 103
+  orig: 112, 164
+  offset: 4, 24
+  index: -1
+javelin_boss1/armpart_down_b
+  rotate: true
+  xy: 868, 2
+  size: 60, 81
+  orig: 92, 136
+  offset: 3, 13
+  index: -1
+javelin_boss1/armpart_hand_a
+  rotate: false
+  xy: 951, 2
+  size: 51, 60
+  orig: 89, 64
+  offset: 28, 0
+  index: -1
+javelin_boss1/armpart_hand_b
+  rotate: true
+  xy: 1010, 150
+  size: 53, 50
+  orig: 99, 79
+  offset: 19, 15
+  index: -1
+javelin_boss1/armpart_hand_c
+  rotate: true
+  xy: 811, 756
+  size: 47, 49
+  orig: 47, 51
+  offset: 0, 2
+  index: -1
+javelin_boss1/armpart_hand_e
+  rotate: true
+  xy: 1056, 673
+  size: 82, 54
+  orig: 98, 69
+  offset: 7, 9
+  index: -1
+javelin_boss1/armpart_up_a
+  rotate: false
+  xy: 836, 477
+  size: 63, 109
+  orig: 93, 133
+  offset: 18, 14
+  index: -1
+javelin_boss1/armpart_up_b
+  rotate: false
+  xy: 1048, 508
+  size: 49, 78
+  orig: 60, 84
+  offset: 7, 1
+  index: -1
+javelin_boss1/bodypart_chest
+  rotate: true
+  xy: 155, 2
+  size: 166, 143
+  orig: 236, 196
+  offset: 34, 39
+  index: -1
+javelin_boss1/bodypart_chest_b
+  rotate: true
+  xy: 636, 33
+  size: 169, 147
+  orig: 252, 205
+  offset: 64, 52
+  index: -1
+javelin_boss1/bodypart_pelvis
+  rotate: false
+  xy: 953, 205
+  size: 92, 90
+  orig: 176, 143
+  offset: 36, 22
+  index: -1
+javelin_boss1/bodypart_pelvis_b
+  rotate: true
+  xy: 874, 814
+  size: 103, 90
+  orig: 174, 131
+  offset: 28, 9
+  index: -1
+javelin_boss1/bodypart_waist
+  rotate: true
+  xy: 1106, 944
+  size: 78, 63
+  orig: 118, 109
+  offset: 16, 25
+  index: -1
+javelin_boss1/bodypart_waist_b
+  rotate: true
+  xy: 1075, 593
+  size: 78, 46
+  orig: 122, 103
+  offset: 29, 27
+  index: -1
+javelin_boss1/headpart_face
+  rotate: true
+  xy: 300, 2
+  size: 180, 190
+  orig: 313, 200
+  offset: 119, 10
+  index: -1
+javelin_boss1/headpart_face_b
+  rotate: false
+  xy: 2, 2
+  size: 151, 159
+  orig: 318, 312
+  offset: 163, 29
+  index: -1
+javelin_boss1/headpart_hair_a
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss1/headpart_hair_b
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss1/headpart_hair_c
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss1/headpart_hair_d
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss2/headpart_hair_a
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss2/headpart_hair_b
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss2/headpart_hair_c
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss2/headpart_hair_d
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin1/headpart_hair_a
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin1/headpart_hair_b
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin1/headpart_hair_c
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin1/headpart_hair_d
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin2/headpart_hair_a
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin2/headpart_hair_b
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin2/headpart_hair_c
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_skin2/headpart_hair_d
+  rotate: false
+  xy: 98, 167
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+javelin_boss1/legpart_down_a
+  rotate: false
+  xy: 1130, 759
+  size: 40, 64
+  orig: 80, 93
+  offset: 16, 5
+  index: -1
+javelin_boss1/legpart_down_b
+  rotate: false
+  xy: 1055, 97
+  size: 38, 51
+  orig: 54, 79
+  offset: 2, 10
+  index: -1
+javelin_boss1/legpart_down_c
+  rotate: false
+  xy: 1055, 97
+  size: 38, 51
+  orig: 54, 79
+  offset: 3, 10
+  index: -1
+javelin_boss1/legpart_foot_a
+  rotate: false
+  xy: 1129, 825
+  size: 71, 38
+  orig: 94, 83
+  offset: 11, 22
+  index: -1
+javelin_boss1/legpart_foot_b
+  rotate: true
+  xy: 958, 314
+  size: 80, 39
+  orig: 103, 89
+  offset: 23, 25
+  index: -1
+javelin_boss1/legpart_foot_c
+  rotate: true
+  xy: 999, 314
+  size: 80, 39
+  orig: 103, 89
+  offset: 23, 25
+  index: -1
+javelin_boss1/legpart_up_a
+  rotate: true
+  xy: 875, 588
+  size: 50, 60
+  orig: 90, 116
+  offset: 20, 29
+  index: -1
+javelin_boss1/legpart_up_b
+  rotate: false
+  xy: 1019, 588
+  size: 54, 71
+  orig: 97, 115
+  offset: 24, 22
+  index: -1
+javelin_boss1/weapon
+  rotate: false
+  xy: 227, 183
+  size: 69, 399
+  orig: 94, 420
+  offset: 17, 12
+  index: -1
+javelin_boss1/weapon_poison
+  rotate: false
+  xy: 298, 184
+  size: 69, 399
+  orig: 109, 467
+  offset: 19, 36
+  index: -1
+javelin_boss2/armpart_down_a
+  rotate: false
+  xy: 1227, 948
+  size: 51, 74
+  orig: 89, 140
+  offset: 28, 16
+  index: -1
+javelin_boss2/armpart_down_b
+  rotate: false
+  xy: 1036, 757
+  size: 45, 66
+  orig: 92, 136
+  offset: 9, 18
+  index: -1
+javelin_boss2/armpart_hand_a
+  rotate: false
+  xy: 1062, 194
+  size: 49, 49
+  orig: 89, 64
+  offset: 26, 6
+  index: -1
+javelin_boss2/armpart_hand_b
+  rotate: false
+  xy: 1094, 246
+  size: 49, 49
+  orig: 87, 67
+  offset: 15, 14
+  index: -1
+javelin_boss2/armpart_hand_c
+  rotate: true
+  xy: 862, 756
+  size: 47, 49
+  orig: 47, 51
+  offset: 0, 2
+  index: -1
+javelin_boss2/armpart_hand_e
+  rotate: true
+  xy: 868, 297
+  size: 79, 43
+  orig: 98, 69
+  offset: 13, 6
+  index: -1
+javelin_boss2/armpart_up_a
+  rotate: false
+  xy: 966, 815
+  size: 53, 102
+  orig: 76, 116
+  offset: 19, 5
+  index: -1
+javelin_skin2/armpart_up_a
+  rotate: false
+  xy: 966, 815
+  size: 53, 102
+  orig: 76, 116
+  offset: 19, 5
+  index: -1
+javelin_boss2/armpart_up_b
+  rotate: true
+  xy: 739, 593
+  size: 30, 59
+  orig: 48, 72
+  offset: 13, 2
+  index: -1
+javelin_skin2/armpart_up_b
+  rotate: true
+  xy: 739, 593
+  size: 30, 59
+  orig: 48, 72
+  offset: 13, 2
+  index: -1
+javelin_boss2/bodypart_chest
+  rotate: true
+  xy: 670, 262
+  size: 150, 122
+  orig: 177, 137
+  offset: 25, 11
+  index: -1
+javelin_skin2/bodypart_chest
+  rotate: true
+  xy: 670, 262
+  size: 150, 122
+  orig: 177, 137
+  offset: 25, 11
+  index: -1
+javelin_boss2/bodypart_chest_b
+  rotate: true
+  xy: 619, 887
+  size: 135, 106
+  orig: 144, 120
+  offset: 5, 13
+  index: -1
+javelin_skin2/bodypart_chest_b
+  rotate: true
+  xy: 619, 887
+  size: 135, 106
+  orig: 144, 120
+  offset: 5, 13
+  index: -1
+javelin_boss2/bodypart_pelvis
+  rotate: true
+  xy: 1021, 825
+  size: 97, 65
+  orig: 117, 84
+  offset: 16, 10
+  index: -1
+javelin_boss2/bodypart_pelvis_b
+  rotate: true
+  xy: 972, 924
+  size: 98, 66
+  orig: 115, 72
+  offset: 10, 1
+  index: -1
+javelin_boss2/bodypart_waist
+  rotate: false
+  xy: 670, 204
+  size: 88, 56
+  orig: 106, 62
+  offset: 13, 1
+  index: -1
+javelin_skin2/bodypart_waist
+  rotate: false
+  xy: 670, 204
+  size: 88, 56
+  orig: 106, 62
+  offset: 13, 1
+  index: -1
+javelin_boss2/bodypart_waist_b
+  rotate: false
+  xy: 760, 204
+  size: 73, 56
+  orig: 86, 67
+  offset: 5, 7
+  index: -1
+javelin_skin2/bodypart_waist_b
+  rotate: false
+  xy: 760, 204
+  size: 73, 56
+  orig: 86, 67
+  offset: 5, 7
+  index: -1
+javelin_boss2/headpart_face
+  rotate: false
+  xy: 558, 414
+  size: 132, 169
+  orig: 313, 223
+  offset: 120, 9
+  index: -1
+javelin_boss2/headpart_face_b
+  rotate: true
+  xy: 369, 198
+  size: 183, 160
+  orig: 223, 194
+  offset: 30, 8
+  index: -1
+javelin_boss2/legpart_down_a
+  rotate: false
+  xy: 1093, 375
+  size: 46, 58
+  orig: 80, 93
+  offset: 15, 9
+  index: -1
+javelin_boss2/legpart_down_b
+  rotate: false
+  xy: 1010, 96
+  size: 43, 52
+  orig: 54, 79
+  offset: 2, 0
+  index: -1
+javelin_boss2/legpart_down_c
+  rotate: false
+  xy: 1010, 96
+  size: 43, 52
+  orig: 54, 79
+  offset: 2, 0
+  index: -1
+javelin_boss2/legpart_foot_a
+  rotate: false
+  xy: 96, 584
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+javelin_boss2/legpart_foot_b
+  rotate: false
+  xy: 317, 586
+  size: 43, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1
+javelin_boss2/legpart_foot_c
+  rotate: false
+  xy: 317, 586
+  size: 43, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1
+javelin_skin2/legpart_foot_b
+  rotate: false
+  xy: 317, 586
+  size: 43, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1
+javelin_skin2/legpart_foot_c
+  rotate: false
+  xy: 317, 586
+  size: 43, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1
+javelin_boss2/legpart_up_a
+  rotate: true
+  xy: 1040, 297
+  size: 43, 56
+  orig: 54, 57
+  offset: 5, 0
+  index: -1
+javelin_skin2/legpart_up_a
+  rotate: true
+  xy: 1040, 297
+  size: 43, 56
+  orig: 54, 57
+  offset: 5, 0
+  index: -1
+javelin_boss2/legpart_up_b
+  rotate: true
+  xy: 499, 585
+  size: 37, 59
+  orig: 38, 79
+  offset: 1, 9
+  index: -1
+javelin_skin2/legpart_up_b
+  rotate: true
+  xy: 499, 585
+  size: 37, 59
+  orig: 38, 79
+  offset: 1, 9
+  index: -1
+javelin_boss2/weapon
+  rotate: false
+  xy: 164, 170
+  size: 61, 412
+  orig: 94, 420
+  offset: 15, 0
+  index: -1
+javelin_boss2/weapon_poison
+  rotate: false
+  xy: 162, 610
+  size: 61, 412
+  orig: 109, 467
+  offset: 22, 27
+  index: -1
+javelin_skin1/armpart_down_a
+  rotate: true
+  xy: 567, 624
+  size: 95, 117
+  orig: 112, 164
+  offset: 2, 12
+  index: -1
+javelin_skin1/armpart_down_b
+  rotate: false
+  xy: 1099, 522
+  size: 46, 69
+  orig: 92, 136
+  offset: 6, 16
+  index: -1
+javelin_skin1/armpart_hand_a
+  rotate: false
+  xy: 1004, 2
+  size: 51, 60
+  orig: 89, 64
+  offset: 28, 0
+  index: -1
+javelin_skin1/armpart_hand_b
+  rotate: false
+  xy: 913, 756
+  size: 52, 56
+  orig: 99, 79
+  offset: 21, 13
+  index: -1
+javelin_skin1/armpart_hand_c
+  rotate: false
+  xy: 1280, 964
+  size: 55, 58
+  orig: 106, 110
+  offset: 27, 23
+  index: -1
+javelin_skin1/armpart_hand_e
+  rotate: true
+  xy: 1129, 865
+  size: 77, 54
+  orig: 109, 80
+  offset: 21, 16
+  index: -1
+javelin_skin1/armpart_up_a
+  rotate: false
+  xy: 811, 805
+  size: 61, 106
+  orig: 93, 133
+  offset: 20, 14
+  index: -1
+javelin_skin1/armpart_up_b
+  rotate: false
+  xy: 1185, 866
+  size: 46, 77
+  orig: 60, 84
+  offset: 8, 0
+  index: -1
+javelin_skin1/bodypart_chest
+  rotate: true
+  xy: 785, 64
+  size: 138, 115
+  orig: 177, 137
+  offset: 32, 10
+  index: -1
+javelin_skin1/bodypart_chest_b
+  rotate: true
+  xy: 902, 64
+  size: 138, 106
+  orig: 156, 109
+  offset: 17, 3
+  index: -1
+javelin_skin1/bodypart_pelvis
+  rotate: true
+  xy: 933, 396
+  size: 92, 90
+  orig: 176, 143
+  offset: 36, 22
+  index: -1
+javelin_skin1/bodypart_pelvis_b
+  rotate: true
+  xy: 877, 651
+  size: 103, 90
+  orig: 174, 131
+  offset: 28, 9
+  index: -1
+javelin_skin1/bodypart_waist
+  rotate: true
+  xy: 1025, 417
+  size: 78, 63
+  orig: 118, 109
+  offset: 16, 25
+  index: -1
+javelin_skin1/bodypart_waist_b
+  rotate: true
+  xy: 1112, 677
+  size: 78, 46
+  orig: 122, 103
+  offset: 29, 27
+  index: -1
+javelin_skin1/headpart_face
+  rotate: false
+  xy: 692, 439
+  size: 142, 147
+  orig: 313, 200
+  offset: 123, 32
+  index: -1
+javelin_skin1/headpart_face_b
+  rotate: false
+  xy: 686, 625
+  size: 109, 125
+  orig: 247, 241
+  offset: 134, 17
+  index: -1
+javelin_skin1/legpart_down_a
+  rotate: true
+  xy: 433, 585
+  size: 37, 64
+  orig: 80, 93
+  offset: 19, 5
+  index: -1
+javelin_skin1/legpart_down_b
+  rotate: true
+  xy: 1202, 825
+  size: 39, 50
+  orig: 54, 79
+  offset: 3, 11
+  index: -1
+javelin_skin1/legpart_down_c
+  rotate: true
+  xy: 1202, 825
+  size: 39, 50
+  orig: 54, 79
+  offset: 3, 11
+  index: -1
+javelin_skin1/legpart_foot_a
+  rotate: false
+  xy: 362, 585
+  size: 69, 37
+  orig: 94, 83
+  offset: 11, 22
+  index: -1
+javelin_skin1/legpart_foot_b
+  rotate: true
+  xy: 1088, 844
+  size: 79, 39
+  orig: 103, 89
+  offset: 24, 25
+  index: -1
+javelin_skin1/legpart_foot_c
+  rotate: true
+  xy: 1088, 844
+  size: 79, 39
+  orig: 103, 89
+  offset: 24, 25
+  index: -1
+javelin_skin1/legpart_up_a
+  rotate: false
+  xy: 1233, 886
+  size: 50, 60
+  orig: 90, 116
+  offset: 20, 29
+  index: -1
+javelin_skin1/legpart_up_b
+  rotate: false
+  xy: 1090, 435
+  size: 54, 71
+  orig: 97, 115
+  offset: 24, 22
+  index: -1
+javelin_skin1/weapon
+  rotate: false
+  xy: 337, 624
+  size: 41, 398
+  orig: 94, 420
+  offset: 32, 14
+  index: -1
+javelin_skin1/weapon_poison
+  rotate: false
+  xy: 380, 624
+  size: 41, 398
+  orig: 109, 467
+  offset: 49, 36
+  index: -1
+javelin_skin2/armpart_down_a
+  rotate: false
+  xy: 1040, 342
+  size: 51, 73
+  orig: 89, 140
+  offset: 28, 17
+  index: -1
+javelin_skin2/armpart_down_b
+  rotate: false
+  xy: 1083, 757
+  size: 45, 66
+  orig: 92, 136
+  offset: 9, 18
+  index: -1
+javelin_skin2/armpart_hand_a
+  rotate: false
+  xy: 1098, 324
+  size: 49, 49
+  orig: 89, 64
+  offset: 26, 6
+  index: -1
+javelin_skin2/armpart_hand_b
+  rotate: false
+  xy: 1141, 384
+  size: 49, 49
+  orig: 87, 67
+  offset: 15, 14
+  index: -1
+javelin_skin2/armpart_hand_c
+  rotate: false
+  xy: 1146, 471
+  size: 47, 49
+  orig: 47, 51
+  offset: 0, 2
+  index: -1
+javelin_skin2/armpart_hand_e
+  rotate: true
+  xy: 913, 297
+  size: 79, 43
+  orig: 98, 69
+  offset: 13, 6
+  index: -1
+javelin_skin2/bodypart_pelvis
+  rotate: true
+  xy: 868, 378
+  size: 97, 63
+  orig: 117, 84
+  offset: 16, 10
+  index: -1
+javelin_skin2/bodypart_pelvis_b
+  rotate: true
+  xy: 901, 490
+  size: 96, 70
+  orig: 115, 72
+  offset: 12, 0
+  index: -1
+javelin_skin2/headpart_face
+  rotate: true
+  xy: 705, 755
+  size: 130, 104
+  orig: 313, 223
+  offset: 122, 9
+  index: -1
+javelin_skin2/headpart_face_b
+  rotate: true
+  xy: 492, 13
+  size: 183, 142
+  orig: 223, 194
+  offset: 30, 8
+  index: -1
+javelin_skin2/legpart_down_a
+  rotate: false
+  xy: 1172, 762
+  size: 40, 61
+  orig: 80, 93
+  offset: 21, 9
+  index: -1
+javelin_skin2/legpart_down_b
+  rotate: true
+  xy: 684, 588
+  size: 34, 53
+  orig: 54, 79
+  offset: 12, 2
+  index: -1
+javelin_skin2/legpart_down_c
+  rotate: true
+  xy: 684, 588
+  size: 34, 53
+  orig: 54, 79
+  offset: 12, 2
+  index: -1
+javelin_skin2/legpart_foot_a
+  rotate: false
+  xy: 134, 584
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+javelin_skin2/weapon
+  rotate: false
+  xy: 96, 610
+  size: 64, 412
+  orig: 94, 420
+  offset: 15, 0
+  index: -1
+javelin_skin2/weapon_poison
+  rotate: false
+  xy: 98, 170
+  size: 64, 412
+  orig: 109, 467
+  offset: 20, 27
+  index: -1
+legpart_down_a
+  rotate: false
+  xy: 973, 497
+  size: 73, 89
+  orig: 80, 93
+  offset: 3, 4
+  index: -1
+legpart_down_b
+  rotate: false
+  xy: 1171, 945
+  size: 54, 77
+  orig: 54, 79
+  offset: 0, 2
+  index: -1
+legpart_down_c
+  rotate: false
+  xy: 1171, 945
+  size: 54, 77
+  orig: 54, 79
+  offset: 0, 1
+  index: -1
+legpart_foot_a
+  rotate: false
+  xy: 172, 584
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+legpart_foot_b
+  rotate: false
+  xy: 271, 585
+  size: 44, 28
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+legpart_foot_c
+  rotate: false
+  xy: 225, 584
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+legpart_up_a
+  rotate: true
+  xy: 794, 264
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+legpart_up_b
+  rotate: true
+  xy: 560, 585
+  size: 37, 56
+  orig: 38, 56
+  offset: 1, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 163
+  size: 94, 419
+  orig: 94, 420
+  offset: 0, 1
+  index: -1
+weapon_poison
+  rotate: false
+  xy: 2, 584
+  size: 92, 438
+  orig: 109, 467
+  offset: 10, 15
+  index: -1

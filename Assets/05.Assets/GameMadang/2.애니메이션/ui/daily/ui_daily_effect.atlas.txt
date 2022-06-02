@@ -1,0 +1,13 @@
+
+ui_daily_effect.png
+size: 164,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/light
+  rotate: false
+  xy: 2, 2
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1

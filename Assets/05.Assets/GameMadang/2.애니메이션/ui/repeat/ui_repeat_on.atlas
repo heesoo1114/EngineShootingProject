@@ -1,0 +1,48 @@
+
+ui_repeat_on.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 287, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 4
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+repeat
+  rotate: false
+  xy: 339, 107
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+repeat1
+  rotate: false
+  xy: 129, 48
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+repeat2
+  rotate: false
+  xy: 129, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+roundeff
+  rotate: false
+  xy: 216, 57
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

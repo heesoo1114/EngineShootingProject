@@ -1,0 +1,55 @@
+
+hero_tower.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 302, 69
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+bow1
+  rotate: false
+  xy: 302, 32
+  size: 133, 35
+  orig: 133, 35
+  offset: 0, 0
+  index: -1
+bow2
+  rotate: true
+  xy: 302, 2
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+bow3
+  rotate: false
+  xy: 454, 53
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+impact1
+  rotate: false
+  xy: 190, 25
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+shadow/bari
+  rotate: true
+  xy: 437, 21
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+tower
+  rotate: true
+  xy: 2, 12
+  size: 113, 186
+  orig: 113, 186
+  offset: 0, 0
+  index: -1

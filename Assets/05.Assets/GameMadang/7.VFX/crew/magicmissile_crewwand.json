@@ -1,0 +1,255 @@
+{
+"skeleton": {
+	"hash": "JOZFqRAlZDgDAhatc9lsjPh0PyM",
+	"spine": "3.8.79",
+	"x": -96.39,
+	"y": -17.71,
+	"width": 192.79,
+	"height": 35.42,
+	"images": "./img_53/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.4, "scaleY": 0.4 },
+	{ "name": "bounding", "parent": "root", "color": "2f9b16ff" },
+	{ "name": "eff", "parent": "root" },
+	{ "name": "eff_spakle", "parent": "root" },
+	{ "name": "lightning", "parent": "root" },
+	{ "name": "shot", "parent": "root", "length": 36.74, "scaleX": 0.4045, "scaleY": 0.4045, "color": "9b090bff" },
+	{ "name": "bone", "parent": "shot", "length": 37.79, "x": -32.08, "y": 0.38 },
+	{ "name": "spread_effect", "parent": "shot", "color": "9b7d00ff" }
+],
+"slots": [
+	{ "name": "attack_1", "bone": "bounding", "attachment": "attack_1" },
+	{ "name": "attack_1_z", "bone": "bounding", "attachment": "attack_1_z" },
+	{ "name": "21", "bone": "bone", "blend": "additive" },
+	{ "name": "lightning1", "bone": "lightning", "color": "daffdcff", "blend": "additive" },
+	{ "name": "lightning2", "bone": "lightning", "color": "abf7ffff", "blend": "additive" },
+	{ "name": "11", "bone": "spread_effect", "color": "ffc389ff", "attachment": "11", "blend": "additive" },
+	{ "name": "arrow", "bone": "shot", "attachment": "d2" },
+	{ "name": "arrow2", "bone": "shot", "color": "ffbd007c", "attachment": "d1", "blend": "additive" },
+	{ "name": "eff_spakle", "bone": "eff_spakle", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"11": {
+				"11": { "scaleX": 62.7186, "scaleY": 11.5213, "width": 19, "height": 19 }
+			},
+			"21": {
+				"21": { "x": -216.13, "y": -1.89, "scaleX": 1.9843, "scaleY": 0.674, "width": 424, "height": 110 }
+			},
+			"arrow": {
+				"d2": { "scaleX": 2.1724, "scaleY": 3.3333, "width": 173, "height": 35 }
+			},
+			"arrow2": {
+				"d1": { "scaleX": 2.1724, "scaleY": 1.5337, "width": 193, "height": 75 }
+			},
+			"attack_1": {
+				"attack_1": {
+					"type": "boundingbox",
+					"vertexCount": 4,
+					"vertices": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+				}
+			},
+			"attack_1_z": {
+				"attack_1_z": {
+					"type": "boundingbox",
+					"vertexCount": 4,
+					"vertices": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+				}
+			},
+			"eff_spakle": {
+				"c1": { "width": 284, "height": 236 },
+				"c2": { "width": 284, "height": 236 },
+				"c3": { "width": 284, "height": 236 },
+				"c4": { "width": 284, "height": 236 }
+			},
+			"lightning1": {
+				"1": { "width": 387, "height": 74 },
+				"3": { "width": 387, "height": 74 },
+				"5": { "width": 387, "height": 74 }
+			},
+			"lightning2": {
+				"2": { "width": 387, "height": 74 },
+				"4": { "width": 387, "height": 74 },
+				"6": { "width": 387, "height": 74 }
+			}
+		}
+	}
+],
+"events": {
+	"hitcheck": {},
+	"move_speed": {},
+	"operation_float": {},
+	"operation_knockback": {}
+},
+"animations": {
+	"impact": {
+		"slots": {
+			"21": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"arrow": {
+				"color": [
+					{ "time": 0.1, "color": "ffbb007c" },
+					{ "time": 0.2, "color": "ffbb0003" }
+				],
+				"attachment": [
+					{ "name": "d2" }
+				]
+			},
+			"arrow2": {
+				"color": [
+					{ "time": 0.1, "color": "ffbb007c" },
+					{ "time": 0.2, "color": "ffbb0003" }
+				],
+				"attachment": [
+					{ "name": "d1" }
+				]
+			},
+			"attack_1": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"attack_1_z": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"eff_spakle": {
+				"color": [
+					{ "time": 0.2, "color": "ff7d00ff" },
+					{ "time": 0.3, "color": "ffa900ff" },
+					{ "time": 0.5, "color": "ffb50000" }
+				],
+				"attachment": [
+					{ "time": 0.2, "name": "c1" },
+					{ "time": 0.2333, "name": "c2" },
+					{ "time": 0.2667, "name": "c3" },
+					{ "time": 0.3, "name": "c4" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"lightning1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"lightning2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"shot": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{},
+					{ "time": 0.1, "x": 45.86, "y": 0.53, "curve": "stepped" },
+					{ "time": 0.2, "x": 45.86, "y": 0.53 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1, "x": 0.049, "y": 0.47, "curve": "stepped" },
+					{ "time": 0.2, "x": 0.049, "y": 0.47 }
+				]
+			},
+			"eff_spakle": {
+				"translate": [
+					{ "time": 0.1667, "x": 46.39, "y": 3.16, "curve": "stepped" },
+					{ "time": 0.5, "x": 46.39, "y": 3.16 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 0.212, "y": 0.212 }
+				]
+			}
+		}
+	},
+	"magicmissile_crewwand": {
+		"slots": {
+			"11": {
+				"color": [
+					{ "color": "ffc38942" },
+					{ "time": 0.1667, "color": "ffc38916" },
+					{ "time": 0.3333, "color": "ffc38942" }
+				]
+			},
+			"21": {
+				"color": [
+					{ "color": "f7fffd2c" },
+					{ "time": 0.1667, "color": "fff6f498" },
+					{ "time": 0.3333, "color": "fbfffd38" }
+				],
+				"attachment": [
+					{ "name": "21" }
+				]
+			},
+			"arrow": {
+				"attachment": [
+					{ "name": "d2" }
+				]
+			},
+			"arrow2": {
+				"attachment": [
+					{ "name": "d1" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0.2667 }
+				],
+				"translate": [
+					{ "time": 0.2667 }
+				],
+				"scale": [
+					{ "time": 0.2667 }
+				]
+			},
+			"shot": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 0.851, "y": 1.638 },
+					{ "time": 0.3333 }
+				]
+			},
+			"bone": {
+				"translate": [
+					{ "y": 0.02 },
+					{ "time": 0.1667, "x": 8.82, "y": 0.18 }
+				],
+				"scale": [
+					{ "x": 1.173 },
+					{ "time": 0.1667, "x": 0.854, "y": 1.389 }
+				]
+			}
+		},
+		"events": [
+			{ "name": "move_speed", "int": 80 },
+			{ "time": 0.0333, "name": "hitcheck", "string": "attack_1\n" },
+			{ "time": 0.1, "name": "hitcheck", "string": "attack_1\n" },
+			{ "time": 0.1667, "name": "hitcheck", "string": "attack_1\n" },
+			{ "time": 0.2333, "name": "hitcheck", "string": "attack_1\n" },
+			{ "time": 0.3, "name": "hitcheck", "string": "attack_1\n" }
+		]
+	}
+}
+}

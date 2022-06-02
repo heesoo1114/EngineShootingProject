@@ -1,0 +1,307 @@
+
+monster_skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21
+  rotate: false
+  xy: 323, 5
+  size: 212, 55
+  orig: 212, 55
+  offset: 0, 0
+  index: -1
+armpart_down_a
+  rotate: true
+  xy: 537, 4
+  size: 56, 136
+  orig: 64, 141
+  offset: 7, 3
+  index: -1
+armpart_hand_a
+  rotate: false
+  xy: 801, 8
+  size: 57, 91
+  orig: 64, 96
+  offset: 1, 2
+  index: -1
+armpart_up_a
+  rotate: false
+  xy: 1106, 10
+  size: 29, 78
+  orig: 41, 81
+  offset: 6, 0
+  index: -1
+bodypart_chest_a
+  rotate: false
+  xy: 536, 62
+  size: 100, 104
+  orig: 107, 115
+  offset: 4, 2
+  index: -1
+bodypart_pelvis_a
+  rotate: true
+  xy: 1002, 90
+  size: 70, 46
+  orig: 74, 51
+  offset: 3, 2
+  index: -1
+bodypart_waist_a
+  rotate: false
+  xy: 1137, 4
+  size: 16, 28
+  orig: 28, 37
+  offset: 6, 2
+  index: -1
+bodypart_waist_b
+  rotate: false
+  xy: 1245, 90
+  size: 16, 20
+  orig: 27, 29
+  offset: 6, 5
+  index: -1
+headpart_skull_a
+  rotate: false
+  xy: 442, 69
+  size: 92, 136
+  orig: 95, 138
+  offset: 0, 2
+  index: -1
+jaw
+  rotate: true
+  xy: 1171, 45
+  size: 43, 34
+  orig: 48, 38
+  offset: 1, 1
+  index: -1
+legpart_boots_a
+  rotate: false
+  xy: 854, 101
+  size: 58, 77
+  orig: 64, 84
+  offset: 6, 3
+  index: -1
+legpart_down_a
+  rotate: false
+  xy: 1050, 90
+  size: 38, 64
+  orig: 40, 69
+  offset: 0, 1
+  index: -1
+legpart_foot_a
+  rotate: true
+  xy: 1141, 153
+  size: 42, 41
+  orig: 43, 47
+  offset: 1, 0
+  index: -1
+legpart_up_a
+  rotate: true
+  xy: 1077, 156
+  size: 31, 62
+  orig: 40, 65
+  offset: 3, 3
+  index: -1
+skeleton_skin1/armpart_down_a
+  rotate: false
+  xy: 743, 5
+  size: 56, 94
+  orig: 64, 141
+  offset: 7, 3
+  index: -1
+skeleton_skin1/armpart_hand_a
+  rotate: false
+  xy: 743, 101
+  size: 57, 104
+  orig: 87, 119
+  offset: 12, 15
+  index: -1
+skeleton_skin1/armpart_up_a
+  rotate: false
+  xy: 675, 2
+  size: 66, 102
+  orig: 69, 166
+  offset: 2, 46
+  index: -1
+skeleton_skin1/bodypart_chest_a
+  rotate: true
+  xy: 638, 106
+  size: 99, 95
+  orig: 107, 115
+  offset: 6, 11
+  index: -1
+skeleton_skin1/bodypart_pelvis_a
+  rotate: true
+  xy: 1018, 18
+  size: 70, 46
+  orig: 74, 51
+  offset: 3, 1
+  index: -1
+skeleton_skin1/bodypart_waist_a
+  rotate: true
+  xy: 1216, 6
+  size: 23, 40
+  orig: 34, 45
+  offset: 7, 4
+  index: -1
+skeleton_skin1/bodypart_waist_b
+  rotate: false
+  xy: 1066, 3
+  size: 22, 21
+  orig: 27, 29
+  offset: 4, 5
+  index: -1
+skeleton_skin1/headpart_skull_a
+  rotate: false
+  xy: 323, 62
+  size: 117, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+skeleton_skin1/jaw
+  rotate: false
+  xy: 1171, 9
+  size: 43, 34
+  orig: 48, 38
+  offset: 4, 0
+  index: -1
+skeleton_skin1/legpart_boots_a
+  rotate: false
+  xy: 915, 13
+  size: 54, 75
+  orig: 64, 84
+  offset: 7, 7
+  index: -1
+skeleton_skin1/legpart_down_a
+  rotate: false
+  xy: 1090, 90
+  size: 37, 63
+  orig: 40, 69
+  offset: 1, 2
+  index: -1
+skeleton_skin1/legpart_foot_a
+  rotate: false
+  xy: 1213, 143
+  size: 31, 43
+  orig: 55, 59
+  offset: 8, 2
+  index: -1
+skeleton_skin1/legpart_up_a
+  rotate: false
+  xy: 1160, 90
+  size: 27, 59
+  orig: 40, 65
+  offset: 7, 4
+  index: -1
+skeleton_skin1/weapon
+  rotate: false
+  xy: 2, 86
+  size: 315, 119
+  orig: 360, 156
+  offset: 7, 25
+  index: -1
+skeleton_skin1/x_armpart_down_a
+  rotate: true
+  xy: 1002, 162
+  size: 36, 73
+  orig: 45, 121
+  offset: 3, 1
+  index: -1
+skeleton_skin1/x_armpart_hand_a
+  rotate: false
+  xy: 802, 101
+  size: 50, 90
+  orig: 65, 102
+  offset: 9, 8
+  index: -1
+skeleton_skin1/x_armpart_up_a
+  rotate: false
+  xy: 1240, 37
+  size: 21, 51
+  orig: 28, 70
+  offset: 4, 6
+  index: -1
+skeleton_skin1/x_legpart_boots_a
+  rotate: false
+  xy: 971, 15
+  size: 45, 73
+  orig: 60, 93
+  offset: 14, 18
+  index: -1
+skeleton_skin1/x_legpart_down
+  rotate: false
+  xy: 1066, 26
+  size: 38, 62
+  orig: 45, 75
+  offset: 7, 7
+  index: -1
+skeleton_skin1/x_legpart_foot_a
+  rotate: true
+  xy: 1218, 90
+  size: 49, 25
+  orig: 57, 35
+  offset: 6, 6
+  index: -1
+skeleton_skin1/x_legpart_up
+  rotate: false
+  xy: 1184, 151
+  size: 27, 52
+  orig: 33, 58
+  offset: 2, 2
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 15
+  size: 319, 69
+  orig: 352, 103
+  offset: 24, 26
+  index: -1
+x_armpart_down_a
+  rotate: false
+  xy: 914, 90
+  size: 37, 115
+  orig: 45, 121
+  offset: 5, 0
+  index: -1
+x_armpart_hand_a
+  rotate: false
+  xy: 953, 90
+  size: 47, 77
+  orig: 51, 81
+  offset: 4, 4
+  index: -1
+x_armpart_up_a
+  rotate: false
+  xy: 1216, 31
+  size: 22, 57
+  orig: 28, 70
+  offset: 2, 6
+  index: -1
+x_legpart_boots_a
+  rotate: false
+  xy: 860, 9
+  size: 53, 79
+  orig: 60, 93
+  offset: 7, 8
+  index: -1
+x_legpart_down
+  rotate: false
+  xy: 1129, 90
+  size: 29, 61
+  orig: 36, 67
+  offset: 3, 3
+  index: -1
+x_legpart_foot_a
+  rotate: true
+  xy: 1137, 34
+  size: 54, 32
+  orig: 57, 35
+  offset: 3, 0
+  index: -1
+x_legpart_up
+  rotate: false
+  xy: 1189, 90
+  size: 27, 51
+  orig: 33, 58
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,76 @@
+
+ui_spine_fairy_frost.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frost/1
+  rotate: true
+  xy: 54, 10
+  size: 41, 33
+  orig: 42, 35
+  offset: 1, 0
+  index: -1
+frost/2
+  rotate: false
+  xy: 176, 29
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+frost/3
+  rotate: false
+  xy: 236, 28
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+frost/4
+  rotate: true
+  xy: 176, 16
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+frost/5
+  rotate: true
+  xy: 2, 53
+  size: 28, 90
+  orig: 30, 90
+  offset: 1, 0
+  index: -1
+frost/6
+  rotate: false
+  xy: 196, 14
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+frost/7
+  rotate: true
+  xy: 211, 17
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+frost/8
+  rotate: true
+  xy: 236, 54
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 4
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: false
+  xy: 94, 2
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

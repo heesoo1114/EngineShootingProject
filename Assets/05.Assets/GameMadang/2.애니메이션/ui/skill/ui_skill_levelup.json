@@ -1,0 +1,147 @@
+{
+"skeleton": { "hash": "eDQXCmc0/EVDnLXPBdKFm10uigw", "spine": "2.1.27", "width": 0, "height": 0, "images": "./img/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "circle", "parent": "root" },
+	{ "name": "glow", "parent": "root" },
+	{ "name": "reflect", "parent": "root" }
+],
+"slots": [
+	{ "name": "circle1", "bone": "circle", "blend": "additive" },
+	{ "name": "circle2", "bone": "circle", "blend": "additive" },
+	{ "name": "glow", "bone": "glow", "blend": "additive" },
+	{ "name": "2", "bone": "reflect", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"2": {
+			"2": {
+				"type": "mesh",
+				"uvs": [ 0, 0, 0.5, 0, 1, 0, 1, 0.5, 1, 1, 0.5, 1, 0, 1, 0, 0.5, 0.5, 0.5 ],
+				"triangles": [ 7, 0, 1, 8, 1, 2, 7, 1, 8, 8, 2, 3, 6, 7, 8, 5, 8, 3, 6, 8, 5, 5, 3, 4 ],
+				"vertices": [ -25, 25, 0, 25, 25, 25, 25, 0, 25, -25, 0, -25, -25, -25, -25, 0, 0, 0 ],
+				"hull": 8,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+				"width": 50,
+				"height": 50
+			}
+		},
+		"circle1": {
+			"2": { "width": 50, "height": 50 }
+		},
+		"circle2": {
+			"3": { "scaleX": 0.5, "scaleY": 0.5, "width": 102, "height": 102 }
+		},
+		"glow": {
+			"glow1": { "width": 125, "height": 122 }
+		}
+	}
+},
+"animations": {
+	"ui_skill_levelup": {
+		"slots": {
+			"2": {
+				"attachment": [
+					{ "time": 0.5, "name": "2" },
+					{ "time": 0.9333, "name": null }
+				],
+				"color": [
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffff57", "curve": "stepped" },
+					{ "time": 0.7666, "color": "ffffff57" },
+					{ "time": 0.9333, "color": "ffffff00" }
+				]
+			},
+			"circle1": {
+				"attachment": [
+					{ "time": 0, "name": "2" }
+				],
+				"color": [
+					{ "time": 0, "color": "ff4800ff" },
+					{ "time": 0.1, "color": "fffb41ff" },
+					{ "time": 0.2, "color": "ad6f0a00" }
+				]
+			},
+			"circle2": {
+				"attachment": [
+					{ "time": 0.1, "name": "3" }
+				],
+				"color": [
+					{ "time": 0.1, "color": "ff7b00ff" },
+					{ "time": 0.2, "color": "e0ff4dff" },
+					{ "time": 0.3333, "color": "de7b0200" }
+				]
+			},
+			"glow": {
+				"attachment": [
+					{ "time": 0, "name": "glow1" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": null }
+				],
+				"color": [
+					{ "time": 0, "color": "fff287ff" },
+					{ "time": 0.7, "color": "a8d4c5ea" }
+				]
+			}
+		},
+		"bones": {
+			"circle": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.649, "y": 0.649 },
+					{ "time": 0.1, "x": 2.218, "y": 2.218 },
+					{ "time": 0.3333, "x": 2.571, "y": 2.571 }
+				]
+			},
+			"glow": {
+				"translate": [
+					{ "time": 0, "x": 3.98, "y": 40.5 },
+					{ "time": 0.1, "x": 24.91, "y": 36.24 },
+					{ "time": 0.2, "x": 46.81, "y": 3.15 },
+					{ "time": 0.3, "x": 22.61, "y": -36.81 },
+					{ "time": 0.4, "x": -29.45, "y": -33.66 },
+					{ "time": 0.5, "x": -47.86, "y": 5.78 },
+					{ "time": 0.6, "x": -29.45, "y": 41.55 },
+					{ "time": 0.7, "x": 6.31, "y": 48.91 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.548, "y": 0.548 },
+					{ "time": 0.2, "x": 1, "y": 1 },
+					{ "time": 0.7, "x": 0.371, "y": 0.371 }
+				]
+			},
+			"reflect": {
+				"scale": [
+					{ "time": 0.5, "x": 1.723, "y": 1.723 }
+				]
+			}
+		},
+		"ffd": {
+			"default": {
+				"2": {
+					"2": [
+						{
+							"time": 0.5,
+							"offset": 4,
+							"vertices": [ -6.35285, 3.10884, -16.83726, 15.15813, -27.19951, 26.96686, -18.70398, 14.09037, -2.97366, 7.97486, 0, 0, -3.78468, 6.21768 ]
+						},
+						{
+							"time": 0.6666,
+							"vertices": [ 15.67939, -15.13872, 4.05501, -2.0275, 0, 0, -1.21649, 5.00117, -13.65188, 13.51671, -5.00118, 2.0275, 0, 0, 1.622, -4.46051 ]
+						},
+						{
+							"time": 0.8666,
+							"vertices": [ 28.07058, -27.64795, 15.51455, -16.07236, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18.50735, -14.69959, 11.01909, -11.13709 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

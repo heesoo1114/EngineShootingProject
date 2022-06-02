@@ -1,0 +1,230 @@
+
+skill_cursedland.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bind/leaf4
+  rotate: true
+  xy: 967, 43
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+common/c1
+  rotate: false
+  xy: 776, 60
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+common/c2
+  rotate: false
+  xy: 813, 160
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c3
+  rotate: false
+  xy: 1121, 68
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+common/c4
+  rotate: true
+  xy: 934, 66
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c5
+  rotate: false
+  xy: 972, 161
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c6
+  rotate: false
+  xy: 1027, 67
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/glow1
+  rotate: true
+  xy: 639, 153
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/smoke1
+  rotate: true
+  xy: 352, 107
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1
+common/smoke2
+  rotate: true
+  xy: 459, 135
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1
+curse/1
+  rotate: true
+  xy: 2, 37
+  size: 216, 200
+  orig: 216, 200
+  offset: 0, 0
+  index: -1
+curse/2
+  rotate: false
+  xy: 204, 41
+  size: 146, 212
+  orig: 146, 212
+  offset: 0, 0
+  index: -1
+curse/3
+  rotate: true
+  xy: 998, 13
+  size: 28, 18
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+curse/4
+  rotate: true
+  xy: 776, 27
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+curse/5
+  rotate: true
+  xy: 967, 4
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+fire/11
+  rotate: false
+  xy: 459, 115
+  size: 17, 18
+  orig: 19, 19
+  offset: 1, 0
+  index: -1
+fire/1a
+  rotate: true
+  xy: 1203, 165
+  size: 88, 67
+  orig: 109, 75
+  offset: 12, 3
+  index: -1
+fire/1b
+  rotate: true
+  xy: 738, 156
+  size: 97, 73
+  orig: 109, 75
+  offset: 7, 1
+  index: -1
+fire/2a
+  rotate: true
+  xy: 1214, 75
+  size: 88, 67
+  orig: 109, 75
+  offset: 9, 2
+  index: -1
+fire/2b
+  rotate: true
+  xy: 701, 52
+  size: 99, 73
+  orig: 109, 75
+  offset: 4, 1
+  index: -1
+fire/3a
+  rotate: true
+  xy: 1066, 161
+  size: 92, 67
+  orig: 109, 75
+  offset: 7, 2
+  index: -1
+fire/3b
+  rotate: true
+  xy: 557, 32
+  size: 101, 70
+  orig: 109, 75
+  offset: 3, 1
+  index: -1
+fire/4a
+  rotate: true
+  xy: 872, 65
+  size: 93, 60
+  orig: 109, 75
+  offset: 7, 4
+  index: -1
+fire/4b
+  rotate: true
+  xy: 352, 2
+  size: 103, 64
+  orig: 109, 75
+  offset: 2, 3
+  index: -1
+fire/5a
+  rotate: false
+  xy: 1027, 4
+  size: 92, 61
+  orig: 109, 75
+  offset: 7, 4
+  index: -1
+fire/5b
+  rotate: true
+  xy: 569, 152
+  size: 101, 68
+  orig: 109, 75
+  offset: 4, 2
+  index: -1
+fire/6a
+  rotate: true
+  xy: 1135, 162
+  size: 91, 66
+  orig: 109, 75
+  offset: 9, 2
+  index: -1
+fire/6b
+  rotate: true
+  xy: 629, 49
+  size: 101, 70
+  orig: 109, 75
+  offset: 4, 3
+  index: -1
+fire/7a
+  rotate: false
+  xy: 872, 2
+  size: 93, 61
+  orig: 109, 75
+  offset: 8, 2
+  index: -1
+fire/7b
+  rotate: true
+  xy: 418, 3
+  size: 102, 67
+  orig: 109, 75
+  offset: 3, 1
+  index: -1
+fire/8a
+  rotate: true
+  xy: 908, 160
+  size: 93, 62
+  orig: 109, 75
+  offset: 7, 3
+  index: -1
+fire/8b
+  rotate: true
+  xy: 487, 31
+  size: 102, 68
+  orig: 109, 75
+  offset: 2, 1
+  index: -1

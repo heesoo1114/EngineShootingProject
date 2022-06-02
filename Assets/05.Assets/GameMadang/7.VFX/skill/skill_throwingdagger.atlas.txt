@@ -1,0 +1,27 @@
+
+skill_throwingdagger.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/glow1
+  rotate: true
+  xy: 113, 2
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+impact1
+  rotate: false
+  xy: 2, 3
+  size: 109, 99
+  orig: 110, 100
+  offset: 1, 1
+  index: -1
+poison/5
+  rotate: false
+  xy: 2, 104
+  size: 176, 50
+  orig: 184, 51
+  offset: 3, 1
+  index: -1

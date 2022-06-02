@@ -1,0 +1,83 @@
+
+skill_fireball.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bind/leaf4
+  rotate: true
+  xy: 200, 2
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+common/glow1
+  rotate: true
+  xy: 677, 5
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/smoke1
+  rotate: true
+  xy: 677, 107
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1
+common/smoke2
+  rotate: false
+  xy: 784, 145
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1
+common/spark1
+  rotate: true
+  xy: 2, 9
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+common/spark2
+  rotate: true
+  xy: 200, 25
+  size: 228, 186
+  orig: 244, 195
+  offset: 0, 2
+  index: -1
+common/spark3
+  rotate: true
+  xy: 388, 32
+  size: 221, 185
+  orig: 244, 196
+  offset: 2, 0
+  index: -1
+common/spark4
+  rotate: true
+  xy: 575, 94
+  size: 159, 100
+  orig: 244, 196
+  offset: 28, 53
+  index: -1
+fire/1
+  rotate: false
+  xy: 575, 53
+  size: 95, 39
+  orig: 102, 44
+  offset: 3, 3
+  index: -1
+fire/2
+  rotate: true
+  xy: 776, 15
+  size: 90, 39
+  orig: 94, 46
+  offset: 3, 5
+  index: -1
+fire/3
+  rotate: false
+  xy: 575, 13
+  size: 91, 38
+  orig: 96, 43
+  offset: 2, 2
+  index: -1

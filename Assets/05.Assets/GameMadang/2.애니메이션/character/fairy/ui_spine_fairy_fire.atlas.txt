@@ -1,0 +1,139 @@
+
+ui_spine_fairy_fire.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/vigrid1
+  rotate: false
+  xy: 330, 18
+  size: 29, 29
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+effect/vigrid2
+  rotate: true
+  xy: 38, 3
+  size: 29, 33
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+effect/vigrid3
+  rotate: true
+  xy: 2, 4
+  size: 28, 34
+  orig: 29, 34
+  offset: 1, 0
+  index: -1
+effect/vigrid4
+  rotate: false
+  xy: 300, 2
+  size: 28, 30
+  orig: 29, 34
+  offset: 1, 0
+  index: -1
+effect/vigrid5
+  rotate: false
+  xy: 301, 49
+  size: 29, 30
+  orig: 29, 34
+  offset: 0, 1
+  index: -1
+effect/vigrid6
+  rotate: true
+  xy: 265, 4
+  size: 28, 33
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+fire/1
+  rotate: true
+  xy: 2, 34
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+fire/10
+  rotate: true
+  xy: 332, 71
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+fire/11
+  rotate: true
+  xy: 133, 19
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+fire/2
+  rotate: false
+  xy: 204, 72
+  size: 40, 54
+  orig: 41, 55
+  offset: 1, 0
+  index: -1
+fire/3
+  rotate: true
+  xy: 246, 81
+  size: 45, 37
+  orig: 47, 37
+  offset: 2, 0
+  index: -1
+fire/4
+  rotate: false
+  xy: 325, 98
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+fire/5
+  rotate: false
+  xy: 74, 5
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+fire/6
+  rotate: true
+  xy: 265, 34
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+fire/7
+  rotate: true
+  xy: 155, 2
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+fire/8
+  rotate: false
+  xy: 285, 81
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+fire/9
+  rotate: true
+  xy: 155, 53
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 216, 20
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: true
+  xy: 74, 46
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bullet_arrow.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 2, 2
+  size: 173, 55
+  orig: 173, 65
+  offset: 0, 5
+  index: -1
+bullet_arrow_effect/shine1
+  rotate: false
+  xy: 288, 75
+  size: 37, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1
+lamia_archer_boss1/arrow
+  rotate: true
+  xy: 233, 2
+  size: 173, 53
+  orig: 173, 65
+  offset: 0, 7
+  index: -1
+lamia_archer_skin1/arrow
+  rotate: true
+  xy: 233, 2
+  size: 173, 53
+  orig: 173, 65
+  offset: 0, 7
+  index: -1
+spark
+  rotate: false
+  xy: 2, 59
+  size: 229, 116
+  orig: 229, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+effect25.png
+size: 173,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 138, 738
+  size: 82, 32
+  orig: 83, 33
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 138, 726
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 11
+  size: 41, 43
+  orig: 50, 51
+  offset: 5, 4
+  index: -1
+4
+  rotate: false
+  xy: 129, 612
+  size: 40, 98
+  orig: 40, 100
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 129, 545
+  size: 34, 65
+  orig: 34, 67
+  offset: 0, 1
+  index: -1
+6
+  rotate: true
+  xy: 114, 387
+  size: 26, 56
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 107
+  size: 67, 60
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 114, 280
+  size: 52, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 2, 54
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c3
+  rotate: true
+  xy: 55, 55
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+c4
+  rotate: true
+  xy: 108, 55
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+c5
+  rotate: false
+  xy: 55, 2
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c6
+  rotate: false
+  xy: 108, 2
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+callin_1
+  rotate: false
+  xy: 2, 392
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+callin_2
+  rotate: false
+  xy: 2, 280
+  size: 110, 110
+  orig: 111, 110
+  offset: 1, 0
+  index: -1
+callin_3
+  rotate: false
+  xy: 2, 169
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 114, 333
+  size: 54, 52
+  orig: 69, 67
+  offset: 7, 8
+  index: -1
+smoke1
+  rotate: true
+  xy: 113, 198
+  size: 80, 58
+  orig: 81, 62
+  offset: 1, 4
+  index: -1
+smoke2
+  rotate: false
+  xy: 71, 107
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+spark1
+  rotate: false
+  xy: 2, 712
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+spark2
+  rotate: false
+  xy: 2, 608
+  size: 125, 102
+  orig: 134, 107
+  offset: 0, 1
+  index: -1
+spark3
+  rotate: false
+  xy: 2, 504
+  size: 122, 102
+  orig: 134, 108
+  offset: 1, 0
+  index: -1
+spark4
+  rotate: true
+  xy: 114, 415
+  size: 87, 56
+  orig: 134, 108
+  offset: 16, 29
+  index: -1

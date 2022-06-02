@@ -1,0 +1,321 @@
+
+monster_spider.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: true
+  xy: 1033, 6
+  size: 26, 59
+  orig: 28, 61
+  offset: 1, 1
+  index: -1
+armpart_down_b
+  rotate: true
+  xy: 174, 11
+  size: 26, 99
+  orig: 30, 101
+  offset: 2, 1
+  index: -1
+armpart_down_c
+  rotate: true
+  xy: 790, 119
+  size: 39, 102
+  orig: 41, 106
+  offset: 1, 4
+  index: -1
+armpart_down_d
+  rotate: true
+  xy: 637, 54
+  size: 38, 117
+  orig: 39, 118
+  offset: 0, 1
+  index: -1
+armpart_hand_a
+  rotate: true
+  xy: 248, 52
+  size: 83, 239
+  orig: 92, 245
+  offset: 9, 2
+  index: -1
+armpart_hand_b
+  rotate: true
+  xy: 489, 94
+  size: 50, 157
+  orig: 60, 228
+  offset: 1, 35
+  index: -1
+armpart_hand_c
+  rotate: true
+  xy: 212, 299
+  size: 67, 151
+  orig: 69, 174
+  offset: 1, 12
+  index: -1
+armpart_hand_d
+  rotate: true
+  xy: 365, 303
+  size: 63, 136
+  orig: 67, 208
+  offset: 0, 38
+  index: -1
+armpart_handb_a
+  rotate: true
+  xy: 722, 202
+  size: 111, 200
+  orig: 130, 226
+  offset: 6, 22
+  index: -1
+armpart_handb_b
+  rotate: true
+  xy: 275, 7
+  size: 43, 160
+  orig: 45, 162
+  offset: 1, 0
+  index: -1
+armpart_handb_c
+  rotate: true
+  xy: 503, 311
+  size: 55, 148
+  orig: 58, 149
+  offset: 3, 0
+  index: -1
+armpart_handb_d
+  rotate: true
+  xy: 648, 108
+  size: 43, 140
+  orig: 45, 143
+  offset: 2, 1
+  index: -1
+armpart_up_a
+  rotate: true
+  xy: 969, 67
+  size: 64, 108
+  orig: 64, 111
+  offset: 0, 2
+  index: -1
+armpart_upb_a
+  rotate: true
+  xy: 756, 64
+  size: 42, 100
+  orig: 47, 100
+  offset: 1, 0
+  index: -1
+bodtpart_chest_a
+  rotate: true
+  xy: 704, 409
+  size: 100, 96
+  orig: 109, 97
+  offset: 7, 1
+  index: -1
+bodtpart_hip_a
+  rotate: false
+  xy: 334, 146
+  size: 179, 151
+  orig: 183, 156
+  offset: 4, 1
+  index: -1
+effect/new1
+  rotate: false
+  xy: 212, 368
+  size: 318, 141
+  orig: 319, 143
+  offset: 0, 1
+  index: -1
+effect/new2
+  rotate: false
+  xy: 2, 137
+  size: 330, 139
+  orig: 331, 140
+  offset: 1, 1
+  index: -1
+effect/new3
+  rotate: false
+  xy: 967, 249
+  size: 170, 185
+  orig: 170, 186
+  offset: 0, 0
+  index: -1
+effect/new4
+  rotate: false
+  xy: 532, 370
+  size: 170, 139
+  orig: 170, 141
+  offset: 0, 0
+  index: -1
+effect/new6
+  rotate: false
+  xy: 900, 436
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+effect/new7
+  rotate: false
+  xy: 883, 18
+  size: 65, 43
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+effect/web
+  rotate: true
+  xy: 174, 7
+  size: 2, 10
+  orig: 10, 10
+  offset: 4, 0
+  index: -1
+headpart_face_a
+  rotate: false
+  xy: 803, 316
+  size: 81, 91
+  orig: 87, 99
+  offset: 0, 8
+  index: -1
+headpart_face_jaw_a
+  rotate: true
+  xy: 2, 2
+  size: 35, 84
+  orig: 41, 84
+  offset: 4, 0
+  index: -1
+headpart_face_jaw_b
+  rotate: true
+  xy: 950, 6
+  size: 26, 81
+  orig: 27, 82
+  offset: 1, 0
+  index: -1
+spider_skin1/armpart_down_a
+  rotate: true
+  xy: 1034, 39
+  size: 26, 59
+  orig: 28, 61
+  offset: 1, 1
+  index: -1
+spider_skin1/armpart_down_b
+  rotate: true
+  xy: 894, 133
+  size: 26, 99
+  orig: 30, 101
+  offset: 2, 1
+  index: -1
+spider_skin1/armpart_down_c
+  rotate: true
+  xy: 877, 161
+  size: 39, 102
+  orig: 41, 106
+  offset: 1, 3
+  index: -1
+spider_skin1/armpart_down_d
+  rotate: true
+  xy: 656, 160
+  size: 38, 117
+  orig: 39, 118
+  offset: 0, 0
+  index: -1
+spider_skin1/armpart_hand_a
+  rotate: true
+  xy: 2, 39
+  size: 96, 244
+  orig: 112, 265
+  offset: 13, 13
+  index: -1
+spider_skin1/armpart_hand_b
+  rotate: true
+  xy: 437, 7
+  size: 43, 154
+  orig: 43, 163
+  offset: 0, 3
+  index: -1
+spider_skin1/armpart_hand_c
+  rotate: true
+  xy: 653, 315
+  size: 53, 148
+  orig: 60, 151
+  offset: 4, 0
+  index: -1
+spider_skin1/armpart_hand_d
+  rotate: true
+  xy: 515, 153
+  size: 45, 139
+  orig: 46, 143
+  offset: 1, 4
+  index: -1
+spider_skin1/armpart_handb_a
+  rotate: true
+  xy: 515, 200
+  size: 109, 205
+  orig: 118, 205
+  offset: 8, 0
+  index: -1
+spider_skin1/armpart_handb_b
+  rotate: true
+  xy: 489, 52
+  size: 40, 146
+  orig: 45, 162
+  offset: 2, 4
+  index: -1
+spider_skin1/armpart_handb_c
+  rotate: true
+  xy: 593, 5
+  size: 45, 143
+  orig: 58, 149
+  offset: 7, 3
+  index: -1
+spider_skin1/armpart_handb_d
+  rotate: true
+  xy: 738, 7
+  size: 45, 143
+  orig: 45, 143
+  offset: 0, 0
+  index: -1
+spider_skin1/armpart_up_a
+  rotate: true
+  xy: 858, 63
+  size: 54, 109
+  orig: 64, 111
+  offset: 9, 2
+  index: -1
+spider_skin1/armpart_upb_a
+  rotate: true
+  xy: 775, 160
+  size: 40, 100
+  orig: 47, 100
+  offset: 2, 0
+  index: -1
+spider_skin1/bodtpart_chest_a
+  rotate: true
+  xy: 802, 409
+  size: 100, 96
+  orig: 109, 97
+  offset: 6, 0
+  index: -1
+spider_skin1/bodtpart_hip_a
+  rotate: false
+  xy: 2, 278
+  size: 208, 231
+  orig: 333, 306
+  offset: 52, 71
+  index: -1
+spider_skin1/headpart_face_a
+  rotate: false
+  xy: 886, 317
+  size: 79, 90
+  orig: 85, 95
+  offset: 1, 3
+  index: -1
+spider_skin1/headpart_face_jaw_a
+  rotate: true
+  xy: 88, 2
+  size: 35, 84
+  orig: 41, 84
+  offset: 4, 0
+  index: -1
+spider_skin1/headpart_face_jaw_b
+  rotate: true
+  xy: 950, 34
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_adventure_star.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/11
+  rotate: false
+  xy: 2, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+common/2
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+common/5
+  rotate: false
+  xy: 2, 24
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+radial2
+  rotate: false
+  xy: 182, 61
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+ui_deco_star2_on
+  rotate: false
+  xy: 106, 54
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_screen_protection_mode.png
+size: 1337,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/Screen Protection Mode
+  rotate: true
+  xy: 1140, 249
+  size: 393, 29
+  orig: 393, 29
+  offset: 0, 0
+  index: -1
+img/Screen Protection Mode2
+  rotate: true
+  xy: 1171, 341
+  size: 301, 29
+  orig: 307, 29
+  offset: 5, 0
+  index: -1
+img/background_black
+  rotate: true
+  xy: 2, 2
+  size: 640, 1136
+  orig: 640, 1136
+  offset: 0, 0
+  index: -1
+img/shine1
+  rotate: true
+  xy: 1140, 16
+  size: 34, 91
+  orig: 38, 100
+  offset: 2, 5
+  index: -1
+img/ui_deco_magicwall
+  rotate: false
+  xy: 1140, 52
+  size: 195, 195
+  orig: 196, 196
+  offset: 0, 1
+  index: -1

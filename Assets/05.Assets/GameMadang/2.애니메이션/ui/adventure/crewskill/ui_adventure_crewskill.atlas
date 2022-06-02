@@ -1,0 +1,20 @@
+
+ui_adventure_crewskill.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+roundeff
+  rotate: false
+  xy: 2, 54
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

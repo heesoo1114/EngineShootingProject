@@ -1,0 +1,13 @@
+
+ui_costume_change.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1

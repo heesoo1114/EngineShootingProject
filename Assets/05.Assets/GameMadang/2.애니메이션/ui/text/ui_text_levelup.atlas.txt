@@ -1,0 +1,13 @@
+
+ui_text_levelup.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_levelup
+  rotate: false
+  xy: 2, 2
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1

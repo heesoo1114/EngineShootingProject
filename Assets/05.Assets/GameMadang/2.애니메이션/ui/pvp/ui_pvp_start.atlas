@@ -1,0 +1,41 @@
+
+ui_pvp_start.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 313, 41
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+pvpstart
+  rotate: false
+  xy: 2, 2
+  size: 309, 244
+  orig: 309, 244
+  offset: 0, 0
+  index: -1
+shadow3
+  rotate: false
+  xy: 440, 63
+  size: 40, 100
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+text8
+  rotate: false
+  xy: 313, 165
+  size: 244, 81
+  orig: 244, 81
+  offset: 0, 0
+  index: -1
+text9
+  rotate: false
+  xy: 559, 192
+  size: 165, 54
+  orig: 165, 54
+  offset: 0, 0
+  index: -1

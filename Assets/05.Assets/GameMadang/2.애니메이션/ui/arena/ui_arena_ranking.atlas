@@ -1,0 +1,48 @@
+
+ui_arena_ranking.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 273, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+rank1
+  rotate: false
+  xy: 273, 54
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+rank2
+  rotate: false
+  xy: 2, 71
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+rank3
+  rotate: false
+  xy: 154, 71
+  size: 117, 55
+  orig: 117, 55
+  offset: 0, 0
+  index: -1
+rank4
+  rotate: false
+  xy: 2, 14
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+rank5
+  rotate: false
+  xy: 154, 14
+  size: 117, 55
+  orig: 117, 55
+  offset: 0, 0
+  index: -1

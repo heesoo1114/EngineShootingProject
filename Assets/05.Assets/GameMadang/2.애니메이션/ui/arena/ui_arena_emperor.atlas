@@ -1,0 +1,27 @@
+
+ui_arena_emperor.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/eff2
+  rotate: false
+  xy: 2, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+common/light
+  rotate: false
+  xy: 2, 78
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 164, 114
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1

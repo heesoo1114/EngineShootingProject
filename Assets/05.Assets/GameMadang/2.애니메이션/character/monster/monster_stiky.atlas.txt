@@ -1,0 +1,97 @@
+
+monster_stiky.png
+size: 128,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_skin1/EXpaart_a
+  rotate: true
+  xy: 43, 25
+  size: 13, 33
+  orig: 39, 56
+  offset: 14, 13
+  index: -1
+fire_skin1/EXpaart_b
+  rotate: true
+  xy: 78, 26
+  size: 12, 28
+  orig: 34, 65
+  offset: 12, 16
+  index: -1
+fire_skin1/armpart_hand_L
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/armpart_hand_R
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/bodypart_EX_a
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/bodypart_EX_c
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/bodypart_chest_a
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/headpart_hair_b
+  rotate: false
+  xy: 63, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fire_skin1/bodypart_EX_b
+  rotate: false
+  xy: 108, 19
+  size: 17, 19
+  orig: 18, 20
+  offset: 1, 0
+  index: -1
+fire_skin1/headpart_face_a
+  rotate: true
+  xy: 43, 40
+  size: 96, 83
+  orig: 130, 123
+  offset: 26, 3
+  index: -1
+fire_skin1/headpart_hair_a
+  rotate: true
+  xy: 43, 7
+  size: 16, 18
+  orig: 23, 40
+  offset: 4, 13
+  index: -1
+fire_skin1/headpart_hair_c
+  rotate: false
+  xy: 78, 6
+  size: 19, 18
+  orig: 25, 40
+  offset: 3, 15
+  index: -1
+fire_skin1/shot_a
+  rotate: false
+  xy: 2, 2
+  size: 39, 134
+  orig: 118, 191
+  offset: 40, 23
+  index: -1

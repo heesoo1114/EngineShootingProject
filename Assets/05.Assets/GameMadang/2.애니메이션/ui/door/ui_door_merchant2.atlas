@@ -1,0 +1,13 @@
+
+ui_door_merchant2.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guardian
+  rotate: false
+  xy: 2, 2
+  size: 88, 169
+  orig: 88, 169
+  offset: 0, 0
+  index: -1

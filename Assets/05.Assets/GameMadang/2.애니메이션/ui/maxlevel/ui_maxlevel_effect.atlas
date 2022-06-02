@@ -1,0 +1,27 @@
+
+ui_maxlevel_effect.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stun/17
+  rotate: false
+  xy: 2, 191
+  size: 64, 194
+  orig: 64, 194
+  offset: 0, 0
+  index: -1
+stun/18
+  rotate: false
+  xy: 2, 2
+  size: 64, 187
+  orig: 64, 187
+  offset: 0, 0
+  index: -1
+stun/19
+  rotate: false
+  xy: 68, 255
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1

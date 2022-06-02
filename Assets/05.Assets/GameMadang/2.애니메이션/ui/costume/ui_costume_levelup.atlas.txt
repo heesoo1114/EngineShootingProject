@@ -1,0 +1,27 @@
+
+ui_costume_levelup.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 112, 10
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+boxeffect
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 214, 10
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1

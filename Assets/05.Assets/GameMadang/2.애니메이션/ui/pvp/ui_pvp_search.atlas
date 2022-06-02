@@ -1,0 +1,34 @@
+
+ui_pvp_search.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back1a
+  rotate: false
+  xy: 2, 2
+  size: 316, 235
+  orig: 316, 235
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 320, 70
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+name2
+  rotate: false
+  xy: 320, 172
+  size: 322, 65
+  orig: 322, 65
+  offset: 0, 0
+  index: -1
+ui_deco1
+  rotate: false
+  xy: 644, 200
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1

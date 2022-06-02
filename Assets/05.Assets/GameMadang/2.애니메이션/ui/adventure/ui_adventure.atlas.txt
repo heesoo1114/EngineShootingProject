@@ -1,0 +1,195 @@
+
+ui_adventure.png
+size: 1746,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1152, 97
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+adventure/OFF
+  rotate: false
+  xy: 647, 8
+  size: 49, 29
+  orig: 49, 30
+  offset: 0, 1
+  index: -1
+adventure/ON
+  rotate: false
+  xy: 1076, 51
+  size: 42, 29
+  orig: 43, 30
+  offset: 1, 1
+  index: -1
+adventure/player
+  rotate: true
+  xy: 1120, 53
+  size: 27, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+adventure/ui_adventure_bless
+  rotate: false
+  xy: 286, 8
+  size: 200, 191
+  orig: 200, 211
+  offset: 0, 20
+  index: -1
+adventure/ui_adventure_door
+  rotate: false
+  xy: 101, 7
+  size: 183, 192
+  orig: 183, 192
+  offset: 0, 0
+  index: -1
+adventure/ui_adventure_key
+  rotate: false
+  xy: 1008, 60
+  size: 66, 139
+  orig: 66, 142
+  offset: 0, 0
+  index: -1
+adventure/ui_adventure_lock
+  rotate: false
+  xy: 706, 50
+  size: 110, 149
+  orig: 112, 150
+  offset: 1, 1
+  index: -1
+adventure/ui_adventure_lock2
+  rotate: true
+  xy: 698, 2
+  size: 44, 421
+  orig: 55, 423
+  offset: 6, 1
+  index: -1
+adventure/ui_adventure_moster
+  rotate: true
+  xy: 875, 54
+  size: 145, 131
+  orig: 146, 131
+  offset: 1, 0
+  index: -1
+adventure/ui_adventure_text1
+  rotate: false
+  xy: 1546, 144
+  size: 198, 55
+  orig: 200, 55
+  offset: 1, 0
+  index: -1
+adventure/ui_adventure_text2
+  rotate: false
+  xy: 1333, 86
+  size: 211, 55
+  orig: 212, 56
+  offset: 1, 1
+  index: -1
+adventure/ui_adventure_text3
+  rotate: false
+  xy: 1546, 87
+  size: 198, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+adventure/ui_adventure_text4
+  rotate: false
+  xy: 1546, 30
+  size: 198, 55
+  orig: 200, 55
+  offset: 1, 0
+  index: -1
+adventure/ui_adventure_text5
+  rotate: true
+  xy: 818, 51
+  size: 148, 55
+  orig: 150, 55
+  offset: 1, 0
+  index: -1
+adventure/ui_adventure_text6
+  rotate: false
+  xy: 1333, 29
+  size: 211, 55
+  orig: 212, 56
+  offset: 1, 1
+  index: -1
+adventure/ui_adventure_text7
+  rotate: false
+  xy: 1298, 143
+  size: 246, 56
+  orig: 248, 56
+  offset: 1, 0
+  index: -1
+adventure/ui_adventure_text8
+  rotate: true
+  xy: 2, 2
+  size: 197, 55
+  orig: 198, 55
+  offset: 0, 0
+  index: -1
+adventure/ui_adventure_text9
+  rotate: true
+  xy: 648, 48
+  size: 151, 56
+  orig: 151, 56
+  offset: 0, 0
+  index: -1
+adventure/ui_swich_body
+  rotate: true
+  xy: 1076, 82
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+adventure/ui_swich_hand
+  rotate: true
+  xy: 488, 3
+  size: 34, 157
+  orig: 35, 157
+  offset: 1, 0
+  index: -1
+chest1
+  rotate: true
+  xy: 1259, 18
+  size: 81, 72
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+chest2
+  rotate: false
+  xy: 1167, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+common/light
+  rotate: true
+  xy: 488, 39
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+common/sparkle1
+  rotate: false
+  xy: 1121, 7
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+shadow3
+  rotate: false
+  xy: 1256, 101
+  size: 40, 98
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 59, 3
+  size: 40, 196
+  orig: 40, 200
+  offset: 0, 2
+  index: -1

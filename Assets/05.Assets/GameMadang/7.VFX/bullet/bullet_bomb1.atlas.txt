@@ -1,0 +1,41 @@
+
+bullet_bomb1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb/bomb_stun
+  rotate: false
+  xy: 190, 2
+  size: 183, 77
+  orig: 197, 95
+  offset: 9, 5
+  index: -1
+gyrocopter_boss1/bomb/bomb_stun
+  rotate: false
+  xy: 2, 2
+  size: 186, 77
+  orig: 197, 95
+  offset: 9, 5
+  index: -1
+h1
+  rotate: true
+  xy: 538, 10
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 375, 5
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 458, 5
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ui_effect_magicwall.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/eff2
+  rotate: false
+  xy: 327, 124
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+common/eff3
+  rotate: false
+  xy: 200, 6
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+common/glow1
+  rotate: false
+  xy: 200, 76
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+ui_deco_magicwall
+  rotate: false
+  xy: 2, 2
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1

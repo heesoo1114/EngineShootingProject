@@ -1,0 +1,111 @@
+
+arrow_crewshortbow.png
+size: 1388,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1038, 3
+  size: 193, 31
+  orig: 213, 41
+  offset: 4, 5
+  index: -1
+2
+  rotate: false
+  xy: 1042, 36
+  size: 198, 39
+  orig: 213, 41
+  offset: 0, 1
+  index: -1
+21
+  rotate: false
+  xy: 391, 14
+  size: 224, 61
+  orig: 233, 61
+  offset: 3, 0
+  index: -1
+3
+  rotate: false
+  xy: 830, 6
+  size: 206, 29
+  orig: 213, 41
+  offset: 5, 6
+  index: -1
+4
+  rotate: false
+  xy: 830, 37
+  size: 210, 38
+  orig: 213, 41
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 617, 2
+  size: 206, 32
+  orig: 213, 41
+  offset: 5, 5
+  index: -1
+6
+  rotate: false
+  xy: 617, 36
+  size: 211, 39
+  orig: 213, 41
+  offset: 1, 1
+  index: -1
+arrow
+  rotate: false
+  xy: 2, 2
+  size: 364, 29
+  orig: 364, 29
+  offset: 0, 0
+  index: -1
+arrow_move
+  rotate: false
+  xy: 2, 33
+  size: 387, 42
+  orig: 388, 42
+  offset: 1, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1242, 13
+  size: 47, 62
+  orig: 67, 64
+  offset: 9, 1
+  index: -1
+b2
+  rotate: false
+  xy: 1291, 15
+  size: 47, 60
+  orig: 67, 64
+  offset: 9, 2
+  index: -1
+b3
+  rotate: true
+  xy: 1362, 18
+  size: 57, 24
+  orig: 67, 64
+  offset: 3, 24
+  index: -1
+b4
+  rotate: true
+  xy: 1340, 17
+  size: 58, 20
+  orig: 67, 64
+  offset: 2, 26
+  index: -1
+b5
+  rotate: false
+  xy: 1291, 7
+  size: 54, 6
+  orig: 67, 64
+  offset: 12, 31
+  index: -1
+b6
+  rotate: false
+  xy: 1233, 8
+  size: 54, 3
+  orig: 67, 64
+  offset: 12, 32
+  index: -1

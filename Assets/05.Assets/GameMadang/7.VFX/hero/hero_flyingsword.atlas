@@ -1,0 +1,27 @@
+
+hero_flyingsword.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+impact1
+  rotate: false
+  xy: 304, 24
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 129, 64
+  size: 60, 173
+  orig: 60, 173
+  offset: 0, 0
+  index: -1

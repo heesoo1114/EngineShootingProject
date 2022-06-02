@@ -1,0 +1,27 @@
+
+ui_randomchest.png
+size: 239,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/glow1
+  rotate: true
+  xy: 2, 3
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/sparkle1
+  rotate: false
+  xy: 193, 59
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+randomchest
+  rotate: true
+  xy: 101, 2
+  size: 101, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1

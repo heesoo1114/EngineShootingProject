@@ -1,0 +1,132 @@
+
+skill_icebolt.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 575, 14
+  size: 147, 58
+  orig: 150, 60
+  offset: 2, 1
+  index: -1
+11
+  rotate: true
+  xy: 648, 74
+  size: 17, 18
+  orig: 19, 19
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 1180, 81
+  size: 75, 78
+  orig: 91, 92
+  offset: 8, 7
+  index: -1
+4
+  rotate: false
+  xy: 575, 74
+  size: 71, 178
+  orig: 73, 181
+  offset: 1, 2
+  index: -1
+6
+  rotate: false
+  xy: 750, 2
+  size: 46, 102
+  orig: 47, 104
+  offset: 0, 1
+  index: -1
+c1
+  rotate: false
+  xy: 897, 38
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+c2
+  rotate: false
+  xy: 967, 159
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+c3
+  rotate: false
+  xy: 1156, 161
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+c4
+  rotate: true
+  xy: 993, 65
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+c5
+  rotate: false
+  xy: 1062, 160
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+c6
+  rotate: false
+  xy: 1086, 66
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+glow1
+  rotate: true
+  xy: 798, 4
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+smoke1
+  rotate: true
+  xy: 750, 106
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1
+smoke2
+  rotate: true
+  xy: 857, 134
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1
+spark1
+  rotate: true
+  xy: 2, 8
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+spark2
+  rotate: true
+  xy: 200, 24
+  size: 228, 186
+  orig: 244, 195
+  offset: 0, 2
+  index: -1
+spark3
+  rotate: true
+  xy: 388, 31
+  size: 221, 185
+  orig: 244, 196
+  offset: 2, 0
+  index: -1
+spark4
+  rotate: true
+  xy: 648, 93
+  size: 159, 100
+  orig: 244, 196
+  offset: 28, 53
+  index: -1

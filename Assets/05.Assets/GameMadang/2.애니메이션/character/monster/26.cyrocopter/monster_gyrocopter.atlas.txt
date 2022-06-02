@@ -1,0 +1,419 @@
+
+monster_gyrocopter.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 364, 18
+  size: 82, 56
+  orig: 97, 68
+  offset: 13, 7
+  index: -1
+bomb/bomb_stun
+  rotate: false
+  xy: 1027, 95
+  size: 183, 77
+  orig: 197, 95
+  offset: 9, 5
+  index: -1
+bomb_a
+  rotate: false
+  xy: 1967, 478
+  size: 65, 73
+  orig: 73, 83
+  offset: 3, 0
+  index: -1
+bomb_b
+  rotate: false
+  xy: 592, 15
+  size: 73, 57
+  orig: 84, 62
+  offset: 8, 4
+  index: -1
+bomb_up
+  rotate: true
+  xy: 1212, 70
+  size: 71, 166
+  orig: 72, 176
+  offset: 1, 1
+  index: -1
+chair
+  rotate: false
+  xy: 1438, 161
+  size: 179, 157
+  orig: 195, 166
+  offset: 12, 7
+  index: -1
+goblin
+  rotate: false
+  xy: 1309, 143
+  size: 126, 173
+  orig: 154, 185
+  offset: 10, 1
+  index: -1
+gyrocopter_boss1/body
+  rotate: false
+  xy: 267, 6
+  size: 95, 68
+  orig: 165, 137
+  offset: 30, 55
+  index: -1
+gyrocopter_boss1/bomb/bomb_a
+  rotate: false
+  xy: 1153, 31
+  size: 54, 62
+  orig: 61, 69
+  offset: 4, 0
+  index: -1
+gyrocopter_boss1/bomb/bomb_stun
+  rotate: false
+  xy: 839, 97
+  size: 186, 77
+  orig: 197, 95
+  offset: 9, 5
+  index: -1
+gyrocopter_boss1/bomb_a
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/bomb_b
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_a_a
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_a_b
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_a_c
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_b_a
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_b_b
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_b_c
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_b_exback
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_c_a
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_c_b
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_c_c
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_c_ex
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_c_exback
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/reg
+  rotate: false
+  xy: 2034, 550
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/bomb_up
+  rotate: true
+  xy: 1437, 87
+  size: 72, 171
+  orig: 72, 176
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/chair
+  rotate: true
+  xy: 1791, 347
+  size: 204, 174
+  orig: 278, 249
+  offset: 6, 74
+  index: -1
+gyrocopter_boss1/goblin
+  rotate: true
+  xy: 162, 78
+  size: 125, 162
+  orig: 177, 209
+  offset: 42, 14
+  index: -1
+gyrocopter_boss1/handle
+  rotate: false
+  xy: 1380, 88
+  size: 38, 53
+  orig: 125, 135
+  offset: 47, 46
+  index: -1
+gyrocopter_boss1/head
+  rotate: true
+  xy: 1136, 174
+  size: 142, 171
+  orig: 142, 171
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/jaw
+  rotate: false
+  xy: 839, 6
+  size: 104, 89
+  orig: 223, 176
+  offset: 48, 65
+  index: -1
+gyrocopter_boss1/jaw_m
+  rotate: false
+  xy: 1762, 55
+  size: 117, 108
+  orig: 129, 110
+  offset: 9, 0
+  index: -1
+gyrocopter_boss1/misiles
+  rotate: false
+  xy: 726, 176
+  size: 204, 150
+  orig: 244, 185
+  offset: 3, 31
+  index: -1
+gyrocopter_boss1/propeller_a_ex
+  rotate: false
+  xy: 2, 205
+  size: 722, 346
+  orig: 722, 346
+  offset: 0, 0
+  index: -1
+gyrocopter_boss1/propeller_a_exback
+  rotate: false
+  xy: 1984, 280
+  size: 33, 125
+  orig: 90, 151
+  offset: 33, 19
+  index: -1
+gyrocopter_boss1/propeller_b_ex
+  rotate: true
+  xy: 1482, 29
+  size: 56, 121
+  orig: 129, 143
+  offset: 39, 22
+  index: -1
+gyrocopter_boss1/xreg
+  rotate: false
+  xy: 726, 328
+  size: 519, 223
+  orig: 527, 223
+  offset: 5, 0
+  index: -1
+handle
+  rotate: false
+  xy: 1967, 407
+  size: 61, 69
+  orig: 66, 76
+  offset: 3, 3
+  index: -1
+head
+  rotate: false
+  xy: 1791, 165
+  size: 191, 180
+  orig: 198, 194
+  offset: 1, 5
+  index: -1
+jaw
+  rotate: false
+  xy: 1610, 53
+  size: 135, 90
+  orig: 141, 93
+  offset: 6, 1
+  index: -1
+jaw_m
+  rotate: false
+  xy: 1881, 67
+  size: 129, 96
+  orig: 134, 100
+  offset: 1, 0
+  index: -1
+misiles
+  rotate: false
+  xy: 932, 176
+  size: 202, 150
+  orig: 221, 162
+  offset: 8, 4
+  index: -1
+propeller_a_a
+  rotate: true
+  xy: 1438, 320
+  size: 231, 183
+  orig: 231, 186
+  offset: 0, 3
+  index: -1
+propeller_a_b
+  rotate: true
+  xy: 1623, 324
+  size: 227, 166
+  orig: 227, 180
+  offset: 0, 0
+  index: -1
+propeller_a_c
+  rotate: true
+  xy: 1247, 318
+  size: 233, 189
+  orig: 239, 201
+  offset: 0, 0
+  index: -1
+propeller_a_ex
+  rotate: false
+  xy: 667, 17
+  size: 59, 55
+  orig: 66, 71
+  offset: 1, 6
+  index: -1
+propeller_a_exback
+  rotate: false
+  xy: 1984, 172
+  size: 35, 106
+  orig: 54, 116
+  offset: 11, 5
+  index: -1
+propeller_b_a
+  rotate: true
+  xy: 2, 68
+  size: 135, 158
+  orig: 157, 163
+  offset: 12, 0
+  index: -1
+propeller_b_b
+  rotate: true
+  xy: 326, 76
+  size: 127, 159
+  orig: 146, 163
+  offset: 8, 1
+  index: -1
+propeller_b_c
+  rotate: true
+  xy: 487, 85
+  size: 118, 167
+  orig: 127, 167
+  offset: 4, 0
+  index: -1
+propeller_b_ex
+  rotate: true
+  xy: 945, 2
+  size: 91, 100
+  orig: 93, 107
+  offset: 2, 3
+  index: -1
+propeller_b_exback
+  rotate: false
+  xy: 728, 17
+  size: 42, 55
+  orig: 44, 55
+  offset: 1, 0
+  index: -1
+propeller_c_a
+  rotate: false
+  xy: 487, 20
+  size: 103, 63
+  orig: 104, 77
+  offset: 0, 5
+  index: -1
+propeller_c_b
+  rotate: false
+  xy: 1047, 16
+  size: 104, 77
+  orig: 113, 90
+  offset: 4, 2
+  index: -1
+propeller_c_c
+  rotate: false
+  xy: 162, 13
+  size: 103, 63
+  orig: 107, 69
+  offset: 0, 1
+  index: -1
+propeller_c_ex
+  rotate: false
+  xy: 656, 180
+  size: 32, 23
+  orig: 41, 33
+  offset: 3, 4
+  index: -1
+propeller_c_exback
+  rotate: false
+  xy: 1380, 14
+  size: 100, 71
+  orig: 106, 82
+  offset: 4, 6
+  index: -1
+reg
+  rotate: true
+  xy: 1623, 145
+  size: 177, 137
+  orig: 189, 146
+  offset: 7, 5
+  index: -1
+xreg
+  rotate: false
+  xy: 656, 74
+  size: 181, 100
+  orig: 201, 121
+  offset: 14, 8
+  index: -1

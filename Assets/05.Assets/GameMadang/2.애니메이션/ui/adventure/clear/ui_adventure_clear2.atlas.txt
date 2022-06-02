@@ -1,0 +1,76 @@
+
+ui_adventure_clear2.png
+size: 1049,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest1
+  rotate: true
+  xy: 792, 22
+  size: 81, 72
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+chest2
+  rotate: false
+  xy: 700, 10
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+common/glow1
+  rotate: true
+  xy: 299, 3
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/light
+  rotate: true
+  xy: 889, 130
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+common/sparkle1
+  rotate: false
+  xy: 866, 59
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+text13
+  rotate: true
+  xy: 227, 31
+  size: 259, 70
+  orig: 260, 71
+  offset: 1, 1
+  index: -1
+ui_adventure_clear4
+  rotate: true
+  xy: 2, 2
+  size: 288, 111
+  orig: 289, 113
+  offset: 0, 1
+  index: -1
+ui_adventure_clear5
+  rotate: true
+  xy: 115, 2
+  size: 288, 110
+  orig: 289, 113
+  offset: 0, 1
+  index: -1
+ui_adventure_deco
+  rotate: false
+  xy: 299, 105
+  size: 588, 185
+  orig: 588, 187
+  offset: 0, 0
+  index: -1
+ui_adventure_deco1
+  rotate: false
+  xy: 398, 4
+  size: 300, 99
+  orig: 302, 101
+  offset: 1, 1
+  index: -1

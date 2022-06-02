@@ -1,0 +1,2078 @@
+
+monster_werewolf.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: true
+  xy: 1234, 333
+  size: 69, 114
+  orig: 84, 130
+  offset: 7, 7
+  index: -1
+armpart_down_x_a
+  rotate: true
+  xy: 1350, 333
+  size: 69, 114
+  orig: 84, 130
+  offset: 10, 8
+  index: -1
+armpart_hand_a
+  rotate: true
+  xy: 263, 498
+  size: 79, 60
+  orig: 83, 63
+  offset: 3, 1
+  index: -1
+armpart_hand_b
+  rotate: false
+  xy: 1720, 509
+  size: 88, 77
+  orig: 90, 78
+  offset: 2, 0
+  index: -1
+armpart_hand_c
+  rotate: true
+  xy: 2, 312
+  size: 77, 102
+  orig: 91, 120
+  offset: 7, 8
+  index: -1
+armpart_up_a
+  rotate: false
+  xy: 831, 92
+  size: 63, 56
+  orig: 67, 60
+  offset: 3, 2
+  index: -1
+bodtpart_chest_a
+  rotate: true
+  xy: 331, 496
+  size: 114, 121
+  orig: 115, 124
+  offset: 0, 3
+  index: -1
+bodtpart_chest_b
+  rotate: false
+  xy: 1821, 507
+  size: 136, 100
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+bodtpart_hip_a
+  rotate: true
+  xy: 761, 69
+  size: 54, 58
+  orig: 58, 62
+  offset: 1, 2
+  index: -1
+bodypart_pelvis_a
+  rotate: false
+  xy: 761, 125
+  size: 68, 57
+  orig: 88, 71
+  offset: 5, 9
+  index: -1
+bodypart_pelvis_b
+  rotate: true
+  xy: 454, 400
+  size: 105, 109
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+bodypart_pelvis_c
+  rotate: false
+  xy: 1318, 404
+  size: 104, 89
+  orig: 105, 90
+  offset: 1, 0
+  index: -1
+effect/21
+  rotate: true
+  xy: 1983, 643
+  size: 212, 55
+  orig: 212, 55
+  offset: 0, 0
+  index: -1
+finger_a_down
+  rotate: true
+  xy: 1288, 177
+  size: 33, 36
+  orig: 34, 43
+  offset: 1, 3
+  index: -1
+finger_a_up
+  rotate: true
+  xy: 1577, 589
+  size: 20, 49
+  orig: 28, 54
+  offset: 4, 3
+  index: -1
+finger_b_down
+  rotate: false
+  xy: 1085, 27
+  size: 50, 34
+  orig: 51, 39
+  offset: 1, 2
+  index: -1
+finger_b_up
+  rotate: false
+  xy: 1163, 657
+  size: 18, 43
+  orig: 22, 48
+  offset: 2, 1
+  index: -1
+finger_c_down
+  rotate: false
+  xy: 2003, 19
+  size: 39, 38
+  orig: 40, 40
+  offset: 1, 2
+  index: -1
+finger_c_up
+  rotate: true
+  xy: 1418, 11
+  size: 20, 47
+  orig: 25, 51
+  offset: 3, 2
+  index: -1
+finger_d_down
+  rotate: false
+  xy: 716, 702
+  size: 36, 23
+  orig: 41, 27
+  offset: 3, 1
+  index: -1
+finger_d_up
+  rotate: false
+  xy: 1955, 807
+  size: 24, 48
+  orig: 27, 49
+  offset: 3, 0
+  index: -1
+finger_e
+  rotate: false
+  xy: 534, 349
+  size: 23, 49
+  orig: 24, 51
+  offset: 1, 0
+  index: -1
+headpart_ear_a
+  rotate: true
+  xy: 541, 162
+  size: 31, 52
+  orig: 33, 59
+  offset: 0, 3
+  index: -1
+headpart_ear_b
+  rotate: false
+  xy: 1572, 14
+  size: 30, 36
+  orig: 32, 36
+  offset: 2, 0
+  index: -1
+headpart_face2_a
+  rotate: false
+  xy: 390, 428
+  size: 61, 66
+  orig: 65, 67
+  offset: 3, 1
+  index: -1
+headpart_face3_a
+  rotate: true
+  xy: 1830, 414
+  size: 91, 121
+  orig: 152, 139
+  offset: 31, 15
+  index: -1
+headpart_face_a
+  rotate: true
+  xy: 171, 183
+  size: 55, 97
+  orig: 59, 109
+  offset: 3, 6
+  index: -1
+headpart_face_b
+  rotate: true
+  xy: 912, 369
+  size: 76, 121
+  orig: 78, 123
+  offset: 2, 0
+  index: -1
+headpart_hair_a
+  rotate: false
+  xy: 666, 594
+  size: 149, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+headpart_hair_b
+  rotate: true
+  xy: 986, 236
+  size: 80, 85
+  orig: 103, 98
+  offset: 7, 2
+  index: -1
+headpart_hair_c
+  rotate: true
+  xy: 1823, 717
+  size: 138, 130
+  orig: 140, 131
+  offset: 2, 0
+  index: -1
+headpart_hair_d
+  rotate: false
+  xy: 1577, 497
+  size: 141, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+headpart_jaw_a
+  rotate: true
+  xy: 1963, 100
+  size: 54, 68
+  orig: 56, 70
+  offset: 2, 0
+  index: -1
+headpart_jaw_b
+  rotate: true
+  xy: 233, 74
+  size: 47, 61
+  orig: 52, 63
+  offset: 2, 1
+  index: -1
+l_legpart_down_a
+  rotate: false
+  xy: 958, 558
+  size: 63, 40
+  orig: 79, 57
+  offset: 13, 8
+  index: -1
+l_legpart_heel_a
+  rotate: false
+  xy: 1490, 658
+  size: 34, 82
+  orig: 57, 92
+  offset: 11, 6
+  index: -1
+l_legpart_up_a
+  rotate: true
+  xy: 1495, 99
+  size: 60, 62
+  orig: 77, 77
+  offset: 9, 7
+  index: -1
+legpart_down_a
+  rotate: true
+  xy: 184, 33
+  size: 39, 48
+  orig: 45, 49
+  offset: 4, 0
+  index: -1
+legpart_foot_a
+  rotate: true
+  xy: 912, 451
+  size: 53, 41
+  orig: 58, 43
+  offset: 1, 2
+  index: -1
+legpart_foot_b
+  rotate: true
+  xy: 1256, 65
+  size: 50, 56
+  orig: 56, 60
+  offset: 3, 4
+  index: -1
+x_legpart_foot_b
+  rotate: true
+  xy: 1256, 65
+  size: 50, 56
+  orig: 55, 58
+  offset: 3, 2
+  index: -1
+legpart_foot_c
+  rotate: false
+  xy: 296, 66
+  size: 56, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+legpart_heel_a
+  rotate: true
+  xy: 896, 82
+  size: 47, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+legpart_up_a
+  rotate: false
+  xy: 1351, 246
+  size: 86, 85
+  orig: 88, 90
+  offset: 2, 1
+  index: -1
+r_legpart_down_a
+  rotate: false
+  xy: 1314, 57
+  size: 57, 39
+  orig: 65, 44
+  offset: 5, 1
+  index: -1
+r_legpart_heel_a
+  rotate: false
+  xy: 226, 428
+  size: 34, 58
+  orig: 43, 67
+  offset: 4, 6
+  index: -1
+r_legpart_up_a
+  rotate: false
+  xy: 817, 610
+  size: 81, 87
+  orig: 83, 89
+  offset: 1, 0
+  index: -1
+tailpart_a
+  rotate: false
+  xy: 195, 706
+  size: 174, 149
+  orig: 187, 170
+  offset: 11, 9
+  index: -1
+werewolf_boss1/armpart_down_a
+  rotate: true
+  xy: 1678, 331
+  size: 69, 114
+  orig: 84, 130
+  offset: 7, 11
+  index: -1
+werewolf_boss1/armpart_down_x_a
+  rotate: true
+  xy: 418, 329
+  size: 69, 114
+  orig: 84, 130
+  offset: 7, 11
+  index: -1
+werewolf_boss1/armpart_hand_a
+  rotate: false
+  xy: 1959, 156
+  size: 79, 60
+  orig: 83, 63
+  offset: 3, 1
+  index: -1
+werewolf_boss1/armpart_hand_b
+  rotate: false
+  xy: 1956, 218
+  size: 88, 77
+  orig: 90, 78
+  offset: 2, 0
+  index: -1
+werewolf_boss1/armpart_hand_c
+  rotate: true
+  xy: 1926, 297
+  size: 77, 102
+  orig: 91, 120
+  offset: 6, 6
+  index: -1
+werewolf_boss1/armpart_up_a
+  rotate: false
+  xy: 1559, 93
+  size: 64, 57
+  orig: 67, 60
+  offset: 2, 3
+  index: -1
+werewolf_boss1/bodtpart_chest_a
+  rotate: true
+  xy: 1184, 609
+  size: 120, 146
+  orig: 155, 166
+  offset: 17, 20
+  index: -1
+werewolf_boss1/bodtpart_chest_b
+  rotate: false
+  xy: 510, 614
+  size: 154, 111
+  orig: 186, 151
+  offset: 21, 25
+  index: -1
+werewolf_boss1/bodtpart_hip_a
+  rotate: true
+  xy: 1439, 262
+  size: 64, 110
+  orig: 158, 162
+  offset: 52, 0
+  index: -1
+werewolf_boss1/bodypart_pelvis_a
+  rotate: false
+  xy: 1288, 117
+  size: 68, 57
+  orig: 73, 59
+  offset: 2, 0
+  index: -1
+werewolf_boss1/bodypart_pelvis_b
+  rotate: true
+  xy: 1823, 609
+  size: 106, 158
+  orig: 206, 212
+  offset: 47, 0
+  index: -1
+werewolf_boss1/bodypart_pelvis_c
+  rotate: false
+  xy: 1424, 404
+  size: 104, 89
+  orig: 150, 135
+  offset: 23, 25
+  index: -1
+werewolf_boss1/finger_a_down
+  rotate: false
+  xy: 1186, 10
+  size: 32, 36
+  orig: 34, 43
+  offset: 2, 3
+  index: -1
+werewolf_boss1/finger_a_up
+  rotate: true
+  xy: 234, 15
+  size: 20, 49
+  orig: 28, 54
+  offset: 4, 2
+  index: -1
+werewolf_boss1/finger_b_down
+  rotate: false
+  xy: 1604, 19
+  size: 48, 34
+  orig: 51, 39
+  offset: 3, 2
+  index: -1
+werewolf_boss1/finger_b_up
+  rotate: false
+  xy: 1163, 612
+  size: 18, 43
+  orig: 22, 48
+  offset: 2, 1
+  index: -1
+werewolf_boss1/finger_c_down
+  rotate: false
+  xy: 1328, 17
+  size: 39, 38
+  orig: 40, 40
+  offset: 1, 0
+  index: -1
+werewolf_boss1/finger_c_up
+  rotate: true
+  xy: 966, 10
+  size: 20, 47
+  orig: 25, 51
+  offset: 3, 2
+  index: -1
+werewolf_boss1/finger_d_down
+  rotate: true
+  xy: 789, 506
+  size: 36, 23
+  orig: 41, 27
+  offset: 3, 1
+  index: -1
+werewolf_boss1/finger_d_up
+  rotate: false
+  xy: 1412, 196
+  size: 23, 48
+  orig: 27, 49
+  offset: 4, 0
+  index: -1
+werewolf_boss1/finger_e
+  rotate: false
+  xy: 762, 349
+  size: 22, 48
+  orig: 24, 51
+  offset: 2, 0
+  index: -1
+werewolf_boss1/headpart_ear_a
+  rotate: false
+  xy: 2040, 854
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+werewolf_boss1/headpart_ear_b
+  rotate: false
+  xy: 2040, 854
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+werewolf_skin1/headpart_ear_a
+  rotate: false
+  xy: 2040, 854
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+werewolf_skin1/headpart_ear_b
+  rotate: false
+  xy: 2040, 854
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+werewolf_boss1/headpart_face2_a
+  rotate: true
+  xy: 1699, 124
+  size: 60, 66
+  orig: 65, 67
+  offset: 3, 1
+  index: -1
+werewolf_boss1/headpart_face3_a
+  rotate: true
+  xy: 789, 417
+  size: 87, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+werewolf_boss1/headpart_face_a
+  rotate: true
+  xy: 578, 727
+  size: 128, 177
+  orig: 216, 265
+  offset: 15, 88
+  index: -1
+werewolf_boss1/headpart_face_b
+  rotate: true
+  xy: 371, 743
+  size: 112, 205
+  orig: 220, 265
+  offset: 36, 45
+  index: -1
+werewolf_boss1/headpart_hair_a
+  rotate: false
+  xy: 2, 592
+  size: 149, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+werewolf_boss1/headpart_hair_b
+  rotate: true
+  xy: 1782, 236
+  size: 80, 85
+  orig: 103, 98
+  offset: 7, 2
+  index: -1
+werewolf_boss1/headpart_hair_c
+  rotate: false
+  xy: 1530, 611
+  size: 138, 130
+  orig: 140, 131
+  offset: 1, 0
+  index: -1
+werewolf_boss1/headpart_hair_d
+  rotate: false
+  xy: 565, 342
+  size: 116, 68
+  orig: 144, 89
+  offset: 24, 11
+  index: -1
+werewolf_boss1/headpart_jaw_a
+  rotate: true
+  xy: 919, 131
+  size: 53, 81
+  orig: 84, 98
+  offset: 10, 1
+  index: -1
+werewolf_boss1/headpart_jaw_b
+  rotate: false
+  xy: 481, 73
+  size: 52, 62
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+werewolf_skin1/headpart_jaw_b
+  rotate: false
+  xy: 481, 73
+  size: 52, 62
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+werewolf_boss1/l_legpart_down_a
+  rotate: false
+  xy: 1963, 59
+  size: 63, 39
+  orig: 79, 57
+  offset: 13, 9
+  index: -1
+werewolf_boss1/l_legpart_heel_a
+  rotate: false
+  xy: 331, 622
+  size: 34, 82
+  orig: 57, 92
+  offset: 11, 7
+  index: -1
+werewolf_boss1/l_legpart_up_a
+  rotate: true
+  xy: 541, 99
+  size: 60, 62
+  orig: 77, 77
+  offset: 9, 7
+  index: -1
+werewolf_boss1/legpart_down_a
+  rotate: false
+  xy: 986, 319
+  size: 40, 48
+  orig: 45, 49
+  offset: 4, 0
+  index: -1
+werewolf_boss1/legpart_foot_a
+  rotate: false
+  xy: 1896, 17
+  size: 43, 34
+  orig: 50, 37
+  offset: 2, 0
+  index: -1
+werewolf_boss1/legpart_foot_b
+  rotate: true
+  xy: 1116, 63
+  size: 50, 51
+  orig: 56, 60
+  offset: 2, 4
+  index: -1
+werewolf_boss1/x_legpart_foot_b
+  rotate: true
+  xy: 1116, 63
+  size: 50, 51
+  orig: 55, 58
+  offset: 2, 3
+  index: -1
+werewolf_boss1/legpart_foot_c
+  rotate: false
+  xy: 1031, 46
+  size: 52, 38
+  orig: 59, 45
+  offset: 5, 3
+  index: -1
+werewolf_boss1/legpart_heel_a
+  rotate: true
+  xy: 158, 81
+  size: 47, 73
+  orig: 48, 73
+  offset: 1, 0
+  index: -1
+werewolf_boss1/legpart_up_a
+  rotate: false
+  xy: 1131, 244
+  size: 86, 83
+  orig: 88, 90
+  offset: 2, 2
+  index: -1
+werewolf_boss1/r_legpart_down_a
+  rotate: false
+  xy: 1833, 57
+  size: 57, 39
+  orig: 65, 44
+  offset: 5, 1
+  index: -1
+werewolf_boss1/r_legpart_heel_a
+  rotate: false
+  xy: 1794, 342
+  size: 34, 58
+  orig: 43, 67
+  offset: 5, 5
+  index: -1
+werewolf_boss1/r_legpart_up_a
+  rotate: true
+  xy: 106, 243
+  size: 81, 87
+  orig: 83, 89
+  offset: 2, 0
+  index: -1
+werewolf_boss1/tailpart_a
+  rotate: false
+  xy: 408, 86
+  size: 71, 49
+  orig: 163, 148
+  offset: 92, 7
+  index: -1
+werewolf_boss1/x_armpart_down_a
+  rotate: true
+  xy: 2, 168
+  size: 60, 84
+  orig: 73, 103
+  offset: 13, 16
+  index: -1
+werewolf_boss1/x_armpart_hand_a
+  rotate: false
+  xy: 55, 23
+  size: 46, 37
+  orig: 55, 44
+  offset: 5, 3
+  index: -1
+werewolf_boss1/x_armpart_hand_b
+  rotate: false
+  xy: 226, 323
+  size: 94, 94
+  orig: 97, 95
+  offset: 2, 1
+  index: -1
+werewolf_boss1/x_armpart_up_a
+  rotate: true
+  xy: 941, 186
+  size: 48, 109
+  orig: 59, 118
+  offset: 0, 3
+  index: -1
+werewolf_boss1/x_finger_a
+  rotate: false
+  xy: 382, 18
+  size: 47, 31
+  orig: 49, 34
+  offset: 2, 0
+  index: -1
+werewolf_boss1/x_finger_b
+  rotate: false
+  xy: 1072, 507
+  size: 58, 43
+  orig: 62, 47
+  offset: 3, 0
+  index: -1
+werewolf_boss1/x_finger_c
+  rotate: false
+  xy: 408, 138
+  size: 43, 32
+  orig: 46, 35
+  offset: 2, 1
+  index: -1
+werewolf_boss1/x_finger_d
+  rotate: false
+  xy: 1132, 514
+  size: 28, 36
+  orig: 31, 49
+  offset: 2, 6
+  index: -1
+werewolf_boss1/x_legpart_down_a
+  rotate: false
+  xy: 1439, 192
+  size: 80, 68
+  orig: 83, 69
+  offset: 2, 0
+  index: -1
+werewolf_boss1/x_legpart_foot_a
+  rotate: false
+  xy: 1983, 612
+  size: 60, 29
+  orig: 67, 37
+  offset: 1, 6
+  index: -1
+werewolf_boss1/x_legpart_heel_a
+  rotate: true
+  xy: 1951, 23
+  size: 34, 50
+  orig: 38, 53
+  offset: 2, 0
+  index: -1
+werewolf_boss1/x_legpart_up_a
+  rotate: false
+  xy: 270, 185
+  size: 95, 53
+  orig: 99, 59
+  offset: 4, 0
+  index: -1
+werewolf_boss2/armpart_down_a
+  rotate: true
+  xy: 817, 506
+  size: 92, 139
+  orig: 92, 143
+  offset: 0, 4
+  index: -1
+werewolf_boss2/armpart_down_x_a
+  rotate: true
+  xy: 648, 500
+  size: 92, 139
+  orig: 92, 143
+  offset: 0, 4
+  index: -1
+werewolf_boss2/armpart_hand_a
+  rotate: false
+  xy: 1618, 152
+  size: 79, 60
+  orig: 83, 63
+  offset: 3, 1
+  index: -1
+werewolf_boss2/armpart_hand_b
+  rotate: false
+  xy: 1551, 216
+  size: 88, 77
+  orig: 90, 78
+  offset: 1, 0
+  index: -1
+werewolf_boss2/armpart_hand_c
+  rotate: false
+  xy: 1582, 295
+  size: 77, 102
+  orig: 91, 120
+  offset: 7, 9
+  index: -1
+werewolf_boss2/armpart_up_a
+  rotate: false
+  xy: 1052, 144
+  size: 69, 61
+  orig: 95, 88
+  offset: 14, 17
+  index: -1
+werewolf_boss2/bodtpart_chest_a
+  rotate: true
+  xy: 1184, 731
+  size: 124, 165
+  orig: 214, 223
+  offset: 40, 51
+  index: -1
+werewolf_boss2/bodtpart_chest_b
+  rotate: false
+  xy: 1351, 742
+  size: 177, 113
+  orig: 249, 214
+  offset: 57, 56
+  index: -1
+werewolf_boss2/bodtpart_hip_a
+  rotate: true
+  xy: 850, 212
+  size: 76, 89
+  orig: 115, 119
+  offset: 11, 0
+  index: -1
+werewolf_boss2/bodypart_pelvis_a
+  rotate: false
+  xy: 1123, 115
+  size: 68, 57
+  orig: 73, 59
+  offset: 2, 0
+  index: -1
+werewolf_boss2/bodypart_pelvis_b
+  rotate: false
+  xy: 2, 697
+  size: 191, 158
+  orig: 304, 310
+  offset: 97, 93
+  index: -1
+werewolf_boss2/bodypart_pelvis_c
+  rotate: false
+  xy: 2, 391
+  size: 104, 88
+  orig: 105, 90
+  offset: 1, 2
+  index: -1
+werewolf_boss2/finger_a_down
+  rotate: false
+  xy: 148, 7
+  size: 32, 36
+  orig: 34, 43
+  offset: 2, 2
+  index: -1
+werewolf_boss2/finger_a_up
+  rotate: true
+  xy: 1730, 15
+  size: 20, 49
+  orig: 28, 54
+  offset: 4, 2
+  index: -1
+werewolf_boss2/finger_b_down
+  rotate: false
+  xy: 1475, 22
+  size: 50, 34
+  orig: 51, 39
+  offset: 1, 2
+  index: -1
+werewolf_boss2/finger_b_up
+  rotate: false
+  xy: 741, 250
+  size: 18, 43
+  orig: 22, 48
+  offset: 2, 1
+  index: -1
+werewolf_boss2/finger_c_down
+  rotate: false
+  xy: 341, 14
+  size: 39, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+werewolf_boss2/finger_c_up
+  rotate: true
+  xy: 285, 8
+  size: 20, 47
+  orig: 25, 51
+  offset: 3, 1
+  index: -1
+werewolf_boss2/finger_d_down
+  rotate: true
+  xy: 882, 379
+  size: 36, 23
+  orig: 41, 27
+  offset: 3, 1
+  index: -1
+werewolf_boss2/finger_d_up
+  rotate: false
+  xy: 1955, 757
+  size: 24, 48
+  orig: 27, 49
+  offset: 3, 0
+  index: -1
+werewolf_boss2/finger_e
+  rotate: true
+  xy: 1699, 190
+  size: 22, 48
+  orig: 24, 51
+  offset: 2, 0
+  index: -1
+werewolf_boss2/headpart_ear_a
+  rotate: false
+  xy: 1955, 719
+  size: 25, 36
+  orig: 30, 54
+  offset: 0, 14
+  index: -1
+werewolf_boss2/headpart_ear_b
+  rotate: false
+  xy: 1926, 377
+  size: 21, 35
+  orig: 32, 36
+  offset: 1, 1
+  index: -1
+werewolf_boss2/headpart_face2_a
+  rotate: true
+  xy: 1767, 124
+  size: 60, 66
+  orig: 65, 67
+  offset: 5, 0
+  index: -1
+werewolf_boss2/headpart_face3_a
+  rotate: true
+  xy: 1072, 414
+  size: 91, 121
+  orig: 142, 158
+  offset: 20, 8
+  index: -1
+werewolf_boss2/headpart_face_a
+  rotate: false
+  xy: 958, 447
+  size: 112, 103
+  orig: 196, 241
+  offset: 72, 89
+  index: -1
+werewolf_boss2/headpart_face_b
+  rotate: false
+  xy: 195, 579
+  size: 134, 125
+  orig: 191, 236
+  offset: 57, 62
+  index: -1
+werewolf_boss2/headpart_hair_a
+  rotate: false
+  xy: 1530, 743
+  size: 176, 112
+  orig: 237, 188
+  offset: 46, 33
+  index: -1
+werewolf_boss2/headpart_hair_b
+  rotate: true
+  xy: 2, 230
+  size: 80, 85
+  orig: 103, 98
+  offset: 7, 2
+  index: -1
+werewolf_boss2/headpart_hair_c
+  rotate: true
+  xy: 757, 699
+  size: 156, 143
+  orig: 168, 159
+  offset: 1, 10
+  index: -1
+werewolf_boss2/headpart_hair_d
+  rotate: false
+  xy: 534, 273
+  size: 115, 67
+  orig: 144, 89
+  offset: 27, 11
+  index: -1
+werewolf_boss2/headpart_jaw_a
+  rotate: true
+  xy: 234, 37
+  size: 35, 52
+  orig: 56, 70
+  offset: 5, 17
+  index: -1
+werewolf_boss2/headpart_jaw_b
+  rotate: true
+  xy: 665, 27
+  size: 40, 44
+  orig: 52, 63
+  offset: 1, 18
+  index: -1
+werewolf_skin2/headpart_jaw_b
+  rotate: true
+  xy: 665, 27
+  size: 40, 44
+  orig: 52, 63
+  offset: 1, 18
+  index: -1
+werewolf_boss2/l_legpart_down_a
+  rotate: false
+  xy: 1480, 58
+  size: 63, 39
+  orig: 79, 57
+  offset: 13, 9
+  index: -1
+werewolf_boss2/l_legpart_heel_a
+  rotate: false
+  xy: 153, 613
+  size: 34, 82
+  orig: 57, 92
+  offset: 12, 5
+  index: -1
+werewolf_boss2/l_legpart_up_a
+  rotate: true
+  xy: 605, 99
+  size: 60, 62
+  orig: 77, 77
+  offset: 9, 8
+  index: -1
+werewolf_boss2/legpart_down_a
+  rotate: false
+  xy: 941, 240
+  size: 40, 48
+  orig: 45, 49
+  offset: 3, 0
+  index: -1
+werewolf_boss2/legpart_foot_a
+  rotate: false
+  xy: 861, 12
+  size: 48, 28
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+werewolf_boss2/legpart_foot_b
+  rotate: false
+  xy: 596, 216
+  size: 51, 55
+  orig: 56, 60
+  offset: 3, 3
+  index: -1
+werewolf_boss2/x_legpart_foot_b
+  rotate: false
+  xy: 596, 216
+  size: 51, 55
+  orig: 55, 58
+  offset: 2, 1
+  index: -1
+werewolf_boss2/legpart_foot_c
+  rotate: false
+  xy: 1169, 48
+  size: 53, 40
+  orig: 59, 45
+  offset: 5, 0
+  index: -1
+werewolf_boss2/legpart_heel_a
+  rotate: false
+  xy: 1002, 108
+  size: 47, 76
+  orig: 53, 80
+  offset: 3, 3
+  index: -1
+werewolf_boss2/legpart_up_a
+  rotate: false
+  xy: 1577, 399
+  size: 99, 96
+  orig: 108, 110
+  offset: 1, 12
+  index: -1
+werewolf_boss2/r_legpart_down_a
+  rotate: true
+  xy: 354, 54
+  size: 57, 39
+  orig: 65, 44
+  offset: 6, 1
+  index: -1
+werewolf_boss2/r_legpart_heel_a
+  rotate: true
+  xy: 1373, 47
+  size: 34, 58
+  orig: 43, 67
+  offset: 1, 6
+  index: -1
+werewolf_boss2/r_legpart_up_a
+  rotate: true
+  xy: 762, 239
+  size: 80, 86
+  orig: 83, 89
+  offset: 3, 0
+  index: -1
+werewolf_boss2/tailpart_a
+  rotate: true
+  xy: 902, 702
+  size: 153, 139
+  orig: 163, 148
+  offset: 9, 7
+  index: -1
+werewolf_boss2/x_armpart_down_a
+  rotate: true
+  xy: 1131, 329
+  size: 83, 101
+  orig: 100, 131
+  offset: 17, 28
+  index: -1
+werewolf_boss2/x_armpart_hand_a
+  rotate: true
+  xy: 773, 21
+  size: 46, 37
+  orig: 51, 40
+  offset: 1, 1
+  index: -1
+werewolf_boss2/x_armpart_hand_b
+  rotate: false
+  xy: 322, 323
+  size: 94, 94
+  orig: 97, 95
+  offset: 2, 0
+  index: -1
+werewolf_boss2/x_armpart_up_a
+  rotate: false
+  xy: 1073, 207
+  size: 50, 109
+  orig: 59, 118
+  offset: 4, 1
+  index: -1
+werewolf_boss2/x_finger_a
+  rotate: false
+  xy: 812, 16
+  size: 47, 31
+  orig: 77, 62
+  offset: 16, 16
+  index: -1
+werewolf_boss2/x_finger_b
+  rotate: false
+  xy: 2, 64
+  size: 58, 43
+  orig: 62, 47
+  offset: 3, 0
+  index: -1
+werewolf_boss2/x_finger_c
+  rotate: true
+  xy: 1670, 698
+  size: 43, 32
+  orig: 46, 35
+  offset: 2, 1
+  index: -1
+werewolf_boss2/x_finger_d
+  rotate: false
+  xy: 651, 304
+  size: 28, 36
+  orig: 31, 49
+  offset: 0, 6
+  index: -1
+werewolf_boss2/x_legpart_down_a
+  rotate: false
+  xy: 1330, 176
+  size: 80, 68
+  orig: 83, 69
+  offset: 2, 1
+  index: -1
+werewolf_boss2/x_legpart_foot_a
+  rotate: false
+  xy: 711, 38
+  size: 60, 29
+  orig: 67, 37
+  offset: 3, 5
+  index: -1
+werewolf_boss2/x_legpart_heel_a
+  rotate: false
+  xy: 930, 29
+  size: 34, 51
+  orig: 38, 53
+  offset: 1, 1
+  index: -1
+werewolf_boss2/x_legpart_up_a
+  rotate: false
+  xy: 741, 184
+  size: 95, 53
+  orig: 99, 59
+  offset: 4, 1
+  index: -1
+werewolf_skin1/armpart_down_a
+  rotate: true
+  xy: 1466, 328
+  size: 69, 114
+  orig: 84, 130
+  offset: 5, 8
+  index: -1
+werewolf_skin1/armpart_down_x_a
+  rotate: true
+  xy: 108, 326
+  size: 69, 114
+  orig: 84, 130
+  offset: 10, 8
+  index: -1
+werewolf_skin1/armpart_hand_a
+  rotate: false
+  xy: 1207, 150
+  size: 79, 60
+  orig: 83, 63
+  offset: 3, 0
+  index: -1
+werewolf_skin1/armpart_hand_b
+  rotate: false
+  xy: 506, 195
+  size: 88, 76
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+werewolf_skin1/armpart_hand_c
+  rotate: false
+  xy: 683, 295
+  size: 77, 102
+  orig: 91, 120
+  offset: 6, 7
+  index: -1
+werewolf_skin1/armpart_up_a
+  rotate: false
+  xy: 1051, 86
+  size: 63, 56
+  orig: 67, 60
+  offset: 4, 2
+  index: -1
+werewolf_skin1/bodtpart_chest_a
+  rotate: true
+  xy: 1332, 495
+  size: 115, 121
+  orig: 115, 124
+  offset: 0, 3
+  index: -1
+werewolf_skin1/bodtpart_chest_b
+  rotate: false
+  xy: 1163, 507
+  size: 136, 100
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+werewolf_skin1/bodtpart_hip_a
+  rotate: true
+  xy: 1773, 68
+  size: 54, 58
+  orig: 58, 62
+  offset: 3, 1
+  index: -1
+werewolf_skin1/bodypart_pelvis_a
+  rotate: false
+  xy: 88, 114
+  size: 68, 57
+  orig: 73, 59
+  offset: 3, 0
+  index: -1
+werewolf_skin1/bodypart_pelvis_b
+  rotate: true
+  xy: 1720, 402
+  size: 103, 108
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+werewolf_skin1/bodypart_pelvis_c
+  rotate: true
+  xy: 1953, 376
+  size: 104, 88
+  orig: 105, 90
+  offset: 1, 2
+  index: -1
+werewolf_skin1/finger_a_down
+  rotate: true
+  xy: 153, 580
+  size: 31, 36
+  orig: 34, 43
+  offset: 3, 2
+  index: -1
+werewolf_skin1/finger_a_up
+  rotate: true
+  xy: 431, 14
+  size: 20, 49
+  orig: 28, 54
+  offset: 4, 2
+  index: -1
+werewolf_skin1/finger_b_down
+  rotate: false
+  xy: 514, 22
+  size: 50, 34
+  orig: 51, 39
+  offset: 1, 2
+  index: -1
+werewolf_skin1/finger_b_up
+  rotate: true
+  xy: 1869, 298
+  size: 18, 43
+  orig: 22, 48
+  offset: 2, 1
+  index: -1
+werewolf_skin1/finger_c_down
+  rotate: false
+  xy: 1490, 618
+  size: 37, 38
+  orig: 40, 40
+  offset: 3, 1
+  index: -1
+werewolf_skin1/finger_c_up
+  rotate: true
+  xy: 911, 7
+  size: 20, 47
+  orig: 25, 51
+  offset: 3, 2
+  index: -1
+werewolf_skin1/finger_d_down
+  rotate: true
+  xy: 1521, 224
+  size: 36, 23
+  orig: 41, 27
+  offset: 3, 1
+  index: -1
+werewolf_skin1/finger_d_up
+  rotate: false
+  xy: 789, 544
+  size: 24, 48
+  orig: 27, 49
+  offset: 3, 0
+  index: -1
+werewolf_skin1/finger_e
+  rotate: true
+  xy: 666, 702
+  size: 23, 48
+  orig: 24, 51
+  offset: 1, 0
+  index: -1
+werewolf_skin1/headpart_face2_a
+  rotate: true
+  xy: 270, 123
+  size: 60, 66
+  orig: 65, 67
+  offset: 3, 1
+  index: -1
+werewolf_skin1/headpart_face3_a
+  rotate: true
+  xy: 565, 412
+  size: 86, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+werewolf_skin1/headpart_face_a
+  rotate: true
+  xy: 902, 600
+  size: 100, 154
+  orig: 196, 241
+  offset: 32, 77
+  index: -1
+werewolf_skin1/headpart_face_b
+  rotate: false
+  xy: 1708, 693
+  size: 113, 162
+  orig: 163, 208
+  offset: 5, 37
+  index: -1
+werewolf_skin1/headpart_hair_a
+  rotate: false
+  xy: 1670, 588
+  size: 149, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+werewolf_skin1/headpart_hair_b
+  rotate: true
+  xy: 1869, 215
+  size: 80, 85
+  orig: 103, 98
+  offset: 9, 2
+  index: -1
+werewolf_skin2/headpart_hair_b
+  rotate: true
+  xy: 1869, 215
+  size: 80, 85
+  orig: 103, 98
+  offset: 7, 1
+  index: -1
+werewolf_skin1/headpart_hair_c
+  rotate: false
+  xy: 1351, 612
+  size: 137, 128
+  orig: 140, 131
+  offset: 2, 0
+  index: -1
+werewolf_skin1/headpart_hair_d
+  rotate: false
+  xy: 120, 488
+  size: 141, 89
+  orig: 144, 89
+  offset: 3, 0
+  index: -1
+werewolf_skin1/headpart_jaw_a
+  rotate: true
+  xy: 1625, 100
+  size: 50, 71
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+werewolf_skin1/l_legpart_down_a
+  rotate: false
+  xy: 535, 58
+  size: 63, 39
+  orig: 79, 57
+  offset: 9, 9
+  index: -1
+werewolf_skin1/l_legpart_heel_a
+  rotate: false
+  xy: 1678, 413
+  size: 34, 82
+  orig: 57, 92
+  offset: 11, 5
+  index: -1
+werewolf_skin1/l_legpart_up_a
+  rotate: true
+  xy: 1835, 98
+  size: 60, 62
+  orig: 77, 77
+  offset: 10, 6
+  index: -1
+werewolf_skin1/legpart_down_a
+  rotate: true
+  xy: 455, 200
+  size: 40, 48
+  orig: 45, 49
+  offset: 4, 0
+  index: -1
+werewolf_skin1/legpart_foot_a
+  rotate: false
+  xy: 1527, 16
+  size: 43, 34
+  orig: 50, 37
+  offset: 2, 0
+  index: -1
+werewolf_skin1/legpart_foot_b
+  rotate: true
+  xy: 71, 62
+  size: 50, 51
+  orig: 56, 60
+  offset: 3, 4
+  index: -1
+werewolf_skin1/x_legpart_foot_b
+  rotate: true
+  xy: 71, 62
+  size: 50, 51
+  orig: 56, 60
+  offset: 3, 4
+  index: -1
+werewolf_skin1/legpart_foot_c
+  rotate: false
+  xy: 876, 42
+  size: 52, 38
+  orig: 59, 45
+  offset: 5, 3
+  index: -1
+werewolf_skin1/legpart_heel_a
+  rotate: true
+  xy: 1698, 75
+  size: 47, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+werewolf_skin1/legpart_up_a
+  rotate: false
+  xy: 418, 242
+  size: 86, 85
+  orig: 88, 90
+  offset: 2, 2
+  index: -1
+werewolf_skin1/r_legpart_down_a
+  rotate: false
+  xy: 1892, 53
+  size: 57, 39
+  orig: 65, 44
+  offset: 6, 1
+  index: -1
+werewolf_skin1/r_legpart_heel_a
+  rotate: true
+  xy: 124, 45
+  size: 34, 58
+  orig: 43, 67
+  offset: 5, 6
+  index: -1
+werewolf_skin1/r_legpart_up_a
+  rotate: true
+  xy: 195, 240
+  size: 81, 87
+  orig: 83, 89
+  offset: 2, 0
+  index: -1
+werewolf_skin1/tailpart_a
+  rotate: false
+  xy: 1407, 83
+  size: 71, 49
+  orig: 163, 148
+  offset: 91, 8
+  index: -1
+werewolf_skin1/x_armpart_down_a
+  rotate: true
+  xy: 1412, 134
+  size: 56, 81
+  orig: 61, 86
+  offset: 5, 5
+  index: -1
+werewolf_skin1/x_armpart_hand_a
+  rotate: false
+  xy: 1807, 19
+  size: 46, 36
+  orig: 51, 40
+  offset: 3, 0
+  index: -1
+werewolf_skin1/x_armpart_hand_b
+  rotate: false
+  xy: 786, 321
+  size: 94, 94
+  orig: 97, 95
+  offset: 1, 1
+  index: -1
+werewolf_skin1/x_armpart_up_a
+  rotate: true
+  xy: 1641, 214
+  size: 50, 109
+  orig: 59, 118
+  offset: 3, 1
+  index: -1
+werewolf_skin1/x_finger_a
+  rotate: false
+  xy: 1137, 15
+  size: 47, 31
+  orig: 49, 34
+  offset: 2, 1
+  index: -1
+werewolf_skin1/x_finger_b
+  rotate: false
+  xy: 971, 63
+  size: 58, 43
+  orig: 62, 47
+  offset: 3, 0
+  index: -1
+werewolf_skin1/x_finger_c
+  rotate: true
+  xy: 1023, 555
+  size: 43, 32
+  orig: 46, 35
+  offset: 1, 0
+  index: -1
+werewolf_skin1/x_finger_d
+  rotate: true
+  xy: 693, 186
+  size: 28, 36
+  orig: 31, 49
+  offset: 1, 6
+  index: -1
+werewolf_skin1/x_legpart_down_a
+  rotate: false
+  xy: 1125, 174
+  size: 80, 68
+  orig: 83, 69
+  offset: 2, 0
+  index: -1
+werewolf_skin1/x_legpart_foot_a
+  rotate: false
+  xy: 1745, 37
+  size: 60, 29
+  orig: 67, 37
+  offset: 1, 5
+  index: -1
+werewolf_skin1/x_legpart_heel_a
+  rotate: true
+  xy: 288, 30
+  size: 34, 51
+  orig: 38, 53
+  offset: 2, 0
+  index: -1
+werewolf_skin1/x_legpart_up_a
+  rotate: false
+  xy: 1521, 161
+  size: 95, 53
+  orig: 99, 59
+  offset: 4, 0
+  index: -1
+werewolf_skin2/armpart_down_a
+  rotate: false
+  xy: 1959, 482
+  size: 75, 125
+  orig: 84, 130
+  offset: 1, 5
+  index: -1
+werewolf_skin2/armpart_down_x_a
+  rotate: true
+  xy: 263, 419
+  size: 75, 125
+  orig: 84, 130
+  offset: 3, 5
+  index: -1
+werewolf_skin2/armpart_hand_a
+  rotate: false
+  xy: 838, 150
+  size: 79, 60
+  orig: 83, 63
+  offset: 3, 1
+  index: -1
+werewolf_skin2/armpart_hand_b
+  rotate: false
+  xy: 651, 216
+  size: 88, 77
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+werewolf_skin2/armpart_hand_c
+  rotate: true
+  xy: 882, 290
+  size: 77, 102
+  orig: 91, 120
+  offset: 7, 9
+  index: -1
+werewolf_skin2/armpart_up_a
+  rotate: false
+  xy: 2, 109
+  size: 67, 57
+  orig: 67, 60
+  offset: 0, 3
+  index: -1
+werewolf_skin2/bodtpart_chest_a
+  rotate: true
+  xy: 1455, 495
+  size: 114, 120
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+werewolf_skin2/bodtpart_chest_b
+  rotate: false
+  xy: 510, 507
+  size: 136, 105
+  orig: 164, 129
+  offset: 14, 13
+  index: -1
+werewolf_skin2/bodtpart_hip_a
+  rotate: false
+  xy: 1193, 90
+  size: 61, 58
+  orig: 100, 104
+  offset: 18, 23
+  index: -1
+werewolf_skin2/bodypart_pelvis_a
+  rotate: false
+  xy: 338, 113
+  size: 68, 57
+  orig: 73, 59
+  offset: 2, 1
+  index: -1
+werewolf_skin2/bodypart_pelvis_b
+  rotate: false
+  xy: 2, 481
+  size: 116, 109
+  orig: 133, 139
+  offset: 3, 13
+  index: -1
+werewolf_skin2/bodypart_pelvis_c
+  rotate: false
+  xy: 120, 397
+  size: 104, 89
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+werewolf_skin2/finger_a_down
+  rotate: true
+  xy: 1654, 5
+  size: 32, 36
+  orig: 34, 43
+  offset: 2, 2
+  index: -1
+werewolf_skin2/finger_a_up
+  rotate: true
+  xy: 182, 11
+  size: 20, 49
+  orig: 28, 54
+  offset: 4, 2
+  index: -1
+werewolf_skin2/finger_b_down
+  rotate: false
+  xy: 1277, 21
+  size: 49, 34
+  orig: 51, 39
+  offset: 2, 2
+  index: -1
+werewolf_skin2/finger_b_up
+  rotate: true
+  xy: 1076, 7
+  size: 18, 43
+  orig: 22, 48
+  offset: 2, 0
+  index: -1
+werewolf_skin2/finger_c_down
+  rotate: false
+  xy: 1855, 13
+  size: 39, 38
+  orig: 40, 40
+  offset: 1, 2
+  index: -1
+werewolf_skin2/finger_c_up
+  rotate: true
+  xy: 1220, 7
+  size: 20, 47
+  orig: 25, 51
+  offset: 2, 1
+  index: -1
+werewolf_skin2/finger_d_down
+  rotate: false
+  xy: 2, 3
+  size: 36, 23
+  orig: 41, 27
+  offset: 4, 0
+  index: -1
+werewolf_skin2/finger_d_up
+  rotate: false
+  xy: 1301, 510
+  size: 24, 48
+  orig: 27, 49
+  offset: 3, 1
+  index: -1
+werewolf_skin2/finger_e
+  rotate: false
+  xy: 506, 278
+  size: 23, 49
+  orig: 27, 54
+  offset: 3, 2
+  index: -1
+werewolf_skin2/headpart_ear_a
+  rotate: true
+  xy: 662, 2
+  size: 23, 36
+  orig: 30, 54
+  offset: 0, 3
+  index: -1
+werewolf_skin2/headpart_ear_b
+  rotate: false
+  xy: 669, 124
+  size: 21, 35
+  orig: 32, 36
+  offset: 1, 1
+  index: -1
+werewolf_skin2/headpart_face2_a
+  rotate: true
+  xy: 693, 122
+  size: 60, 66
+  orig: 65, 67
+  offset: 2, 0
+  index: -1
+werewolf_skin2/headpart_face3_a
+  rotate: true
+  xy: 1195, 414
+  size: 91, 121
+  orig: 142, 158
+  offset: 23, 12
+  index: -1
+werewolf_skin2/headpart_face_a
+  rotate: false
+  xy: 454, 508
+  size: 51, 102
+  orig: 196, 241
+  offset: 72, 90
+  index: -1
+werewolf_skin2/headpart_face_b
+  rotate: true
+  xy: 1661, 266
+  size: 63, 119
+  orig: 78, 123
+  offset: 2, 4
+  index: -1
+werewolf_skin2/headpart_hair_a
+  rotate: true
+  xy: 1058, 552
+  size: 148, 103
+  orig: 194, 145
+  offset: 46, 15
+  index: -1
+werewolf_skin2/headpart_hair_c
+  rotate: false
+  xy: 371, 612
+  size: 137, 129
+  orig: 140, 131
+  offset: 3, 0
+  index: -1
+werewolf_skin2/headpart_hair_d
+  rotate: false
+  xy: 1234, 264
+  size: 115, 67
+  orig: 144, 89
+  offset: 28, 11
+  index: -1
+werewolf_skin2/headpart_jaw_a
+  rotate: true
+  xy: 460, 36
+  size: 35, 52
+  orig: 56, 70
+  offset: 4, 16
+  index: -1
+werewolf_skin2/l_legpart_down_a
+  rotate: false
+  xy: 600, 58
+  size: 63, 39
+  orig: 79, 57
+  offset: 12, 9
+  index: -1
+werewolf_skin2/l_legpart_heel_a
+  rotate: false
+  xy: 1530, 411
+  size: 34, 82
+  orig: 57, 92
+  offset: 11, 6
+  index: -1
+werewolf_skin2/l_legpart_up_a
+  rotate: true
+  xy: 1899, 94
+  size: 60, 62
+  orig: 77, 77
+  offset: 9, 7
+  index: -1
+werewolf_skin2/legpart_down_a
+  rotate: false
+  xy: 1433, 33
+  size: 40, 48
+  orig: 45, 49
+  offset: 1, 1
+  index: -1
+werewolf_skin2/legpart_foot_a
+  rotate: true
+  xy: 1301, 560
+  size: 47, 28
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+werewolf_skin2/legpart_foot_b
+  rotate: true
+  xy: 669, 69
+  size: 51, 55
+  orig: 55, 58
+  offset: 2, 1
+  index: -1
+werewolf_skin2/x_legpart_foot_b
+  rotate: true
+  xy: 669, 69
+  size: 51, 55
+  orig: 55, 58
+  offset: 2, 1
+  index: -1
+werewolf_skin2/legpart_foot_c
+  rotate: false
+  xy: 821, 49
+  size: 53, 41
+  orig: 59, 45
+  offset: 5, 0
+  index: -1
+werewolf_skin2/legpart_heel_a
+  rotate: false
+  xy: 1358, 98
+  size: 47, 76
+  orig: 55, 84
+  offset: 5, 7
+  index: -1
+werewolf_skin2/legpart_up_a
+  rotate: true
+  xy: 688, 399
+  size: 99, 96
+  orig: 108, 110
+  offset: 1, 13
+  index: -1
+werewolf_skin2/r_legpart_down_a
+  rotate: false
+  xy: 1545, 52
+  size: 57, 39
+  orig: 65, 44
+  offset: 6, 1
+  index: -1
+werewolf_skin2/r_legpart_heel_a
+  rotate: true
+  xy: 1685, 39
+  size: 34, 58
+  orig: 43, 67
+  offset: 5, 6
+  index: -1
+werewolf_skin2/r_legpart_up_a
+  rotate: true
+  xy: 284, 240
+  size: 81, 87
+  orig: 83, 89
+  offset: 2, 0
+  index: -1
+werewolf_skin2/tailpart_a
+  rotate: true
+  xy: 1043, 702
+  size: 153, 139
+  orig: 163, 148
+  offset: 7, 7
+  index: -1
+werewolf_skin2/x_armpart_down_a
+  rotate: true
+  xy: 171, 130
+  size: 51, 77
+  orig: 79, 104
+  offset: 20, 19
+  index: -1
+werewolf_skin2/x_armpart_hand_a
+  rotate: false
+  xy: 566, 19
+  size: 46, 37
+  orig: 51, 40
+  offset: 3, 3
+  index: -1
+werewolf_skin2/x_armpart_hand_b
+  rotate: false
+  xy: 1035, 318
+  size: 94, 94
+  orig: 97, 95
+  offset: 2, 1
+  index: -1
+werewolf_skin2/x_armpart_up_a
+  rotate: true
+  xy: 1752, 186
+  size: 48, 109
+  orig: 59, 118
+  offset: 0, 6
+  index: -1
+werewolf_skin2/x_finger_a
+  rotate: false
+  xy: 1369, 14
+  size: 47, 31
+  orig: 77, 62
+  offset: 18, 15
+  index: -1
+werewolf_skin2/x_finger_b
+  rotate: true
+  xy: 373, 263
+  size: 58, 42
+  orig: 62, 47
+  offset: 3, 0
+  index: -1
+werewolf_skin2/x_finger_c
+  rotate: true
+  xy: 726, 77
+  size: 43, 32
+  orig: 46, 35
+  offset: 2, 1
+  index: -1
+werewolf_skin2/x_finger_d
+  rotate: true
+  xy: 1692, 9
+  size: 28, 36
+  orig: 31, 49
+  offset: 2, 4
+  index: -1
+werewolf_skin2/x_legpart_down_a
+  rotate: false
+  xy: 89, 173
+  size: 80, 68
+  orig: 83, 69
+  offset: 3, 0
+  index: -1
+werewolf_skin2/x_legpart_foot_a
+  rotate: false
+  xy: 966, 32
+  size: 59, 29
+  orig: 67, 37
+  offset: 0, 6
+  index: -1
+werewolf_skin2/x_legpart_heel_a
+  rotate: true
+  xy: 1224, 29
+  size: 34, 51
+  orig: 38, 53
+  offset: 1, 0
+  index: -1
+werewolf_skin2/x_legpart_up_a
+  rotate: false
+  xy: 596, 161
+  size: 95, 53
+  orig: 99, 59
+  offset: 4, 1
+  index: -1
+x_armpart_down_a
+  rotate: true
+  xy: 455, 137
+  size: 56, 84
+  orig: 70, 105
+  offset: 14, 20
+  index: -1
+x_armpart_hand_a
+  rotate: false
+  xy: 614, 19
+  size: 46, 37
+  orig: 51, 40
+  offset: 3, 0
+  index: -1
+x_armpart_hand_b
+  rotate: false
+  xy: 1830, 318
+  size: 94, 94
+  orig: 97, 95
+  offset: 2, 1
+  index: -1
+x_armpart_up_a
+  rotate: true
+  xy: 1219, 212
+  size: 50, 109
+  orig: 59, 118
+  offset: 0, 0
+  index: -1
+x_finger_a
+  rotate: false
+  xy: 1027, 13
+  size: 47, 31
+  orig: 49, 34
+  offset: 2, 0
+  index: -1
+x_finger_b
+  rotate: false
+  xy: 1625, 55
+  size: 58, 43
+  orig: 62, 47
+  offset: 3, 0
+  index: -1
+x_finger_c
+  rotate: false
+  xy: 103, 11
+  size: 43, 32
+  orig: 46, 35
+  offset: 1, 1
+  index: -1
+x_finger_d
+  rotate: true
+  xy: 711, 8
+  size: 28, 36
+  orig: 31, 49
+  offset: 2, 5
+  index: -1
+x_legpart_down_a
+  rotate: false
+  xy: 373, 172
+  size: 80, 68
+  orig: 83, 69
+  offset: 2, 0
+  index: -1
+x_legpart_foot_a
+  rotate: false
+  xy: 395, 51
+  size: 63, 33
+  orig: 67, 37
+  offset: 0, 4
+  index: -1
+x_legpart_heel_a
+  rotate: true
+  xy: 2, 28
+  size: 34, 51
+  orig: 38, 53
+  offset: 1, 0
+  index: -1
+x_legpart_up_a
+  rotate: false
+  xy: 1863, 160
+  size: 94, 53
+  orig: 99, 59
+  offset: 5, 0
+  index: -1

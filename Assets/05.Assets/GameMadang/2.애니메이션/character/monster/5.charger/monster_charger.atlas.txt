@@ -1,0 +1,398 @@
+
+monster_charger.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: true
+  xy: 882, 12
+  size: 53, 94
+  orig: 59, 113
+  offset: 1, 11
+  index: -1
+armpart_down_b
+  rotate: false
+  xy: 1682, 94
+  size: 47, 48
+  orig: 52, 53
+  offset: 2, 1
+  index: -1
+armpart_hand_a
+  rotate: false
+  xy: 827, 4
+  size: 46, 40
+  orig: 50, 40
+  offset: 3, 0
+  index: -1
+armpart_hand_b
+  rotate: false
+  xy: 1745, 46
+  size: 46, 46
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+armpart_up_a
+  rotate: true
+  xy: 1541, 97
+  size: 68, 39
+  orig: 71, 45
+  offset: 1, 1
+  index: -1
+armpart_up_b
+  rotate: false
+  xy: 1731, 94
+  size: 43, 51
+  orig: 45, 57
+  offset: 1, 0
+  index: -1
+bodypart_chest_a
+  rotate: true
+  xy: 626, 40
+  size: 154, 126
+  orig: 155, 128
+  offset: 1, 2
+  index: -1
+bodypart_pelvis_a
+  rotate: false
+  xy: 1114, 7
+  size: 64, 87
+  orig: 70, 96
+  offset: 4, 4
+  index: -1
+charger_skin1/bodypart_pelvis_a
+  rotate: false
+  xy: 1114, 7
+  size: 64, 87
+  orig: 70, 96
+  offset: 4, 4
+  index: -1
+bodypart_pelvis_b
+  rotate: false
+  xy: 1730, 147
+  size: 53, 41
+  orig: 58, 47
+  offset: 4, 4
+  index: -1
+bodypart_pelvis_c
+  rotate: false
+  xy: 1682, 144
+  size: 46, 48
+  orig: 50, 56
+  offset: 1, 5
+  index: -1
+bodypart_shoulder_a
+  rotate: false
+  xy: 1183, 5
+  size: 93, 90
+  orig: 98, 93
+  offset: 3, 1
+  index: -1
+bodypart_shoulder_b
+  rotate: false
+  xy: 992, 96
+  size: 95, 98
+  orig: 105, 98
+  offset: 1, 0
+  index: -1
+bodypart_shoulder_c
+  rotate: true
+  xy: 1339, 26
+  size: 69, 65
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+bodypart_waist
+  rotate: false
+  xy: 1406, 2
+  size: 57, 31
+  orig: 60, 33
+  offset: 2, 1
+  index: -1
+charger_skin1/armpart_down_a
+  rotate: true
+  xy: 210, 8
+  size: 49, 88
+  orig: 52, 95
+  offset: 0, 3
+  index: -1
+charger_skin1/armpart_down_b
+  rotate: true
+  xy: 1607, 42
+  size: 50, 47
+  orig: 52, 53
+  offset: 2, 2
+  index: -1
+charger_skin1/armpart_hand_a
+  rotate: false
+  xy: 1745, 4
+  size: 46, 40
+  orig: 50, 40
+  offset: 3, 0
+  index: -1
+charger_skin1/armpart_hand_b
+  rotate: true
+  xy: 1698, 2
+  size: 39, 41
+  orig: 46, 48
+  offset: 4, 2
+  index: -1
+charger_skin1/armpart_up_a
+  rotate: true
+  xy: 1447, 97
+  size: 71, 43
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+charger_skin1/armpart_up_b
+  rotate: false
+  xy: 1557, 42
+  size: 48, 53
+  orig: 50, 62
+  offset: 1, 3
+  index: -1
+charger_skin1/back
+  rotate: false
+  xy: 360, 16
+  size: 264, 178
+  orig: 267, 184
+  offset: 0, 1
+  index: -1
+charger_skin1/bodypart_chest_a
+  rotate: true
+  xy: 754, 46
+  size: 148, 126
+  orig: 155, 128
+  offset: 1, 1
+  index: -1
+charger_skin1/bodypart_pelvis_b
+  rotate: false
+  xy: 300, 10
+  size: 55, 47
+  orig: 58, 47
+  offset: 3, 0
+  index: -1
+charger_skin1/bodypart_pelvis_c
+  rotate: false
+  xy: 1582, 97
+  size: 48, 52
+  orig: 48, 54
+  offset: 0, 2
+  index: -1
+charger_skin1/bodypart_shoulder_a
+  rotate: true
+  xy: 1183, 97
+  size: 93, 91
+  orig: 98, 93
+  offset: 3, 1
+  index: -1
+charger_skin1/bodypart_shoulder_b
+  rotate: true
+  xy: 1089, 96
+  size: 94, 92
+  orig: 105, 98
+  offset: 3, 2
+  index: -1
+charger_skin1/bodypart_shoulder_c
+  rotate: true
+  xy: 1276, 97
+  size: 73, 71
+  orig: 76, 73
+  offset: 2, 2
+  index: -1
+charger_skin1/bodypart_shoulder_ex
+  rotate: false
+  xy: 1643, 94
+  size: 37, 62
+  orig: 37, 66
+  offset: 0, 4
+  index: -1
+charger_skin1/bodypart_waist
+  rotate: false
+  xy: 2, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+charger_skin1/headpart_hair_a
+  rotate: false
+  xy: 2, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+charger_skin1/headpart_hair_b
+  rotate: false
+  xy: 2, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+charger_skin1/legpart_skirt
+  rotate: false
+  xy: 2, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+charger_skin1/headpart_face
+  rotate: true
+  xy: 992, 18
+  size: 76, 120
+  orig: 108, 127
+  offset: 8, 7
+  index: -1
+charger_skin1/legpart_down_a
+  rotate: false
+  xy: 1349, 97
+  size: 48, 91
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+charger_skin1/legpart_down_b
+  rotate: false
+  xy: 1399, 97
+  size: 46, 71
+  orig: 52, 80
+  offset: 5, 4
+  index: -1
+charger_skin1/legpart_foot_a
+  rotate: true
+  xy: 1776, 94
+  size: 40, 37
+  orig: 75, 73
+  offset: 16, 1
+  index: -1
+charger_skin1/legpart_foot_b
+  rotate: false
+  xy: 1582, 151
+  size: 59, 39
+  orig: 85, 74
+  offset: 11, 2
+  index: -1
+charger_skin1/legpart_up_a
+  rotate: false
+  xy: 1492, 97
+  size: 47, 59
+  orig: 52, 61
+  offset: 3, 0
+  index: -1
+legpart_up_a
+  rotate: false
+  xy: 1492, 97
+  size: 47, 59
+  orig: 52, 61
+  offset: 3, 0
+  index: -1
+charger_skin1/legpart_up_b
+  rotate: true
+  xy: 1698, 43
+  size: 49, 45
+  orig: 52, 50
+  offset: 1, 2
+  index: -1
+legpart_up_b
+  rotate: true
+  xy: 1698, 43
+  size: 49, 45
+  orig: 52, 50
+  offset: 1, 2
+  index: -1
+charger_skin1/weapon
+  rotate: false
+  xy: 2, 59
+  size: 356, 135
+  orig: 377, 220
+  offset: 18, 43
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 59
+  size: 356, 135
+  orig: 377, 220
+  offset: 18, 43
+  index: -1
+charger_skin1/wh
+  rotate: false
+  xy: 2, 22
+  size: 206, 35
+  orig: 210, 39
+  offset: 4, 3
+  index: -1
+wh
+  rotate: false
+  xy: 2, 22
+  size: 206, 35
+  orig: 210, 39
+  offset: 4, 3
+  index: -1
+charger_skin1/x_legpart_skirt
+  rotate: true
+  xy: 1557, 9
+  size: 31, 79
+  orig: 33, 85
+  offset: 0, 2
+  index: -1
+x_legpart_skirt
+  rotate: true
+  xy: 1557, 9
+  size: 31, 79
+  orig: 33, 85
+  offset: 0, 2
+  index: -1
+headpart_face
+  rotate: false
+  xy: 882, 67
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1
+headpart_hair_a
+  rotate: false
+  xy: 1278, 8
+  size: 59, 87
+  orig: 64, 90
+  offset: 4, 0
+  index: -1
+headpart_hair_b
+  rotate: false
+  xy: 626, 5
+  size: 112, 33
+  orig: 115, 33
+  offset: 3, 0
+  index: -1
+legpart_down_a
+  rotate: false
+  xy: 1462, 36
+  size: 51, 59
+  orig: 51, 99
+  offset: 0, 2
+  index: -1
+legpart_down_b
+  rotate: false
+  xy: 1515, 27
+  size: 40, 68
+  orig: 42, 70
+  offset: 2, 0
+  index: -1
+legpart_foot_a
+  rotate: false
+  xy: 1656, 35
+  size: 40, 57
+  orig: 87, 84
+  offset: 25, 5
+  index: -1
+legpart_foot_b
+  rotate: true
+  xy: 1406, 35
+  size: 60, 54
+  orig: 71, 62
+  offset: 5, 4
+  index: -1
+legpart_skirt
+  rotate: true
+  xy: 740, 6
+  size: 32, 85
+  orig: 40, 90
+  offset: 4, 0
+  index: -1

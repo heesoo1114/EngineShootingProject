@@ -1,0 +1,146 @@
+
+ui_spine_fairy_wind.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: true
+  xy: 171, 76
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: true
+  xy: 90, 46
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+wind/1
+  rotate: true
+  xy: 90, 5
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+wind/10
+  rotate: false
+  xy: 34, 27
+  size: 17, 1
+  orig: 17, 1
+  offset: 0, 0
+  index: -1
+wind/2
+  rotate: false
+  xy: 2, 5
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+wind/3
+  rotate: false
+  xy: 16, 5
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+wind/4
+  rotate: false
+  xy: 34, 30
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+wind/5
+  rotate: false
+  xy: 2, 26
+  size: 30, 100
+  orig: 30, 100
+  offset: 0, 0
+  index: -1
+wind/6
+  rotate: true
+  xy: 2, 19
+  size: 5, 67
+  orig: 5, 67
+  offset: 0, 0
+  index: -1
+wind/7
+  rotate: false
+  xy: 148, 16
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+wind/8
+  rotate: false
+  xy: 71, 21
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+wind/9
+  rotate: false
+  xy: 71, 15
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+wind/hand1
+  rotate: true
+  xy: 36, 6
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+wind/hand2
+  rotate: true
+  xy: 26, 5
+  size: 12, 8
+  orig: 13, 8
+  offset: 1, 0
+  index: -1
+wind/hand3
+  rotate: false
+  xy: 54, 12
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wind/hand4
+  rotate: false
+  xy: 54, 4
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+wind/hand5
+  rotate: true
+  xy: 46, 9
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+wind/hand6
+  rotate: false
+  xy: 46, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+wind/hand7
+  rotate: false
+  xy: 63, 10
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+wind/hand8
+  rotate: false
+  xy: 62, 3
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

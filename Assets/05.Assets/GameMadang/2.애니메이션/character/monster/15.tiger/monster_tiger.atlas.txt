@@ -1,0 +1,398 @@
+
+monster_tiger.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: false
+  xy: 1207, 43
+  size: 74, 72
+  orig: 80, 72
+  offset: 5, 0
+  index: -1
+armpart_hand_a
+  rotate: false
+  xy: 1314, 74
+  size: 115, 57
+  orig: 123, 63
+  offset: 5, 3
+  index: -1
+armpart_up_a
+  rotate: true
+  xy: 1941, 153
+  size: 99, 70
+  orig: 112, 70
+  offset: 6, 0
+  index: -1
+bodtpart_chest_a
+  rotate: false
+  xy: 363, 48
+  size: 166, 204
+  orig: 189, 209
+  offset: 16, 1
+  index: -1
+bodypart_hip_a
+  rotate: false
+  xy: 1091, 129
+  size: 120, 123
+  orig: 123, 125
+  offset: 3, 0
+  index: -1
+bodypart_pelvis_a
+  rotate: false
+  xy: 1528, 144
+  size: 98, 108
+  orig: 108, 141
+  offset: 5, 27
+  index: -1
+hair
+  rotate: true
+  xy: 531, 39
+  size: 213, 133
+  orig: 218, 139
+  offset: 0, 0
+  index: -1
+headpart_face_a
+  rotate: false
+  xy: 824, 97
+  size: 140, 155
+  orig: 147, 181
+  offset: 3, 21
+  index: -1
+headpart_jaw_a
+  rotate: false
+  xy: 1134, 51
+  size: 71, 76
+  orig: 82, 82
+  offset: 3, 2
+  index: -1
+headpart_mouth_a
+  rotate: true
+  xy: 438, 15
+  size: 31, 46
+  orig: 36, 52
+  offset: 3, 2
+  index: -1
+headpart_mouth_b
+  rotate: false
+  xy: 1084, 11
+  size: 35, 33
+  orig: 37, 37
+  offset: 2, 1
+  index: -1
+legpart_down_a
+  rotate: false
+  xy: 1645, 55
+  size: 69, 87
+  orig: 81, 95
+  offset: 6, 7
+  index: -1
+legpart_foot_a
+  rotate: false
+  xy: 666, 23
+  size: 84, 61
+  orig: 92, 62
+  offset: 6, 1
+  index: -1
+legpart_up_a
+  rotate: true
+  xy: 1716, 126
+  size: 126, 73
+  orig: 154, 84
+  offset: 7, 11
+  index: -1
+shoulder
+  rotate: true
+  xy: 1791, 144
+  size: 108, 82
+  orig: 109, 87
+  offset: 1, 5
+  index: -1
+shouldera
+  rotate: false
+  xy: 1420, 138
+  size: 106, 114
+  orig: 123, 125
+  offset: 9, 2
+  index: -1
+tail_a
+  rotate: false
+  xy: 1134, 23
+  size: 61, 26
+  orig: 68, 36
+  offset: 5, 4
+  index: -1
+tail_b
+  rotate: false
+  xy: 1234, 10
+  size: 37, 31
+  orig: 41, 35
+  offset: 3, 1
+  index: -1
+tail_c
+  rotate: true
+  xy: 2013, 221
+  size: 31, 28
+  orig: 36, 31
+  offset: 4, 2
+  index: -1
+tail_d
+  rotate: false
+  xy: 1709, 18
+  size: 48, 23
+  orig: 49, 26
+  offset: 1, 1
+  index: -1
+tail_e
+  rotate: true
+  xy: 2013, 157
+  size: 29, 23
+  orig: 29, 26
+  offset: 0, 3
+  index: -1
+tail_f
+  rotate: false
+  xy: 1882, 4
+  size: 70, 63
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+tiger_skin1/armpart_down_a
+  rotate: false
+  xy: 824, 23
+  size: 74, 72
+  orig: 80, 72
+  offset: 5, 0
+  index: -1
+tiger_skin1/armpart_hand_a
+  rotate: false
+  xy: 1528, 84
+  size: 115, 58
+  orig: 123, 63
+  offset: 5, 2
+  index: -1
+tiger_skin1/armpart_up_a
+  rotate: false
+  xy: 966, 67
+  size: 97, 60
+  orig: 102, 64
+  offset: 3, 1
+  index: -1
+tiger_skin1/bodtpart_chest_a
+  rotate: true
+  xy: 666, 86
+  size: 166, 156
+  orig: 172, 190
+  offset: 6, 0
+  index: -1
+tiger_skin1/bodypart_hip_a
+  rotate: false
+  xy: 966, 129
+  size: 123, 123
+  orig: 123, 125
+  offset: 0, 1
+  index: -1
+tiger_skin1/bodypart_pelvis_a
+  rotate: false
+  xy: 1213, 117
+  size: 99, 135
+  orig: 108, 141
+  offset: 5, 2
+  index: -1
+tiger_skin1/hair
+  rotate: true
+  xy: 206, 2
+  size: 250, 155
+  orig: 278, 199
+  offset: 13, 14
+  index: -1
+tiger_skin1/headpart_face_a
+  rotate: false
+  xy: 2, 18
+  size: 202, 234
+  orig: 287, 316
+  offset: 13, 81
+  index: -1
+tiger_skin1/headpart_jaw_a
+  rotate: true
+  xy: 1941, 69
+  size: 82, 76
+  orig: 82, 82
+  offset: 0, 3
+  index: -1
+tiger_skin1/headpart_mouth_a
+  rotate: true
+  xy: 1036, 13
+  size: 31, 46
+  orig: 36, 52
+  offset: 3, 2
+  index: -1
+tiger_skin1/headpart_mouth_b
+  rotate: false
+  xy: 1197, 8
+  size: 35, 33
+  orig: 37, 37
+  offset: 2, 1
+  index: -1
+tiger_skin1/legpart_down_a
+  rotate: false
+  xy: 1065, 46
+  size: 67, 81
+  orig: 74, 86
+  offset: 4, 2
+  index: -1
+tiger_skin1/legpart_foot_a
+  rotate: false
+  xy: 1516, 24
+  size: 85, 58
+  orig: 92, 62
+  offset: 5, 1
+  index: -1
+tiger_skin1/legpart_up_a
+  rotate: true
+  xy: 1875, 132
+  size: 120, 64
+  orig: 127, 69
+  offset: 4, 3
+  index: -1
+tiger_skin1/shoulder
+  rotate: true
+  xy: 1628, 144
+  size: 108, 86
+  orig: 109, 87
+  offset: 1, 0
+  index: -1
+tiger_skin1/shouldera
+  rotate: false
+  xy: 1314, 133
+  size: 104, 119
+  orig: 123, 125
+  offset: 8, 6
+  index: -1
+tiger_skin1/tail_a
+  rotate: false
+  xy: 1430, 10
+  size: 64, 50
+  orig: 98, 66
+  offset: 16, 0
+  index: -1
+tiger_skin1/tail_b
+  rotate: false
+  xy: 486, 12
+  size: 39, 34
+  orig: 41, 35
+  offset: 2, 0
+  index: -1
+tiger_skin1/tail_c
+  rotate: true
+  xy: 2013, 188
+  size: 31, 28
+  orig: 36, 31
+  offset: 3, 1
+  index: -1
+tiger_skin1/tail_d
+  rotate: false
+  xy: 1882, 73
+  size: 49, 23
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+tiger_skin1/tail_e
+  rotate: false
+  xy: 1603, 59
+  size: 29, 23
+  orig: 29, 26
+  offset: 0, 1
+  index: -1
+tiger_skin1/tail_f
+  rotate: false
+  xy: 1791, 64
+  size: 89, 66
+  orig: 93, 85
+  offset: 0, 8
+  index: -1
+tiger_skin1/x_armpart_down_a
+  rotate: false
+  xy: 1954, 13
+  size: 77, 54
+  orig: 82, 58
+  offset: 5, 2
+  index: -1
+tiger_skin1/x_armpart_hand_a
+  rotate: false
+  xy: 1603, 16
+  size: 104, 37
+  orig: 107, 52
+  offset: 2, 8
+  index: -1
+tiger_skin1/x_armpart_up_a
+  rotate: false
+  xy: 1283, 10
+  size: 79, 62
+  orig: 81, 64
+  offset: 2, 1
+  index: -1
+tiger_skin1/x_legpart_down_a
+  rotate: true
+  xy: 1364, 7
+  size: 65, 64
+  orig: 81, 79
+  offset: 8, 4
+  index: -1
+tiger_skin1/x_legpart_foot_a
+  rotate: false
+  xy: 1882, 98
+  size: 57, 32
+  orig: 70, 48
+  offset: 9, 10
+  index: -1
+tiger_skin1/x_legpart_up_a
+  rotate: true
+  xy: 900, 18
+  size: 77, 56
+  orig: 91, 76
+  offset: 9, 9
+  index: -1
+x_armpart_down_a
+  rotate: false
+  xy: 958, 11
+  size: 76, 54
+  orig: 82, 58
+  offset: 6, 2
+  index: -1
+x_armpart_hand_a
+  rotate: false
+  xy: 1783, 25
+  size: 89, 37
+  orig: 107, 52
+  offset: 4, 8
+  index: -1
+x_armpart_up_a
+  rotate: false
+  xy: 1431, 62
+  size: 83, 74
+  orig: 112, 89
+  offset: 11, 11
+  index: -1
+x_legpart_down_a
+  rotate: false
+  xy: 1716, 43
+  size: 65, 81
+  orig: 89, 87
+  offset: 13, 6
+  index: -1
+x_legpart_foot_a
+  rotate: false
+  xy: 363, 9
+  size: 73, 37
+  orig: 92, 64
+  offset: 10, 19
+  index: -1
+x_legpart_up_a
+  rotate: true
+  xy: 752, 12
+  size: 72, 68
+  orig: 96, 80
+  offset: 10, 12
+  index: -1

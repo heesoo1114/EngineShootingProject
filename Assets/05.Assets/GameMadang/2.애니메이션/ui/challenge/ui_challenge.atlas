@@ -1,0 +1,27 @@
+
+ui_challenge.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/shadow4
+  rotate: false
+  xy: 76, 42
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+img/ui_text_challenge
+  rotate: true
+  xy: 2, 2
+  size: 240, 35
+  orig: 240, 35
+  offset: 0, 0
+  index: -1
+img/ui_text_challenge2
+  rotate: true
+  xy: 39, 2
+  size: 240, 35
+  orig: 240, 35
+  offset: 0, 0
+  index: -1

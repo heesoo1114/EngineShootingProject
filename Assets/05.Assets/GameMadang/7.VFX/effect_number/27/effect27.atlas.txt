@@ -1,0 +1,139 @@
+
+effect27.png
+size: 352,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 344, 159
+  size: 63, 6
+  orig: 63, 22
+  offset: 0, 8
+  index: -1
+5
+  rotate: false
+  xy: 267, 2
+  size: 60, 19
+  orig: 63, 22
+  offset: 2, 1
+  index: -1
+9
+  rotate: true
+  xy: 267, 23
+  size: 88, 78
+  orig: 93, 80
+  offset: 2, 0
+  index: -1
+c1
+  rotate: false
+  xy: 58, 59
+  size: 52, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 58, 6
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+e2
+  rotate: false
+  xy: 58, 6
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+c3
+  rotate: false
+  xy: 2, 5
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+e3
+  rotate: false
+  xy: 2, 5
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+c4
+  rotate: true
+  xy: 111, 6
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+e4
+  rotate: true
+  xy: 111, 6
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+callin_1
+  rotate: false
+  xy: 2, 112
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+callin_2
+  rotate: false
+  xy: 114, 112
+  size: 110, 110
+  orig: 111, 110
+  offset: 1, 0
+  index: -1
+callin_3
+  rotate: false
+  xy: 226, 113
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+d1
+  rotate: true
+  xy: 226, 7
+  size: 104, 39
+  orig: 106, 41
+  offset: 1, 1
+  index: -1
+d2
+  rotate: true
+  xy: 337, 136
+  size: 86, 5
+  orig: 95, 19
+  offset: 4, 7
+  index: -1
+e1
+  rotate: true
+  xy: 112, 58
+  size: 52, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+e5
+  rotate: false
+  xy: 164, 5
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+e6
+  rotate: false
+  xy: 165, 59
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 58
+  size: 54, 52
+  orig: 69, 67
+  offset: 7, 8
+  index: -1

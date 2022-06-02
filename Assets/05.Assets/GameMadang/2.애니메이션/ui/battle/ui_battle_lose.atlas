@@ -1,0 +1,41 @@
+
+ui_battle_lose.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 373, 133
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 744, 310
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+ui_battle_draw
+  rotate: false
+  xy: 2, 257
+  size: 369, 253
+  orig: 369, 253
+  offset: 0, 0
+  index: -1
+ui_battle_giveup
+  rotate: false
+  xy: 2, 2
+  size: 369, 253
+  orig: 369, 253
+  offset: 0, 0
+  index: -1
+ui_battle_lose
+  rotate: false
+  xy: 373, 257
+  size: 369, 253
+  orig: 369, 253
+  offset: 0, 0
+  index: -1

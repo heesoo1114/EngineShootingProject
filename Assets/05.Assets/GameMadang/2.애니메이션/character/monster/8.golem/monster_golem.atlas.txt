@@ -1,0 +1,804 @@
+
+monster_golem.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down_a
+  rotate: true
+  xy: 800, 129
+  size: 98, 135
+  orig: 111, 138
+  offset: 6, 0
+  index: -1
+armpart_down_b
+  rotate: false
+  xy: 1245, 22
+  size: 94, 88
+  orig: 96, 94
+  offset: 2, 3
+  index: -1
+armpart_ex_a
+  rotate: false
+  xy: 210, 479
+  size: 295, 119
+  orig: 298, 120
+  offset: 3, 0
+  index: -1
+armpart_ex_b
+  rotate: false
+  xy: 1733, 451
+  size: 291, 114
+  orig: 293, 120
+  offset: 0, 2
+  index: -1
+armpart_ex_c
+  rotate: false
+  xy: 1150, 365
+  size: 107, 212
+  orig: 112, 223
+  offset: 1, 1
+  index: -1
+armpart_ex_d
+  rotate: false
+  xy: 1109, 221
+  size: 143, 142
+  orig: 154, 142
+  offset: 11, 0
+  index: -1
+armpart_ex_e
+  rotate: true
+  xy: 1756, 64
+  size: 72, 142
+  orig: 79, 146
+  offset: 4, 4
+  index: -1
+armpart_up_a
+  rotate: true
+  xy: 561, 956
+  size: 221, 280
+  orig: 221, 280
+  offset: 0, 0
+  index: -1
+armpart_up_b
+  rotate: true
+  xy: 773, 589
+  size: 160, 247
+  orig: 162, 250
+  offset: 1, 0
+  index: -1
+armpart_up_c
+  rotate: true
+  xy: 2, 920
+  size: 237, 259
+  orig: 242, 270
+  offset: 0, 4
+  index: -1
+bodypart_chest_a
+  rotate: false
+  xy: 1827, 753
+  size: 216, 216
+  orig: 218, 220
+  offset: 2, 0
+  index: -1
+bodypart_pelvis_a
+  rotate: false
+  xy: 365, 189
+  size: 137, 118
+  orig: 142, 118
+  offset: 2, 0
+  index: -1
+bodypart_shoulder_a
+  rotate: true
+  xy: 1051, 579
+  size: 182, 217
+  orig: 182, 217
+  offset: 0, 0
+  index: -1
+bodypart_shoulder_b
+  rotate: true
+  xy: 221, 321
+  size: 156, 196
+  orig: 157, 198
+  offset: 0, 2
+  index: -1
+bodypart_shoulder_c
+  rotate: true
+  xy: 2, 334
+  size: 143, 217
+  orig: 143, 217
+  offset: 0, 0
+  index: -1
+bodypart_shoulder_d
+  rotate: true
+  xy: 2, 531
+  size: 182, 206
+  orig: 182, 217
+  offset: 0, 0
+  index: -1
+effect/2
+  rotate: true
+  xy: 141, 145
+  size: 78, 163
+  orig: 78, 163
+  offset: 0, 0
+  index: -1
+effect/3
+  rotate: false
+  xy: 1289, 904
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+exston_a
+  rotate: true
+  xy: 471, 66
+  size: 73, 147
+  orig: 78, 153
+  offset: 5, 3
+  index: -1
+exston_b
+  rotate: false
+  xy: 1464, 504
+  size: 57, 119
+  orig: 61, 120
+  offset: 1, 0
+  index: -1
+exston_c
+  rotate: false
+  xy: 1526, 637
+  size: 52, 82
+  orig: 57, 97
+  offset: 5, 9
+  index: -1
+exston_d
+  rotate: false
+  xy: 1974, 143
+  size: 70, 109
+  orig: 100, 136
+  offset: 19, 25
+  index: -1
+exston_e
+  rotate: true
+  xy: 1900, 56
+  size: 80, 119
+  orig: 90, 133
+  offset: 3, 8
+  index: -1
+exston_f
+  rotate: false
+  xy: 1662, 341
+  size: 67, 104
+  orig: 80, 124
+  offset: 4, 9
+  index: -1
+golem_boss1/armpart_down_a
+  rotate: true
+  xy: 1380, 129
+  size: 99, 139
+  orig: 104, 141
+  offset: 5, 2
+  index: -1
+golem_boss1/armpart_down_b
+  rotate: true
+  xy: 290, 20
+  size: 87, 95
+  orig: 110, 108
+  offset: 14, 9
+  index: -1
+golem_boss1/armpart_ex_c
+  rotate: true
+  xy: 504, 221
+  size: 75, 211
+  orig: 112, 223
+  offset: 2, 0
+  index: -1
+golem_boss1/armpart_ex_d
+  rotate: true
+  xy: 1102, 129
+  size: 90, 141
+  orig: 154, 142
+  offset: 41, 0
+  index: -1
+golem_boss1/armpart_ex_e
+  rotate: true
+  xy: 1102, 60
+  size: 67, 141
+  orig: 79, 146
+  offset: 10, 5
+  index: -1
+golem_boss1/armpart_up_a
+  rotate: false
+  xy: 834, 1201
+  size: 229, 311
+  orig: 274, 339
+  offset: 24, 10
+  index: -1
+golem_boss1/armpart_up_b
+  rotate: true
+  xy: 561, 780
+  size: 174, 273
+  orig: 190, 278
+  offset: 16, 4
+  index: -1
+golem_boss1/armpart_up_c
+  rotate: true
+  xy: 1065, 982
+  size: 239, 270
+  orig: 266, 297
+  offset: 16, 14
+  index: -1
+golem_boss1/bodypart_chest_a
+  rotate: true
+  xy: 1542, 1017
+  size: 216, 299
+  orig: 443, 427
+  offset: 114, 117
+  index: -1
+golem_boss1/bodypart_pelvis_a
+  rotate: true
+  xy: 1526, 447
+  size: 179, 205
+  orig: 343, 317
+  offset: 101, 97
+  index: -1
+golem_boss1/bodypart_shoulder_a
+  rotate: false
+  xy: 843, 956
+  size: 213, 243
+  orig: 239, 274
+  offset: 19, 24
+  index: -1
+golem_boss1/bodypart_shoulder_b
+  rotate: true
+  xy: 1582, 628
+  size: 178, 235
+  orig: 213, 254
+  offset: 29, 1
+  index: -1
+golem_boss1/bodypart_shoulder_c
+  rotate: true
+  xy: 537, 600
+  size: 178, 234
+  orig: 200, 274
+  offset: 2, 0
+  index: -1
+golem_boss1/bodypart_shoulder_d
+  rotate: true
+  xy: 836, 751
+  size: 203, 213
+  orig: 239, 274
+  offset: 21, 6
+  index: -1
+golem_boss1/effect/2
+  rotate: true
+  xy: 504, 141
+  size: 78, 163
+  orig: 78, 163
+  offset: 0, 0
+  index: -1
+golem_boss1/effect/3
+  rotate: false
+  xy: 217, 842
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+golem_boss1/headpart_face_a
+  rotate: false
+  xy: 1254, 112
+  size: 124, 119
+  orig: 128, 123
+  offset: 2, 2
+  index: -1
+golem_skin1/headpart_face_a
+  rotate: false
+  xy: 1254, 112
+  size: 124, 119
+  orig: 128, 123
+  offset: 2, 2
+  index: -1
+golem_boss1/legpart_down_a
+  rotate: true
+  xy: 1254, 233
+  size: 101, 194
+  orig: 104, 198
+  offset: 3, 2
+  index: -1
+golem_boss1/legpart_down_b
+  rotate: true
+  xy: 1450, 230
+  size: 94, 174
+  orig: 95, 174
+  offset: 1, 0
+  index: -1
+golem_boss1/legpart_up_a
+  rotate: false
+  xy: 387, 40
+  size: 62, 67
+  orig: 64, 68
+  offset: 2, 0
+  index: -1
+golem_boss1/legpart_up_b
+  rotate: false
+  xy: 1733, 573
+  size: 55, 53
+  orig: 84, 89
+  offset: 28, 25
+  index: -1
+golem_boss1/weapon_a
+  rotate: false
+  xy: 1058, 763
+  size: 229, 217
+  orig: 255, 265
+  offset: 14, 12
+  index: -1
+golem_boss1/weapon_ex_a
+  rotate: true
+  xy: 807, 229
+  size: 104, 185
+  orig: 110, 193
+  offset: 0, 3
+  index: -1
+golem_skin1/weapon_ex_a
+  rotate: true
+  xy: 807, 229
+  size: 104, 185
+  orig: 110, 193
+  offset: 0, 3
+  index: -1
+weapon_ex_a
+  rotate: true
+  xy: 807, 229
+  size: 104, 185
+  orig: 110, 193
+  offset: 0, 3
+  index: -1
+golem_boss1/weapon_ex_b
+  rotate: true
+  xy: 1733, 330
+  size: 119, 196
+  orig: 125, 205
+  offset: 4, 4
+  index: -1
+golem_skin1/weapon_ex_b
+  rotate: true
+  xy: 1733, 330
+  size: 119, 196
+  orig: 125, 205
+  offset: 4, 4
+  index: -1
+weapon_ex_b
+  rotate: true
+  xy: 1733, 330
+  size: 119, 196
+  orig: 125, 205
+  offset: 4, 4
+  index: -1
+golem_boss1/weapon_ex_c
+  rotate: true
+  xy: 419, 309
+  size: 106, 192
+  orig: 118, 202
+  offset: 7, 6
+  index: -1
+golem_skin1/weapon_ex_c
+  rotate: true
+  xy: 419, 309
+  size: 106, 192
+  orig: 118, 202
+  offset: 7, 6
+  index: -1
+weapon_ex_c
+  rotate: true
+  xy: 419, 309
+  size: 106, 192
+  orig: 118, 202
+  offset: 7, 6
+  index: -1
+golem_skin1/armpart_down_a
+  rotate: true
+  xy: 2, 130
+  size: 96, 137
+  orig: 104, 141
+  offset: 5, 1
+  index: -1
+golem_skin1/armpart_down_b
+  rotate: false
+  xy: 1380, 37
+  size: 94, 90
+  orig: 96, 94
+  offset: 2, 2
+  index: -1
+golem_skin1/armpart_ex_c
+  rotate: true
+  xy: 1626, 156
+  size: 75, 210
+  orig: 112, 223
+  offset: 2, 0
+  index: -1
+golem_skin1/armpart_ex_d
+  rotate: false
+  xy: 1521, 87
+  size: 90, 141
+  orig: 154, 142
+  offset: 41, 0
+  index: -1
+golem_skin1/armpart_ex_e
+  rotate: true
+  xy: 741, 60
+  size: 67, 141
+  orig: 79, 146
+  offset: 10, 5
+  index: -1
+golem_skin1/armpart_up_a
+  rotate: false
+  xy: 1309, 1223
+  size: 231, 289
+  orig: 249, 308
+  offset: 14, 13
+  index: -1
+golem_skin1/armpart_up_b
+  rotate: true
+  xy: 263, 780
+  size: 167, 272
+  orig: 190, 278
+  offset: 15, 5
+  index: -1
+golem_skin1/armpart_up_c
+  rotate: false
+  xy: 1778, 1242
+  size: 240, 270
+  orig: 242, 270
+  offset: 2, 0
+  index: -1
+golem_skin1/bodypart_chest_a
+  rotate: true
+  xy: 1337, 1018
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+golem_skin1/bodypart_pelvis_a
+  rotate: true
+  xy: 1819, 567
+  size: 184, 204
+  orig: 312, 288
+  offset: 79, 83
+  index: -1
+golem_skin1/bodypart_shoulder_a
+  rotate: true
+  xy: 1337, 805
+  size: 210, 243
+  orig: 239, 274
+  offset: 29, 13
+  index: -1
+golem_skin1/bodypart_shoulder_b
+  rotate: true
+  xy: 1289, 625
+  size: 178, 235
+  orig: 213, 254
+  offset: 30, 0
+  index: -1
+golem_skin1/bodypart_shoulder_c
+  rotate: true
+  xy: 217, 600
+  size: 178, 235
+  orig: 200, 274
+  offset: 0, 3
+  index: -1
+golem_skin1/bodypart_shoulder_d
+  rotate: true
+  xy: 2, 715
+  size: 203, 213
+  orig: 239, 274
+  offset: 19, 3
+  index: -1
+golem_skin1/effect/2
+  rotate: true
+  xy: 937, 116
+  size: 78, 163
+  orig: 78, 163
+  offset: 0, 0
+  index: -1
+golem_skin1/effect/3
+  rotate: false
+  xy: 1289, 826
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+golem_skin1/legpart_down_a
+  rotate: false
+  xy: 1931, 254
+  size: 102, 195
+  orig: 104, 198
+  offset: 1, 2
+  index: -1
+golem_skin1/legpart_down_b
+  rotate: true
+  xy: 189, 225
+  size: 94, 174
+  orig: 95, 174
+  offset: 0, 0
+  index: -1
+golem_skin1/legpart_up_a
+  rotate: true
+  xy: 451, 2
+  size: 62, 66
+  orig: 64, 68
+  offset: 2, 1
+  index: -1
+golem_skin1/legpart_up_b
+  rotate: false
+  xy: 1464, 449
+  size: 54, 53
+  orig: 63, 67
+  offset: 9, 10
+  index: -1
+golem_skin1/weapon_a
+  rotate: true
+  xy: 1270, 442
+  size: 181, 192
+  orig: 184, 194
+  offset: 0, 2
+  index: -1
+golem_skin2/armpart_down_a
+  rotate: false
+  xy: 994, 196
+  size: 103, 137
+  orig: 168, 195
+  offset: 25, 17
+  index: -1
+golem_skin2/armpart_down_b
+  rotate: true
+  xy: 2, 40
+  size: 88, 100
+  orig: 124, 122
+  offset: 35, 12
+  index: -1
+golem_skin2/armpart_ex_c
+  rotate: true
+  xy: 895, 335
+  size: 107, 212
+  orig: 112, 223
+  offset: 1, 1
+  index: -1
+golem_skin2/armpart_ex_d
+  rotate: true
+  xy: 1613, 64
+  size: 90, 141
+  orig: 154, 142
+  offset: 41, 0
+  index: -1
+golem_skin2/armpart_ex_e
+  rotate: true
+  xy: 884, 49
+  size: 65, 142
+  orig: 79, 146
+  offset: 11, 4
+  index: -1
+golem_skin2/armpart_up_a
+  rotate: false
+  xy: 1065, 1225
+  size: 242, 287
+  orig: 292, 370
+  offset: 8, 34
+  index: -1
+golem_skin2/armpart_up_b
+  rotate: false
+  xy: 1843, 971
+  size: 197, 269
+  orig: 219, 307
+  offset: 12, 17
+  index: -1
+golem_skin2/armpart_up_c
+  rotate: true
+  xy: 276, 949
+  size: 228, 283
+  orig: 256, 284
+  offset: 11, 0
+  index: -1
+golem_skin2/bodypart_chest_a
+  rotate: false
+  xy: 1582, 808
+  size: 243, 207
+  orig: 243, 245
+  offset: 0, 15
+  index: -1
+golem_skin2/bodypart_pelvis_a
+  rotate: false
+  xy: 1838, 138
+  size: 134, 114
+  orig: 142, 118
+  offset: 7, 2
+  index: -1
+golem_skin2/bodypart_shoulder_a
+  rotate: false
+  xy: 2, 1159
+  size: 272, 353
+  orig: 437, 472
+  offset: 52, 103
+  index: -1
+golem_skin2/bodypart_shoulder_b
+  rotate: false
+  xy: 1542, 1235
+  size: 234, 277
+  orig: 384, 425
+  offset: 94, 110
+  index: -1
+golem_skin2/bodypart_shoulder_c
+  rotate: false
+  xy: 276, 1179
+  size: 280, 333
+  orig: 398, 472
+  offset: 51, 127
+  index: -1
+golem_skin2/bodypart_shoulder_d
+  rotate: false
+  xy: 558, 1179
+  size: 274, 333
+  orig: 437, 472
+  offset: 98, 131
+  index: -1
+golem_skin2/effect/2
+  rotate: true
+  xy: 306, 109
+  size: 78, 163
+  orig: 78, 163
+  offset: 0, 0
+  index: -1
+golem_skin2/effect/3
+  rotate: false
+  xy: 1109, 366
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+golem_skin2/exston_a
+  rotate: true
+  xy: 141, 69
+  size: 74, 147
+  orig: 78, 153
+  offset: 3, 2
+  index: -1
+golem_skin2/exston_b
+  rotate: true
+  xy: 104, 10
+  size: 57, 119
+  orig: 61, 120
+  offset: 0, 0
+  index: -1
+golem_skin2/exston_c
+  rotate: false
+  xy: 1526, 721
+  size: 53, 82
+  orig: 57, 97
+  offset: 4, 10
+  index: -1
+golem_skin2/exston_d
+  rotate: true
+  xy: 1476, 15
+  size: 70, 109
+  orig: 100, 136
+  offset: 19, 25
+  index: -1
+golem_skin2/exston_e
+  rotate: true
+  xy: 620, 50
+  size: 80, 119
+  orig: 90, 133
+  offset: 3, 8
+  index: -1
+golem_skin2/exston_f
+  rotate: false
+  xy: 1028, 10
+  size: 67, 104
+  orig: 80, 124
+  offset: 4, 9
+  index: -1
+golem_skin2/headpart_face_a
+  rotate: false
+  xy: 2020, 1511
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+golem_skin2/legpart_down_a
+  rotate: false
+  xy: 454, 606
+  size: 77, 172
+  orig: 104, 198
+  offset: 21, 6
+  index: -1
+golem_skin2/legpart_down_b
+  rotate: false
+  xy: 717, 132
+  size: 81, 164
+  orig: 95, 174
+  offset: 0, 0
+  index: -1
+golem_skin2/legpart_up_a
+  rotate: false
+  xy: 1838, 256
+  size: 67, 72
+  orig: 92, 96
+  offset: 16, 4
+  index: -1
+golem_skin2/legpart_up_b
+  rotate: false
+  xy: 419, 420
+  size: 51, 57
+  orig: 71, 75
+  offset: 7, 14
+  index: -1
+golem_skin2/weapon_a
+  rotate: true
+  xy: 507, 417
+  size: 181, 192
+  orig: 184, 194
+  offset: 0, 2
+  index: -1
+golem_skin2/weapon_ex_a
+  rotate: true
+  xy: 2, 228
+  size: 104, 185
+  orig: 110, 193
+  offset: 0, 3
+  index: -1
+golem_skin2/weapon_ex_b
+  rotate: true
+  xy: 1464, 326
+  size: 119, 196
+  orig: 125, 205
+  offset: 4, 4
+  index: -1
+golem_skin2/weapon_ex_c
+  rotate: true
+  xy: 613, 298
+  size: 106, 192
+  orig: 118, 202
+  offset: 7, 6
+  index: -1
+headpart_face_a
+  rotate: true
+  xy: 895, 444
+  size: 133, 253
+  orig: 133, 263
+  offset: 0, 1
+  index: -1
+legpart_down_a
+  rotate: true
+  xy: 1259, 336
+  size: 104, 197
+  orig: 104, 198
+  offset: 0, 0
+  index: -1
+legpart_down_b
+  rotate: true
+  xy: 1662, 233
+  size: 95, 174
+  orig: 95, 174
+  offset: 0, 0
+  index: -1
+legpart_up_a
+  rotate: false
+  xy: 807, 337
+  size: 63, 67
+  orig: 64, 68
+  offset: 1, 0
+  index: -1
+legpart_up_b
+  rotate: false
+  xy: 225, 13
+  size: 49, 54
+  orig: 51, 55
+  offset: 2, 0
+  index: -1
+weapon_a
+  rotate: true
+  xy: 701, 406
+  size: 181, 192
+  orig: 184, 194
+  offset: 1, 1
+  index: -1

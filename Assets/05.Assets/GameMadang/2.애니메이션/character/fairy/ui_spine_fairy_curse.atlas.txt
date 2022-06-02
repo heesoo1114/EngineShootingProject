@@ -1,0 +1,76 @@
+
+ui_spine_fairy_curse.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+curse/1
+  rotate: true
+  xy: 84, 30
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+curse/2
+  rotate: false
+  xy: 193, 46
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+curse/3
+  rotate: false
+  xy: 193, 8
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+curse/4
+  rotate: true
+  xy: 141, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+curse/5
+  rotate: true
+  xy: 84, 17
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+curse/6
+  rotate: false
+  xy: 235, 49
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+curse/7
+  rotate: false
+  xy: 235, 17
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+curse/8
+  rotate: false
+  xy: 180, 25
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 141, 35
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: false
+  xy: 2, 3
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1

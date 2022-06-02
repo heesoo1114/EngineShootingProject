@@ -1,0 +1,153 @@
+
+skill_dispelmagic.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bind/6
+  rotate: false
+  xy: 1258, 12
+  size: 50, 59
+  orig: 50, 61
+  offset: 0, 1
+  index: -1
+bind/7
+  rotate: false
+  xy: 2, 211
+  size: 356, 43
+  orig: 358, 44
+  offset: 1, 1
+  index: -1
+bind/8
+  rotate: false
+  xy: 2, 165
+  size: 356, 44
+  orig: 358, 44
+  offset: 1, 0
+  index: -1
+bind/9
+  rotate: false
+  xy: 2, 120
+  size: 351, 43
+  orig: 358, 44
+  offset: 5, 1
+  index: -1
+bind/9a
+  rotate: false
+  xy: 2, 79
+  size: 344, 39
+  orig: 358, 44
+  offset: 9, 3
+  index: -1
+common/c1
+  rotate: false
+  xy: 1466, 58
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+common/c2
+  rotate: false
+  xy: 1562, 59
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c3
+  rotate: false
+  xy: 1659, 163
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+common/c4
+  rotate: false
+  xy: 1364, 2
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c5
+  rotate: false
+  xy: 1565, 162
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c6
+  rotate: false
+  xy: 1657, 68
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c7
+  rotate: false
+  xy: 1181, 73
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+common/glow1
+  rotate: true
+  xy: 1466, 154
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/spark1
+  rotate: true
+  xy: 608, 10
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+common/spark2
+  rotate: true
+  xy: 806, 26
+  size: 228, 186
+  orig: 244, 195
+  offset: 0, 2
+  index: -1
+common/spark3
+  rotate: true
+  xy: 994, 33
+  size: 221, 185
+  orig: 244, 196
+  offset: 2, 0
+  index: -1
+common/spark4
+  rotate: true
+  xy: 1364, 95
+  size: 159, 100
+  orig: 244, 196
+  offset: 28, 53
+  index: -1
+frost/2
+  rotate: true
+  xy: 2, 2
+  size: 75, 78
+  orig: 91, 92
+  offset: 8, 7
+  index: -1
+light/1
+  rotate: true
+  xy: 360, 6
+  size: 248, 246
+  orig: 248, 246
+  offset: 0, 0
+  index: -1
+light/3
+  rotate: false
+  xy: 1181, 35
+  size: 75, 36
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+stone/1
+  rotate: false
+  xy: 1310, 29
+  size: 48, 42
+  orig: 50, 61
+  offset: 1, 10
+  index: -1

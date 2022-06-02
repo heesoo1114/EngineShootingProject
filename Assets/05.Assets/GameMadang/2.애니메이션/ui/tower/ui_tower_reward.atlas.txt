@@ -1,0 +1,41 @@
+
+ui_tower_reward.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest3
+  rotate: false
+  xy: 164, 57
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+chest3a
+  rotate: false
+  xy: 164, 112
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+chest4
+  rotate: false
+  xy: 164, 2
+  size: 58, 53
+  orig: 59, 53
+  offset: 1, 0
+  index: -1
+chest5
+  rotate: false
+  xy: 164, 137
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+common/light
+  rotate: false
+  xy: 2, 2
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1

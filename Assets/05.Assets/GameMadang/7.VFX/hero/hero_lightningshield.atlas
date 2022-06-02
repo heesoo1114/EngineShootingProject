@@ -1,0 +1,104 @@
+
+hero_lightningshield.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/cx1
+  rotate: false
+  xy: 2, 189
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx2
+  rotate: false
+  xy: 161, 348
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx3
+  rotate: false
+  xy: 2, 51
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx4
+  rotate: false
+  xy: 299, 348
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx5
+  rotate: false
+  xy: 140, 189
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx6
+  rotate: false
+  xy: 140, 51
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/cx7
+  rotate: false
+  xy: 278, 210
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+common/glow1
+  rotate: true
+  xy: 416, 258
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+magician/8
+  rotate: false
+  xy: 278, 106
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+magician/9
+  rotate: false
+  xy: 278, 2
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+magician/bullet
+  rotate: false
+  xy: 2, 327
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+stun/17
+  rotate: true
+  xy: 2, 4
+  size: 45, 136
+  orig: 45, 136
+  offset: 0, 0
+  index: -1
+stun/18
+  rotate: false
+  xy: 437, 353
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+stun/19
+  rotate: true
+  xy: 140, 15
+  size: 34, 91
+  orig: 34, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_gathering_ore.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ore1
+  rotate: false
+  xy: 2, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+ore2
+  rotate: false
+  xy: 2, 29
+  size: 43, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

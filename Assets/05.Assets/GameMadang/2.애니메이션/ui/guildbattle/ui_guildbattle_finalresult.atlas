@@ -1,0 +1,55 @@
+
+ui_guildbattle_finalresult.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework1
+  rotate: true
+  xy: 562, 40
+  size: 176, 164
+  orig: 176, 164
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 728, 91
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: true
+  xy: 2, 48
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+sparkle1
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ui_guildbattle_finaldraw
+  rotate: true
+  xy: 2, 90
+  size: 406, 278
+  orig: 406, 278
+  offset: 0, 0
+  index: -1
+ui_guildbattle_finallose
+  rotate: true
+  xy: 282, 90
+  size: 406, 278
+  orig: 406, 278
+  offset: 0, 0
+  index: -1
+ui_guildbattle_finalwin
+  rotate: false
+  xy: 562, 218
+  size: 406, 278
+  orig: 406, 278
+  offset: 0, 0
+  index: -1

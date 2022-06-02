@@ -1,0 +1,27 @@
+
+ui_hottime.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hottime1
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+hottime2
+  rotate: true
+  xy: 86, 81
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+hottime3
+  rotate: false
+  xy: 2, 46
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1

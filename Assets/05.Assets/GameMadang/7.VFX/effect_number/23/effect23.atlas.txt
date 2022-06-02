@@ -1,0 +1,41 @@
+
+effect23.png
+size: 205,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/glow1
+  rotate: true
+  xy: 151, 48
+  size: 54, 52
+  orig: 69, 67
+  offset: 7, 8
+  index: -1
+effect/smoke1
+  rotate: false
+  xy: 2, 4
+  size: 80, 58
+  orig: 81, 62
+  offset: 1, 4
+  index: -1
+effect/smoke2
+  rotate: false
+  xy: 84, 2
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+effect/sparkle
+  rotate: false
+  xy: 151, 3
+  size: 41, 43
+  orig: 50, 51
+  offset: 5, 4
+  index: -1
+fire_skin1/shot_b
+  rotate: true
+  xy: 2, 64
+  size: 38, 133
+  orig: 58, 144
+  offset: 9, 6
+  index: -1

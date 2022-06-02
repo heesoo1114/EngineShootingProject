@@ -1,0 +1,160 @@
+
+ui_treasure_chest.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest/1
+  rotate: true
+  xy: 711, 599
+  size: 423, 325
+  orig: 635, 430
+  offset: 140, 57
+  index: -1
+chest/11
+  rotate: false
+  xy: 2, 16
+  size: 17, 18
+  orig: 19, 19
+  offset: 1, 0
+  index: -1
+chest/2
+  rotate: true
+  xy: 1038, 599
+  size: 423, 325
+  orig: 635, 430
+  offset: 140, 57
+  index: -1
+chest/2a
+  rotate: true
+  xy: 1365, 730
+  size: 292, 232
+  orig: 292, 232
+  offset: 0, 0
+  index: -1
+chest/2b
+  rotate: true
+  xy: 1599, 730
+  size: 292, 232
+  orig: 292, 232
+  offset: 0, 0
+  index: -1
+chest/2c
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chest/3c
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chest/4c
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chest/3
+  rotate: false
+  xy: 603, 74
+  size: 460, 347
+  orig: 635, 430
+  offset: 119, 56
+  index: -1
+chest/3a
+  rotate: true
+  xy: 1065, 215
+  size: 382, 282
+  orig: 382, 284
+  offset: 0, 1
+  index: -1
+chest/3b
+  rotate: true
+  xy: 1349, 215
+  size: 382, 282
+  orig: 382, 284
+  offset: 0, 1
+  index: -1
+chest/4
+  rotate: true
+  xy: 2, 423
+  size: 599, 385
+  orig: 635, 430
+  offset: 28, 27
+  index: -1
+chest/4a
+  rotate: true
+  xy: 389, 423
+  size: 599, 320
+  orig: 599, 321
+  offset: 0, 0
+  index: -1
+chest/4b
+  rotate: false
+  xy: 2, 100
+  size: 599, 321
+  orig: 599, 321
+  offset: 0, 0
+  index: -1
+chest/glow1
+  rotate: true
+  xy: 818, 497
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+chest/shadow
+  rotate: false
+  xy: 2, 36
+  size: 130, 62
+  orig: 143, 72
+  offset: 7, 5
+  index: -1
+chest/shine1
+  rotate: false
+  xy: 134, 7
+  size: 34, 91
+  orig: 38, 100
+  offset: 2, 5
+  index: -1
+common/1
+  rotate: true
+  xy: 170, 2
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+exp
+  rotate: false
+  xy: 170, 44
+  size: 49, 54
+  orig: 54, 57
+  offset: 3, 1
+  index: -1
+gold
+  rotate: true
+  xy: 229, 5
+  size: 44, 38
+  orig: 54, 57
+  offset: 6, 10
+  index: -1
+potion
+  rotate: false
+  xy: 221, 51
+  size: 46, 47
+  orig: 54, 57
+  offset: 5, 4
+  index: -1
+smoke1
+  rotate: true
+  xy: 711, 451
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1

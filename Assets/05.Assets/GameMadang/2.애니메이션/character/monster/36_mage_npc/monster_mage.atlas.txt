@@ -1,0 +1,125 @@
+
+monster_mage.png
+size: 128,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 95, 6
+  size: 22, 131
+  orig: 23, 132
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 458
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+broach
+  rotate: true
+  xy: 79, 812
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+cape1
+  rotate: false
+  xy: 97, 136
+  size: 22, 125
+  orig: 22, 125
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: 180
+  xy: 2, 75
+  size: 94, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+cape3
+  rotate: true
+  xy: 2, 185
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 79, 855
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 79, 873
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 79, 891
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 79, 909
+  size: 36, 15
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 317
+  size: 139, 70
+  orig: 139, 70
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 2, 3
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 79, 597
+  size: 41, 150
+  orig: 41, 150
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 74, 310
+  size: 38, 165
+  orig: 38, 165
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: true
+  xy: 83, 744
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 107, 350
+  size: 11, 57
+  orig: 11, 57
+  offset: 0, 0
+  index: -1
+wea
+  rotate: false
+  xy: 2, 600
+  size: 75, 337
+  orig: 75, 337
+  offset: 0, 0
+  index: -1

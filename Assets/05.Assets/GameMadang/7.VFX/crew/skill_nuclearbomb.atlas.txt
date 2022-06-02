@@ -1,0 +1,146 @@
+
+skill_nuclearbomb.png
+size: 145,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magic/10
+  rotate: true
+  xy: 114, 492
+  size: 43, 29
+  orig: 47, 31
+  offset: 2, 1
+  index: -1
+magic/7
+  rotate: false
+  xy: 2, 345
+  size: 88, 78
+  orig: 93, 80
+  offset: 3, 0
+  index: -1
+magic/8
+  rotate: false
+  xy: 2, 190
+  size: 87, 73
+  orig: 93, 80
+  offset: 5, 4
+  index: -1
+magic/9
+  rotate: false
+  xy: 2, 265
+  size: 88, 78
+  orig: 93, 80
+  offset: 2, 0
+  index: -1
+magic/b1
+  rotate: false
+  xy: 2, 425
+  size: 110, 110
+  orig: 113, 112
+  offset: 2, 1
+  index: -1
+magic/b2
+  rotate: false
+  xy: 2, 623
+  size: 123, 109
+  orig: 125, 112
+  offset: 1, 2
+  index: -1
+magic/b3
+  rotate: false
+  xy: 2, 852
+  size: 125, 105
+  orig: 128, 110
+  offset: 1, 4
+  index: -1
+magic/b4
+  rotate: false
+  xy: 2, 537
+  size: 115, 84
+  orig: 117, 87
+  offset: 1, 2
+  index: -1
+magic/b5
+  rotate: false
+  xy: 2, 124
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+magic/b6
+  rotate: false
+  xy: 2, 734
+  size: 125, 116
+  orig: 168, 117
+  offset: 37, 0
+  index: -1
+magic/c1
+  rotate: true
+  xy: 92, 371
+  size: 52, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+magic/c2
+  rotate: false
+  xy: 92, 318
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+magic/c3
+  rotate: true
+  xy: 92, 266
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+magic/c4
+  rotate: true
+  xy: 91, 157
+  size: 50, 51
+  orig: 53, 53
+  offset: 2, 1
+  index: -1
+magic/c5
+  rotate: false
+  xy: 90, 104
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+magic/c6
+  rotate: false
+  xy: 84, 51
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+magic/eff3
+  rotate: false
+  xy: 69, 12
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+magic/glow1
+  rotate: true
+  xy: 91, 209
+  size: 54, 52
+  orig: 69, 67
+  offset: 7, 8
+  index: -1
+magic/smoke1
+  rotate: false
+  xy: 2, 64
+  size: 80, 58
+  orig: 81, 62
+  offset: 1, 4
+  index: -1
+magic/smoke2
+  rotate: false
+  xy: 2, 2
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1

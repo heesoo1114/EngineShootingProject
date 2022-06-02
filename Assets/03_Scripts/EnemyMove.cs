@@ -14,7 +14,7 @@ public class EnemyMove : MonoBehaviour
     {
         int randValue = Random.Range(0, 9);
 
-        if(randValue < 2)
+        if(randValue < 3)
         {
             GameObject target = GameObject.Find("Player");
             dir = target.transform.position - transform.position;

@@ -1,0 +1,97 @@
+
+ui_spine_fairy_light.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 203, 34
+  size: 50, 47
+  orig: 63, 61
+  offset: 6, 7
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+light/1
+  rotate: false
+  xy: 84, 33
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+light/10
+  rotate: false
+  xy: 84, 25
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+light/11
+  rotate: false
+  xy: 195, 29
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+light/2
+  rotate: false
+  xy: 144, 38
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+light/3
+  rotate: false
+  xy: 144, 10
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+light/4
+  rotate: false
+  xy: 107, 13
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+light/5
+  rotate: false
+  xy: 195, 19
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+light/6
+  rotate: true
+  xy: 210, 18
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+light/7
+  rotate: true
+  xy: 242, 21
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+light/8
+  rotate: false
+  xy: 219, 15
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+light/9
+  rotate: false
+  xy: 128, 15
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1

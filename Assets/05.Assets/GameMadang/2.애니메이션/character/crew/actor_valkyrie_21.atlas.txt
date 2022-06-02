@@ -1,0 +1,321 @@
+
+actor_valkyrie_21.png
+size: 713,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_forearmleft
+  rotate: true
+  xy: 100, 8
+  size: 36, 66
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+armpart_forearmright
+  rotate: true
+  xy: 385, 180
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+armpart_upperarmleft
+  rotate: false
+  xy: 564, 160
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+armpart_upperarmleft_b
+  rotate: true
+  xy: 593, 161
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+armpart_upperarmright
+  rotate: true
+  xy: 321, 24
+  size: 31, 86
+  orig: 31, 86
+  offset: 0, 0
+  index: -1
+armparts_shoulderright
+  rotate: false
+  xy: 546, 60
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+armparts_shoulderright_b
+  rotate: true
+  xy: 470, 5
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 309, 492
+  size: 364, 29
+  orig: 364, 29
+  offset: 0, 0
+  index: -1
+belt_accesories_a
+  rotate: false
+  xy: 703, 268
+  size: 8, 28
+  orig: 9, 28
+  offset: 1, 0
+  index: -1
+belt_accesories_b
+  rotate: false
+  xy: 690, 462
+  size: 17, 30
+  orig: 17, 33
+  offset: 0, 3
+  index: -1
+belt_accesories_c
+  rotate: false
+  xy: 690, 430
+  size: 17, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+belt_accesories_d
+  rotate: false
+  xy: 686, 264
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+belt_accesories_e
+  rotate: false
+  xy: 299, 14
+  size: 9, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+bodypart_belt
+  rotate: false
+  xy: 2, 2
+  size: 96, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+bodypart_chest_a
+  rotate: false
+  xy: 463, 59
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+bodypart_frontbody_a
+  rotate: false
+  xy: 622, 298
+  size: 86, 105
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+bodypart_frontbody_b
+  rotate: true
+  xy: 582, 405
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+bodypart_pants
+  rotate: true
+  xy: 601, 133
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 666, 56
+  size: 52, 29
+  orig: 53, 30
+  offset: 1, 1
+  index: -1
+eye_b
+  rotate: false
+  xy: 675, 494
+  size: 35, 27
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+eye_c
+  rotate: false
+  xy: 465, 205
+  size: 20, 29
+  orig: 20, 30
+  offset: 0, 1
+  index: -1
+hair_a
+  rotate: false
+  xy: 622, 193
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 601, 60
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+hair_c
+  rotate: true
+  xy: 409, 24
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 525, 6
+  size: 31, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+hand_a2
+  rotate: true
+  xy: 168, 4
+  size: 41, 66
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 609, 30
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+hand_b2
+  rotate: false
+  xy: 236, 12
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+headpart_face_a
+  rotate: false
+  xy: 621, 110
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+legpart_footleft_a
+  rotate: false
+  xy: 558, 21
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+legpart_footright_a
+  rotate: false
+  xy: 659, 8
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+legpart_shinleft
+  rotate: true
+  xy: 2, 46
+  size: 46, 156
+  orig: 46, 156
+  offset: 0, 0
+  index: -1
+legpart_shinleft_b
+  rotate: false
+  xy: 439, 236
+  size: 46, 165
+  orig: 46, 165
+  offset: 0, 0
+  index: -1
+legpart_shinright
+  rotate: false
+  xy: 385, 232
+  size: 52, 169
+  orig: 52, 169
+  offset: 0, 0
+  index: -1
+legpart_thigleft
+  rotate: true
+  xy: 309, 116
+  size: 57, 140
+  orig: 57, 140
+  offset: 0, 0
+  index: -1
+legpart_thigleft_b
+  rotate: false
+  xy: 561, 248
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+legpart_thigright
+  rotate: true
+  xy: 166, 47
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+legpart_thigright_b
+  rotate: true
+  xy: 321, 57
+  size: 57, 140
+  orig: 57, 140
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 465, 178
+  size: 20, 25
+  orig: 23, 25
+  offset: 3, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 309, 175
+  size: 74, 226
+  orig: 74, 227
+  offset: 0, 1
+  index: -1
+quiver_arrow
+  rotate: false
+  xy: 487, 137
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 166, 108
+  size: 141, 413
+  orig: 141, 413
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: false
+  xy: 2, 94
+  size: 162, 427
+  orig: 162, 427
+  offset: 0, 0
+  index: -1
+weapon_c
+  rotate: false
+  xy: 309, 403
+  size: 271, 87
+  orig: 271, 87
+  offset: 0, 0
+  index: -1
+weapon_c_add
+  rotate: false
+  xy: 487, 238
+  size: 72, 163
+  orig: 72, 163
+  offset: 0, 0
+  index: -1

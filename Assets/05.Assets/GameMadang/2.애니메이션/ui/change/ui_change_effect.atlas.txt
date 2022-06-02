@@ -1,0 +1,27 @@
+
+ui_change_effect.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a
+  rotate: false
+  xy: 104, 48
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 3
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+sparkle1
+  rotate: false
+  xy: 104, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

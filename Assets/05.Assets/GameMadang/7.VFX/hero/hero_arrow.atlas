@@ -1,0 +1,97 @@
+
+hero_arrow.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow1
+  rotate: false
+  xy: 2, 2
+  size: 211, 34
+  orig: 211, 34
+  offset: 0, 0
+  index: -1
+common/spark1
+  rotate: false
+  xy: 2, 38
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+common/spark2
+  rotate: false
+  xy: 740, 39
+  size: 244, 195
+  orig: 244, 195
+  offset: 0, 0
+  index: -1
+common/spark3
+  rotate: false
+  xy: 248, 38
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+common/spark4
+  rotate: false
+  xy: 494, 38
+  size: 244, 196
+  orig: 244, 196
+  offset: 0, 0
+  index: -1
+fragment1
+  rotate: false
+  xy: 1614, 135
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+fragment2
+  rotate: true
+  xy: 1660, 145
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 1367, 112
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 1660, 189
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 1217, 121
+  size: 148, 113
+  orig: 148, 113
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 1494, 125
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 986, 118
+  size: 229, 116
+  orig: 229, 116
+  offset: 0, 0
+  index: -1
+wheel1
+  rotate: false
+  xy: 986, 50
+  size: 201, 66
+  orig: 201, 66
+  offset: 0, 0
+  index: -1

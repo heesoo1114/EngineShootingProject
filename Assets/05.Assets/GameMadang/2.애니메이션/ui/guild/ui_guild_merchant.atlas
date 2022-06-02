@@ -1,0 +1,27 @@
+
+ui_guild_merchant.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/glow1
+  rotate: false
+  xy: 339, 89
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 2, 2
+  size: 199, 172
+  orig: 199, 172
+  offset: 0, 0
+  index: -1
+shop1
+  rotate: false
+  xy: 203, 56
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1

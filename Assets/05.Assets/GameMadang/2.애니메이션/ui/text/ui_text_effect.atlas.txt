@@ -1,0 +1,20 @@
+
+ui_text_effect.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t1
+  rotate: false
+  xy: 2, 2
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 113, 2
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1

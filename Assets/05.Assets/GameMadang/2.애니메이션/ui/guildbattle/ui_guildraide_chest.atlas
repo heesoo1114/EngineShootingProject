@@ -1,0 +1,62 @@
+
+ui_guildraide_chest.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 291, 64
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+chest1
+  rotate: false
+  xy: 395, 50
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+chest2
+  rotate: false
+  xy: 395, 127
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+common/glow1
+  rotate: false
+  xy: 164, 44
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+common/light
+  rotate: false
+  xy: 2, 8
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+common/sparkle1
+  rotate: false
+  xy: 366, 4
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: true
+  xy: 164, 2
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+ui_text_guildraidresult
+  rotate: false
+  xy: 2, 168
+  size: 347, 52
+  orig: 347, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_stage_skip.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skip1
+  rotate: false
+  xy: 2, 2
+  size: 103, 18
+  orig: 103, 18
+  offset: 0, 0
+  index: -1

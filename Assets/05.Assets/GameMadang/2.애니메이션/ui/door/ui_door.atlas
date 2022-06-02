@@ -1,0 +1,104 @@
+
+ui_door.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 237, 40
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+a10
+  rotate: false
+  xy: 667, 95
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+a11
+  rotate: false
+  xy: 573, 94
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 467, 91
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 467, 56
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 129, 27
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 394, 53
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 323, 44
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 573, 43
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+a8
+  rotate: true
+  xy: 732, 65
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 891, 94
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 794, 84
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+sparkle1
+  rotate: false
+  xy: 845, 80
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

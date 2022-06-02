@@ -1,0 +1,62 @@
+
+effect31.png
+size: 184,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 146, 29
+  size: 193, 31
+  orig: 213, 41
+  offset: 4, 5
+  index: -1
+2
+  rotate: true
+  xy: 105, 23
+  size: 198, 39
+  orig: 213, 41
+  offset: 0, 1
+  index: -1
+21
+  rotate: true
+  xy: 40, 210
+  size: 224, 61
+  orig: 233, 61
+  offset: 3, 0
+  index: -1
+3
+  rotate: true
+  xy: 40, 2
+  size: 206, 29
+  orig: 213, 41
+  offset: 5, 6
+  index: -1
+4
+  rotate: true
+  xy: 144, 224
+  size: 210, 38
+  orig: 213, 41
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 71, 2
+  size: 206, 32
+  orig: 213, 41
+  offset: 5, 5
+  index: -1
+6
+  rotate: true
+  xy: 103, 223
+  size: 211, 39
+  orig: 213, 41
+  offset: 1, 1
+  index: -1
+arrow
+  rotate: true
+  xy: 2, 74
+  size: 360, 36
+  orig: 360, 36
+  offset: 0, 0
+  index: -1

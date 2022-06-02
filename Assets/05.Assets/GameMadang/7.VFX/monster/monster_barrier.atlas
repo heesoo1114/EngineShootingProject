@@ -1,0 +1,13 @@
+
+monster_barrier.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+unbeatable
+  rotate: false
+  xy: 2, 2
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1

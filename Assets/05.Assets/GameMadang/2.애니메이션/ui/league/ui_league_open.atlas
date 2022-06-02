@@ -1,0 +1,48 @@
+
+ui_league_open.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/glow1
+  rotate: false
+  xy: 896, 125
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+common/sparkle1
+  rotate: false
+  xy: 135, 14
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ui_adventure_clear2
+  rotate: false
+  xy: 592, 33
+  size: 261, 111
+  orig: 261, 111
+  offset: 0, 0
+  index: -1
+ui_adventure_clear3
+  rotate: false
+  xy: 2, 2
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+ui_adventure_deco
+  rotate: false
+  xy: 2, 60
+  size: 588, 187
+  orig: 588, 187
+  offset: 0, 0
+  index: -1
+ui_adventure_deco1
+  rotate: false
+  xy: 592, 146
+  size: 302, 101
+  orig: 302, 101
+  offset: 0, 0
+  index: -1

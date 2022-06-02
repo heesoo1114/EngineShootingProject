@@ -1,0 +1,27 @@
+
+effect_gathering_cash.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cash
+  rotate: false
+  xy: 104, 66
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+cash1
+  rotate: true
+  xy: 104, 35
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1

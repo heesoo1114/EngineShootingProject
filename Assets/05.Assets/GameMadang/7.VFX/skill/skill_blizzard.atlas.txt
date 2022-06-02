@@ -1,0 +1,153 @@
+
+skill_blizzard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bind/leaf4
+  rotate: true
+  xy: 683, 221
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+chaos/1
+  rotate: false
+  xy: 2, 97
+  size: 291, 112
+  orig: 299, 113
+  offset: 7, 1
+  index: -1
+chaos/2
+  rotate: false
+  xy: 2, 2
+  size: 208, 93
+  orig: 209, 96
+  offset: 0, 3
+  index: -1
+chaos/4
+  rotate: true
+  xy: 295, 100
+  size: 114, 9
+  orig: 115, 40
+  offset: 1, 15
+  index: -1
+chaos/5
+  rotate: false
+  xy: 584, 2
+  size: 109, 34
+  orig: 115, 40
+  offset: 4, 2
+  index: -1
+chaos/6
+  rotate: true
+  xy: 461, 220
+  size: 290, 220
+  orig: 299, 231
+  offset: 5, 10
+  index: -1
+chaos/7
+  rotate: true
+  xy: 235, 216
+  size: 294, 224
+  orig: 299, 231
+  offset: 4, 5
+  index: -1
+chaos/8
+  rotate: true
+  xy: 2, 211
+  size: 299, 231
+  orig: 299, 231
+  offset: 0, 0
+  index: -1
+chaos/bullet
+  rotate: false
+  xy: 212, 27
+  size: 187, 68
+  orig: 187, 68
+  offset: 0, 0
+  index: -1
+chaos/skulla1
+  rotate: false
+  xy: 584, 38
+  size: 135, 180
+  orig: 135, 180
+  offset: 0, 0
+  index: -1
+chaos/skulla2
+  rotate: true
+  xy: 306, 122
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+common/c1
+  rotate: false
+  xy: 889, 416
+  size: 94, 94
+  orig: 97, 97
+  offset: 2, 1
+  index: -1
+common/c2
+  rotate: false
+  xy: 889, 321
+  size: 93, 93
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+common/c3
+  rotate: false
+  xy: 887, 134
+  size: 91, 91
+  orig: 97, 97
+  offset: 4, 3
+  index: -1
+common/c4
+  rotate: false
+  xy: 793, 317
+  size: 92, 91
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c5
+  rotate: false
+  xy: 887, 227
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c6
+  rotate: false
+  xy: 793, 223
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 3
+  index: -1
+common/c7
+  rotate: false
+  xy: 401, 33
+  size: 181, 181
+  orig: 194, 194
+  offset: 6, 7
+  index: -1
+common/glow1
+  rotate: true
+  xy: 790, 410
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1
+common/smoke1
+  rotate: true
+  xy: 683, 364
+  size: 146, 105
+  orig: 148, 113
+  offset: 1, 8
+  index: -1
+common/smoke2
+  rotate: true
+  xy: 683, 244
+  size: 118, 108
+  orig: 118, 109
+  offset: 0, 1
+  index: -1

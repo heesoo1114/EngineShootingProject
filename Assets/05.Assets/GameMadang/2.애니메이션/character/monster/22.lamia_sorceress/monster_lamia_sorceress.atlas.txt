@@ -1,0 +1,713 @@
+
+monster_lamia_sorceress.png
+size: 256,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armpart_down
+  rotate: false
+  xy: 127, 554
+  size: 47, 60
+  orig: 52, 64
+  offset: 4, 2
+  index: -1
+armpart_hand
+  rotate: true
+  xy: 158, 305
+  size: 42, 30
+  orig: 53, 35
+  offset: 8, 0
+  index: -1
+armpart_retail
+  rotate: false
+  xy: 151, 56
+  size: 22, 60
+  orig: 24, 67
+  offset: 2, 1
+  index: -1
+armpart_retail_b
+  rotate: false
+  xy: 158, 4
+  size: 22, 22
+  orig: 27, 26
+  offset: 2, 1
+  index: -1
+armpart_retail_back
+  rotate: false
+  xy: 163, 1005
+  size: 14, 55
+  orig: 22, 62
+  offset: 4, 2
+  index: -1
+armpart_up
+  rotate: false
+  xy: 143, 473
+  size: 31, 79
+  orig: 38, 81
+  offset: 4, 0
+  index: -1
+armpart_up_skin
+  rotate: true
+  xy: 64, 506
+  size: 33, 77
+  orig: 42, 83
+  offset: 6, 3
+  index: -1
+belt
+  rotate: false
+  xy: 87, 84
+  size: 46, 32
+  orig: 53, 50
+  offset: 1, 8
+  index: -1
+belt_ex
+  rotate: false
+  xy: 137, 1643
+  size: 30, 85
+  orig: 37, 88
+  offset: 6, 0
+  index: -1
+bodypart_body
+  rotate: false
+  xy: 2, 602
+  size: 56, 52
+  orig: 68, 63
+  offset: 6, 5
+  index: -1
+bodypart_bra
+  rotate: false
+  xy: 66, 30
+  size: 50, 27
+  orig: 50, 32
+  offset: 0, 2
+  index: -1
+bodypart_bra_a
+  rotate: true
+  xy: 161, 1891
+  size: 37, 28
+  orig: 41, 33
+  offset: 4, 0
+  index: -1
+bodypart_bra_b
+  rotate: true
+  xy: 161, 1795
+  size: 33, 26
+  orig: 38, 32
+  offset: 3, 2
+  index: -1
+bodypart_breast
+  rotate: true
+  xy: 45, 79
+  size: 37, 40
+  orig: 48, 46
+  offset: 10, 1
+  index: -1
+bodypart_breast_b
+  rotate: false
+  xy: 152, 164
+  size: 33, 39
+  orig: 38, 48
+  offset: 3, 3
+  index: -1
+bodypart_neck
+  rotate: true
+  xy: 2, 27
+  size: 26, 50
+  orig: 33, 51
+  offset: 4, 0
+  index: -1
+bodypart_neck_back
+  rotate: true
+  xy: 2, 1097
+  size: 105, 62
+  orig: 109, 67
+  offset: 4, 0
+  index: -1
+bodypart_neckdeco
+  rotate: true
+  xy: 105, 956
+  size: 96, 56
+  orig: 102, 58
+  offset: 5, 2
+  index: -1
+bodypart_pelvis_a
+  rotate: true
+  xy: 2, 709
+  size: 44, 89
+  orig: 58, 106
+  offset: 3, 8
+  index: -1
+bodypart_pelvis_b
+  rotate: false
+  xy: 137, 1473
+  size: 35, 93
+  orig: 54, 102
+  offset: 12, 1
+  index: -1
+bodypart_waist
+  rotate: true
+  xy: 76, 638
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_waist
+  rotate: true
+  xy: 76, 638
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+clack_a
+  rotate: false
+  xy: 97, 1356
+  size: 67, 115
+  orig: 72, 124
+  offset: 5, 3
+  index: -1
+clack_b
+  rotate: true
+  xy: 66, 1097
+  size: 50, 106
+  orig: 56, 115
+  offset: 4, 5
+  index: -1
+clack_back
+  rotate: false
+  xy: 2, 1380
+  size: 93, 91
+  orig: 98, 104
+  offset: 2, 8
+  index: -1
+headpart_hairback
+  rotate: true
+  xy: 2, 1054
+  size: 41, 156
+  orig: 41, 161
+  offset: 0, 5
+  index: -1
+headpart_head
+  rotate: true
+  xy: 2, 1473
+  size: 79, 130
+  orig: 79, 130
+  offset: 0, 0
+  index: -1
+headpart_ponytail
+  rotate: false
+  xy: 2, 1554
+  size: 133, 175
+  orig: 149, 215
+  offset: 3, 25
+  index: -1
+lamia_sorceress_skin1/armpart_down
+  rotate: true
+  xy: 2, 500
+  size: 43, 60
+  orig: 52, 64
+  offset: 5, 3
+  index: -1
+lamia_sorceress_skin1/armpart_hand
+  rotate: true
+  xy: 159, 1267
+  size: 42, 28
+  orig: 53, 35
+  offset: 10, 0
+  index: -1
+lamia_sorceress_skin1/armpart_retail
+  rotate: true
+  xy: 2, 154
+  size: 24, 75
+  orig: 44, 87
+  offset: 9, 11
+  index: -1
+lamia_sorceress_skin1/armpart_retail_b
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_bra
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_bra_a
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_bra_b
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_breast
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_breast_b
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/headpart_hairback
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/headpart_ponytail
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/weapon_cristal_a
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/weapon_cristal_b
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/weapon_cristal_c
+  rotate: false
+  xy: 66, 1201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lamia_sorceress_skin1/armpart_retail_back
+  rotate: false
+  xy: 161, 1830
+  size: 15, 59
+  orig: 22, 62
+  offset: 4, 2
+  index: -1
+lamia_sorceress_skin1/armpart_up
+  rotate: true
+  xy: 2, 392
+  size: 30, 78
+  orig: 38, 81
+  offset: 5, 0
+  index: -1
+lamia_sorceress_skin1/armpart_up_skin
+  rotate: false
+  xy: 137, 616
+  size: 36, 79
+  orig: 42, 83
+  offset: 6, 1
+  index: -1
+lamia_sorceress_skin1/belt
+  rotate: false
+  xy: 160, 1062
+  size: 33, 33
+  orig: 44, 42
+  offset: 5, 5
+  index: -1
+lamia_sorceress_skin1/belt_ex
+  rotate: false
+  xy: 130, 205
+  size: 32, 59
+  orig: 37, 88
+  offset: 4, 24
+  index: -1
+lamia_sorceress_skin1/bodypart_body
+  rotate: false
+  xy: 93, 697
+  size: 65, 58
+  orig: 90, 84
+  offset: 19, 8
+  index: -1
+lamia_sorceress_skin1/bodypart_neck
+  rotate: true
+  xy: 54, 2
+  size: 26, 50
+  orig: 33, 51
+  offset: 1, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_neck_back
+  rotate: false
+  xy: 2, 990
+  size: 101, 62
+  orig: 109, 67
+  offset: 8, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_neckdeco
+  rotate: true
+  xy: 110, 863
+  size: 91, 58
+  orig: 112, 64
+  offset: 12, 0
+  index: -1
+lamia_sorceress_skin1/bodypart_pelvis_a
+  rotate: true
+  xy: 104, 266
+  size: 34, 61
+  orig: 48, 88
+  offset: 8, 26
+  index: -1
+lamia_sorceress_skin1/bodypart_pelvis_b
+  rotate: true
+  xy: 2, 306
+  size: 37, 58
+  orig: 45, 85
+  offset: 5, 26
+  index: -1
+lamia_sorceress_skin1/clack_a
+  rotate: false
+  xy: 92, 1242
+  size: 65, 112
+  orig: 72, 124
+  offset: 5, 6
+  index: -1
+lamia_sorceress_skin1/clack_b
+  rotate: true
+  xy: 2, 904
+  size: 50, 106
+  orig: 56, 115
+  offset: 5, 6
+  index: -1
+lamia_sorceress_skin1/clack_back
+  rotate: true
+  xy: 2, 1204
+  size: 88, 82
+  orig: 98, 104
+  offset: 5, 17
+  index: -1
+lamia_sorceress_skin1/headpart_head
+  rotate: false
+  xy: 2, 836
+  size: 75, 66
+  orig: 90, 100
+  offset: 1, 22
+  index: -1
+lamia_sorceress_skin1/shoulder
+  rotate: true
+  xy: 137, 1568
+  size: 73, 37
+  orig: 80, 41
+  offset: 2, 4
+  index: -1
+shoulder
+  rotate: true
+  xy: 137, 1568
+  size: 73, 37
+  orig: 80, 41
+  offset: 2, 4
+  index: -1
+lamia_sorceress_skin1/snakebody_a
+  rotate: false
+  xy: 86, 1153
+  size: 80, 87
+  orig: 87, 94
+  offset: 7, 6
+  index: -1
+lamia_sorceress_skin1/snakebody_b
+  rotate: false
+  xy: 2, 656
+  size: 72, 51
+  orig: 89, 62
+  offset: 11, 3
+  index: -1
+lamia_sorceress_skin1/snakebody_back_a
+  rotate: false
+  xy: 60, 592
+  size: 65, 44
+  orig: 72, 49
+  offset: 4, 3
+  index: -1
+lamia_sorceress_skin1/snakebody_back_b
+  rotate: true
+  xy: 2, 114
+  size: 38, 41
+  orig: 44, 47
+  offset: 4, 1
+  index: -1
+lamia_sorceress_skin1/snakebody_back_c
+  rotate: true
+  xy: 79, 118
+  size: 39, 42
+  orig: 46, 51
+  offset: 4, 4
+  index: -1
+lamia_sorceress_skin1/snakebody_back_d
+  rotate: false
+  xy: 2, 265
+  size: 53, 39
+  orig: 72, 50
+  offset: 14, 6
+  index: -1
+lamia_sorceress_skin1/snakebody_c
+  rotate: false
+  xy: 2, 755
+  size: 87, 52
+  orig: 97, 68
+  offset: 3, 6
+  index: -1
+lamia_sorceress_skin1/snakebody_d
+  rotate: true
+  xy: 64, 457
+  size: 47, 54
+  orig: 56, 64
+  offset: 6, 3
+  index: -1
+lamia_sorceress_skin1/snakebody_e
+  rotate: false
+  xy: 55, 346
+  size: 51, 44
+  orig: 56, 62
+  offset: 1, 8
+  index: -1
+lamia_sorceress_skin1/snakebody_tail_a
+  rotate: true
+  xy: 62, 291
+  size: 53, 40
+  orig: 64, 51
+  offset: 8, 6
+  index: -1
+lamia_sorceress_skin1/snakebody_tail_b
+  rotate: false
+  xy: 161, 1930
+  size: 25, 42
+  orig: 34, 47
+  offset: 6, 3
+  index: -1
+lamia_sorceress_skin1/snakebody_tail_c
+  rotate: false
+  xy: 163, 970
+  size: 23, 33
+  orig: 30, 42
+  offset: 4, 5
+  index: -1
+lamia_sorceress_skin1/snakebody_tail_d
+  rotate: true
+  xy: 66, 541
+  size: 49, 55
+  orig: 54, 60
+  offset: 2, 4
+  index: -1
+lamia_sorceress_skin1/weapon
+  rotate: false
+  xy: 2, 1731
+  size: 79, 312
+  orig: 93, 317
+  offset: 9, 3
+  index: -1
+lamia_sorceress_skin1/x_armpart_down
+  rotate: false
+  xy: 106, 3
+  size: 50, 23
+  orig: 59, 30
+  offset: 6, 4
+  index: -1
+lamia_sorceress_skin1/x_armpart_hand
+  rotate: false
+  xy: 161, 1730
+  size: 20, 28
+  orig: 25, 34
+  offset: 2, 3
+  index: -1
+lamia_sorceress_skin1/x_armpart_retail
+  rotate: true
+  xy: 87, 59
+  size: 23, 62
+  orig: 31, 68
+  offset: 6, 4
+  index: -1
+lamia_sorceress_skin1/x_armpart_up
+  rotate: true
+  xy: 57, 237
+  size: 27, 71
+  orig: 64, 92
+  offset: 20, 12
+  index: -1
+lamia_sorceress_skin1/x_armpart_up_retaik
+  rotate: true
+  xy: 82, 392
+  size: 30, 78
+  orig: 38, 86
+  offset: 3, 4
+  index: -1
+snakebody_a
+  rotate: true
+  xy: 2, 1294
+  size: 84, 88
+  orig: 87, 94
+  offset: 2, 4
+  index: -1
+snakebody_b
+  rotate: false
+  xy: 91, 757
+  size: 79, 50
+  orig: 89, 62
+  offset: 8, 2
+  index: -1
+snakebody_back_a
+  rotate: false
+  xy: 2, 545
+  size: 62, 45
+  orig: 72, 49
+  offset: 6, 2
+  index: -1
+snakebody_back_b
+  rotate: true
+  xy: 123, 118
+  size: 39, 41
+  orig: 44, 47
+  offset: 2, 3
+  index: -1
+snakebody_back_c
+  rotate: false
+  xy: 111, 159
+  size: 39, 44
+  orig: 46, 51
+  offset: 5, 2
+  index: -1
+snakebody_back_d
+  rotate: true
+  xy: 75, 180
+  size: 55, 34
+  orig: 60, 42
+  offset: 4, 2
+  index: -1
+snakebody_c
+  rotate: false
+  xy: 79, 809
+  size: 88, 52
+  orig: 97, 68
+  offset: 6, 6
+  index: -1
+snakebody_d
+  rotate: true
+  xy: 120, 424
+  size: 47, 52
+  orig: 56, 64
+  offset: 6, 5
+  index: -1
+snakebody_e
+  rotate: false
+  xy: 108, 302
+  size: 48, 45
+  orig: 56, 62
+  offset: 5, 6
+  index: -1
+snakebody_tail_a
+  rotate: false
+  xy: 108, 349
+  size: 53, 41
+  orig: 64, 51
+  offset: 9, 5
+  index: -1
+snakebody_tail_b
+  rotate: false
+  xy: 159, 1311
+  size: 28, 43
+  orig: 34, 47
+  offset: 3, 2
+  index: -1
+snakebody_tail_c
+  rotate: false
+  xy: 161, 1760
+  size: 25, 33
+  orig: 30, 42
+  offset: 3, 5
+  index: -1
+snakebody_tail_d
+  rotate: true
+  xy: 2, 345
+  size: 45, 51
+  orig: 54, 60
+  offset: 7, 4
+  index: -1
+weapon
+  rotate: false
+  xy: 83, 1733
+  size: 76, 310
+  orig: 93, 317
+  offset: 8, 7
+  index: -1
+weapon_cristal_a
+  rotate: false
+  xy: 161, 1974
+  size: 17, 69
+  orig: 18, 75
+  offset: 0, 1
+  index: -1
+weapon_cristal_b
+  rotate: false
+  xy: 164, 221
+  size: 11, 43
+  orig: 15, 47
+  offset: 2, 2
+  index: -1
+weapon_cristal_c
+  rotate: false
+  xy: 163, 357
+  size: 10, 35
+  orig: 12, 40
+  offset: 0, 4
+  index: -1
+x_armpart_down
+  rotate: true
+  xy: 160, 705
+  size: 50, 23
+  orig: 59, 30
+  offset: 6, 3
+  index: -1
+x_armpart_hand
+  rotate: false
+  xy: 162, 394
+  size: 20, 28
+  orig: 25, 34
+  offset: 2, 2
+  index: -1
+x_armpart_retail
+  rotate: true
+  xy: 2, 55
+  size: 22, 62
+  orig: 31, 68
+  offset: 6, 3
+  index: -1
+x_armpart_up
+  rotate: true
+  xy: 2, 208
+  size: 27, 71
+  orig: 64, 92
+  offset: 20, 11
+  index: -1
+x_armpart_up_retaik
+  rotate: true
+  xy: 2, 424
+  size: 31, 79
+  orig: 38, 86
+  offset: 4, 4
+  index: -1
+x_shoulder
+  rotate: false
+  xy: 118, 28
+  size: 51, 26
+  orig: 55, 29
+  offset: 4, 3
+  index: -1

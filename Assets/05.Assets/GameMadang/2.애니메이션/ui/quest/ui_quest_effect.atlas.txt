@@ -1,0 +1,20 @@
+
+ui_quest_effect.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 104, 2
+  size: 100, 97
+  orig: 125, 122
+  offset: 12, 13
+  index: -1

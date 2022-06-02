@@ -1,0 +1,62 @@
+
+ui_gemstone_making.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anvil
+  rotate: false
+  xy: 2, 59
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 78, 48
+  size: 48, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 67, 8
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+ui_check
+  rotate: false
+  xy: 2, 2
+  size: 39, 34
+  orig: 41, 34
+  offset: 1, 0
+  index: -1
+ui_check1
+  rotate: true
+  xy: 107, 90
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+ui_check2
+  rotate: false
+  xy: 2, 38
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+ui_check3
+  rotate: false
+  xy: 2, 124
+  size: 103, 30
+  orig: 103, 30
+  offset: 0, 0
+  index: -1
+ui_check4
+  rotate: false
+  xy: 2, 92
+  size: 103, 30
+  orig: 103, 30
+  offset: 0, 0
+  index: -1

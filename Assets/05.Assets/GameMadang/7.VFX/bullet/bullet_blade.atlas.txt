@@ -1,0 +1,48 @@
+
+bullet_blade.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_bladeeffect/2
+  rotate: false
+  xy: 2, 11
+  size: 200, 180
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bullet_bladeeffect/3
+  rotate: true
+  xy: 204, 30
+  size: 161, 116
+  orig: 200, 200
+  offset: 39, 0
+  index: -1
+harpy_skin1/weapon
+  rotate: false
+  xy: 420, 94
+  size: 85, 97
+  orig: 100, 99
+  offset: 7, 1
+  index: -1
+harpy_skin1/weapon_b
+  rotate: true
+  xy: 420, 7
+  size: 85, 97
+  orig: 100, 99
+  offset: 7, 1
+  index: -1
+weapon
+  rotate: false
+  xy: 322, 95
+  size: 91, 96
+  orig: 100, 99
+  offset: 4, 1
+  index: -1
+weapon_b
+  rotate: true
+  xy: 322, 2
+  size: 91, 96
+  orig: 100, 99
+  offset: 5, 2
+  index: -1
