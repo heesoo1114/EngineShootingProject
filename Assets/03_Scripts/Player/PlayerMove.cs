@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMove : MonoBehaviour
 {
-    
+
     public StageData StageData;
     
     public LayerMask groundLayerMask;
@@ -16,7 +17,6 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] Transform dir; //ÁÂ¿ì¹ÝÀü
     Animator anim;
 
-
     //bool isGround = false;
 
     private void Start()
@@ -24,16 +24,12 @@ public class PlayerMove : MonoBehaviour
         //collider = GetComponent<BoxCollider2D>();
         rigid = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        
     }
 
     private void Update()
     {
         Move();
-
-        
-        
-
-
 
         // ÁÂ¿ì¹ÝÀü
         float dir = Input.GetAxis("Horizontal");
@@ -69,5 +65,11 @@ public class PlayerMove : MonoBehaviour
         float x = Input.GetAxisRaw("Horizontal");
 
         transform.position += new Vector3(x, 0, 0) * speed * Time.deltaTime;
+    }
+
+    public void Die()
+    {
+        anim.SetBool("isDeath", true);
+        SceneManager.LoadScene("GameOver");
     }
 }
