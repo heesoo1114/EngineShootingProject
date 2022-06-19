@@ -5,7 +5,8 @@ using UnityEngine;
 public class DamageController : MonoBehaviour
 {
 
-    [SerializeField] private int EnemyDamage;
+    public int EnemyDamage;
+  
 
     PlayerHP hpManager;
 
@@ -30,4 +31,5 @@ public class DamageController : MonoBehaviour
         hpManager.UpdateHP();
         gameObject.SetActive(false);
     }
+
 }

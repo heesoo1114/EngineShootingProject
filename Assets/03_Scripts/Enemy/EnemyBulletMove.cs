@@ -10,4 +10,17 @@ public class EnemyBulletMove : MonoBehaviour
         transform.Translate(Vector3.up * speed * Time.deltaTime);
     }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Ground"))
+        {
+            Destroy(gameObject);
+        }
+
+        if(collision.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
+    }
+
 }

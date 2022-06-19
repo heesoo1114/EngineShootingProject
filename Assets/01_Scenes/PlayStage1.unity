@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4477956}
   - component: {fileID: 4477955}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,8 +217,9 @@ GameObject:
   - component: {fileID: 77137962}
   - component: {fileID: 77137961}
   - component: {fileID: 77137964}
+  - component: {fileID: 77137965}
   m_Layer: 0
-  m_Name: BossGhost
+  m_Name: Boss
   m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -302,7 +303,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 77137960}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.32, y: 11.83, z: 0}
+  m_LocalPosition: {x: 0.32, y: 11.63, z: 0}
   m_LocalScale: {x: 15, y: 15, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -321,6 +322,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefabs: {fileID: 1954645789278553572, guid: bc39509aae357d141be089f134108cd7, type: 3}
+--- !u!60 &77137965
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77137960}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.64, y: 0.8}
+    newSize: {x: 0.64, y: 0.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.14, y: 0.099999994}
+      - {x: -0.082264975, y: -0.13151002}
+      - {x: -0.04, y: -0.20113246}
+      - {x: 0.024811257, y: -0.1818875}
+      - {x: 0.10150999, y: -0.14594376}
+      - {x: 0.10150997, y: 0.06481123}
+      - {x: 0.05301997, y: 0.15594375}
+      - {x: 0.03, y: 0.22999999}
+      - {x: -0.07, y: 0.22999999}
+      - {x: -0.08037749, y: 0.14188737}
 --- !u!1 &151415284
 GameObject:
   m_ObjectHideFlags: 0
@@ -377,7 +413,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &182356231
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -681,7 +717,7 @@ GameObject:
   - component: {fileID: 462931936}
   m_Layer: 7
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2071,8 +2107,8 @@ CapsuleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.44373083, y: -0.72106266}
-  m_Size: {x: 3.1750383, y: 5.9328747}
+  m_Offset: {x: -0.971688, y: -1.8209733}
+  m_Size: {x: 1.5911671, y: 3.7330534}
   m_Direction: 0
 --- !u!50 &1067343083
 Rigidbody2D:

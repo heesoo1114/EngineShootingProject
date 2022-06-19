@@ -33,5 +33,10 @@ public class BulletMove : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if(collision.CompareTag("Boss"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
