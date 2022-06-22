@@ -21,6 +21,11 @@ public class EnemyBulletMove : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if(collision.CompareTag("D_Zone"))
+        {
+            Destroy(gameObject);    
+        }
     }
 
 }

@@ -9,6 +9,7 @@ TagManager:
   - Boss
   - EnemyBullet
   - Ground
+  - D_Zone
   layers:
   - Default
   - TransparentFX

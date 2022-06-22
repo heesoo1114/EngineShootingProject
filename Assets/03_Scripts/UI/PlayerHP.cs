@@ -9,7 +9,7 @@ public class PlayerHP : MonoBehaviour
     public int playerHP;
     [SerializeField] private Image[] hearts;
 
-    Animator anim;
+    
 
     // Start is called before the first frame update
     public void Start()
@@ -26,9 +26,8 @@ public class PlayerHP : MonoBehaviour
             {
                 hearts[i].color = Color.white;
             }
-            else if (playerHP == 0.001)
+            else if (playerHP <= 0)
             {
-                anim.SetBool("isDeath", true);
                 SceneManager.LoadScene("GameOver");
             }
             else
