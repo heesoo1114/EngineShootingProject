@@ -9,32 +9,9 @@ public class PlayerFire : MonoBehaviour
     public float fireTime;
     [SerializeField] GameObject bulletFactory;
 
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        /*GameObject target = GameObject.Find("Star");
-        transform.position = target.transform.position;*/
-    }
-
     private void Awake()
     {
         StartCoroutine("Fire");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-        /*if(Input.GetKeyDown(fire))
-        {
-            StartCoroutine("Fire");
-        }
-        else if(Input.GetKeyUp(fire))
-        {
-            StopCoroutine("Fire");
-        }*/
-
     }
 
     IEnumerator Fire()

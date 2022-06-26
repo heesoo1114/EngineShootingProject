@@ -28,6 +28,7 @@ public class BossHp : MonoBehaviour
         {
             Die();
         }
+
     }
 
     void Die()
