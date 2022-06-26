@@ -33,7 +33,8 @@ public class EnemySpawner : MonoBehaviour
             {
                 
                 StopCoroutine("EnemySpawn");
-                StartCoroutine("BossSpawn");
+                bossPrefabs.gameObject.SetActive(true);
+                // StartCoroutine("BossSpawn");
                 break;
 
             }
@@ -43,12 +44,12 @@ public class EnemySpawner : MonoBehaviour
 
     }
 
-    private IEnumerator BossSpawn()
+    /*private IEnumerator BossSpawn()
     {
         
         Instantiate(bossPrefabs, new Vector3(0.32f, 11.63f, 0), Quaternion.identity);
         yield return null;
-    }
+    }*/
 
     
 }
