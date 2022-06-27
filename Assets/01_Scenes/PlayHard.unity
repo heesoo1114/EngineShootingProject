@@ -278,8 +278,8 @@ MonoBehaviour:
   StageData: {fileID: 11400000, guid: 7d3d477a9e3e9234e9aade30f36d00c0, type: 2}
   enemyFactory: {fileID: 4524708647028699757, guid: eaaff3527b07ad64bb23b0c547059438, type: 3}
   bossPrefabs: {fileID: 1732369020}
-  spawnTime: 0.3
-  maxCount: 100
+  spawnTime: 0.15
+  maxCount: 400
 --- !u!4 &182356232
 Transform:
   m_ObjectHideFlags: 0
@@ -1673,7 +1673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f35b17a70e3ffee4e9d3c32589e85ef3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireTime: 0.3
+  fireTime: 0.25
   bulletFactory: {fileID: 7467936899503178832, guid: 011ec27dc9f2732489d554e76fcbd676, type: 3}
 --- !u!1 &636485255
 GameObject:
@@ -4203,7 +4203,7 @@ GameObject:
   - component: {fileID: 1732369027}
   m_Layer: 0
   m_Name: Boss
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

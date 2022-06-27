@@ -20,11 +20,11 @@ public class MiddleController : MonoBehaviour
         transform.localRotation = Quaternion.Euler(0,0, angle);
         if(Input.GetKey(KeyCode.N))
         {
-            angle += 2f;
+            angle += 2.5f;
         }
         else if(Input.GetKey(KeyCode.M))
         {
-            angle -= 2f;
+            angle -= 2.5f;
         }
 
         transform.position = Target.position;
