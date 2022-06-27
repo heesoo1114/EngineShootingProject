@@ -17,17 +17,16 @@ public class MiddleController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        if(Input.GetKey(KeyCode.M))
+        transform.localRotation = Quaternion.Euler(0,0, angle);
+        if(Input.GetKey(KeyCode.N))
         {
-            transform.Rotate(0,0, -angle);
+            angle += 2f;
         }
-        else if(Input.GetKey(KeyCode.N))
+        else if(Input.GetKey(KeyCode.M))
         {
-            transform.Rotate(0,0, +angle);
+            angle -= 2f;
         }
 
         transform.position = Target.position;
-
     }
 }

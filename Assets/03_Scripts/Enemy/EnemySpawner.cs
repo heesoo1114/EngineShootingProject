@@ -13,6 +13,10 @@ public class EnemySpawner : MonoBehaviour
 
     private void Awake()
     {
+        
+    }
+    private void Start()
+    {
         StartCoroutine("EnemySpawn");
     }
 
@@ -26,6 +30,7 @@ public class EnemySpawner : MonoBehaviour
         {
             float positionX = Random.Range(StageData.LimitMin.x, StageData.LimitMax.x);
             GameObject enemy = Instantiate(enemyFactory, new Vector3(positionX, StageData.LimitMax.y + 1.0f, 0.0f), Quaternion.identity);
+            
             // enemy.transform.position = transform.position;
 
             enemyCount++;
@@ -33,6 +38,7 @@ public class EnemySpawner : MonoBehaviour
             {
                 
                 StopCoroutine("EnemySpawn");
+                gameObject.SetActive(false);
                 bossPrefabs.gameObject.SetActive(true);
                 // StartCoroutine("BossSpawn");
                 break;

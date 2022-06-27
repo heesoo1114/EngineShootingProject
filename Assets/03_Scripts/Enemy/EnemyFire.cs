@@ -63,6 +63,7 @@ public class EnemyFire : MonoBehaviour
             a = 90 / 5;
             for (int i = a; i < 180; i += a)
             {
+                
                 Instantiate(rainbowPrefabs, transform.position, Quaternion.Euler(0, 0, 90 + i));
             }
 
